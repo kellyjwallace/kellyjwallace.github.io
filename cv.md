@@ -4,7 +4,7 @@
 <div class="blurb">
 <h1>Curriculum Vitae</h1>
 
-<hr>
+<hr size="30">
 <p><b><font color="SlateBlue">Education</font></b><br><br>
 	
 <b>Doctor of Philosophy Program in Ecology, Evolution, and Behavior</b> <br>
@@ -34,7 +34,8 @@
 
 <hr>
 <p><b><font color="SlateBlue">Publications</font></b><br><br>
-Cryptic sexual dimorphism in spatial memory and hippocampal oxytocin receptors in prairie voles <i>(Microtus ochrogaster)</i> (2017) M.A. Rice, L.E. Hobbs,<b> K.J. Wallace</b>, A.G. Ophir. <i>Hormones and Behavior</i> 95: 94–102
+Cryptic sexual dimorphism in spatial memory and hippocampal oxytocin receptors in prairie voles <i>(Microtus ochrogaster)</i> (2017) M.A. Rice, L.E. Hobbs,<b> K.J. Wallace</b>, A.G. Ophir. <i>Hormones and Behavior</i> 95: 94–102<br><br>
+Sex differences in cognitive performance, style and domain relationships in mosquitofish <i>(Gambusia affinis)</i> (2019) <b>K.J. Wallace</b>, R.T. Rausch, M. E.  Ramsey,  M. E. Cummings (in review)
 
 	
 	
