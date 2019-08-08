@@ -106,6 +106,12 @@ American Society of Naturalists<br><br>
 <i>For each Teaching Asistant position I led weekly discussion sections, graded essay exams, and led review sessions. For Animal Behavior I mentored student groups on semester-long research projects which included video analysis training, R coding workshops, and term paper writing critiques.</i><br>
 <b>Grading Assistant:</b> Bio 373 Ecology<br><br>
 
+<b>Student Training</b><br>
+<i>I have trained 27 undergraduate and two high school volunteers (including thirteen female students and eleven student of different racial minorities) on skills including experimental design, coding, fish husbandry, electronic circuitry, and data analysis.</i> <br><br>
+<b>R Analysis for Behavioral Data, Teaching Resource</b> (2019)<br>
+<i>I created a tutorial on the basics of R analysis for behavioral data that was presented to 92 students in the Bio359K Spring 2019 Animal Behavior course.</i> 
+
+
 
 <br><br>
 
