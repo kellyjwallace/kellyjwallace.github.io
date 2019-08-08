@@ -4,8 +4,7 @@
 <div class="blurb">
 <h1>Curriculum Vitae</h1>
 
-----
-****
+<hr>
 <p><b><font color="SlateBlue">Education</font></b><br>
 <br>
 <b>Doctor of Philosophy Program in Ecology, Evolution, and Behavior</b> <br>
@@ -15,8 +14,7 @@
 <em> Cornell University </em> Undergraduate Research ADvisor: Dr. Alex Ophir <br>
 </p>
 
-----
-****
+<hr>
 <p><b><font color="SlateBlue">Awards</font></b><br>
 <br>
 <b><i>Ford Foundation 2017 Predoctoral Fellowship </i></b>(National Academies of Sciences, Engineering, and Medicine $72,000) 2017-2019<br><br>
