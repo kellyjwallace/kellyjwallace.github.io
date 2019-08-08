@@ -5,7 +5,7 @@
 <h1>Curriculum Vitae</h1>
 
 <hr style="height:9px;color:#84949B">
-<p><b><font color="lightcyan4">Education</font></b><br><br>
+<p><b><font color="darkslateblue">Education</font></b><br><br>
 	
 <b>Doctor of Philosophy Program in Ecology, Evolution, and Behavior</b> <br>
 <em> University of Texas at Austin </em> PhD Advisors: Dr. Hans A Hofmann & Dr. Michael J Ryan <br><br>
@@ -15,7 +15,7 @@
 </p>
 
 <hr style="height:9px;color:#84949B">
-<p><b><font color=#46A0C6>Awards</font></b><br><br>
+<p><b><font color="darkslateblue">Awards</font></b><br><br>
 	
 <b><i>Ford Foundation 2017 Predoctoral Fellowship </i></b>(National Academies of Sciences, Engineering, and Medicine $72,000) 2017-2019<br><br>
 <b><i>BEACON Student Travel Fund Award </i></b>(BEACON Center for Evolution in Action, $500) 2019<br><br>
@@ -33,13 +33,13 @@
 </p>
 
 <hr style="height:9px;color:#84949B">
-<p><b><font color="lightcyan4">Publications</font></b><br><br>
+<p><b><font color="darkslateblue">Publications</font></b><br><br>
 Cryptic sexual dimorphism in spatial memory and hippocampal oxytocin receptors in prairie voles <i>(Microtus ochrogaster)</i> (2017) M.A. Rice, L.E. Hobbs,<b> K.J. Wallace</b>, A.G. Ophir. <i>Hormones and Behavior</i> 95: 94–102<br><br>
 Sex differences in cognitive performance, style and domain relationships in mosquitofish <i>(Gambusia affinis)</i> (2019) <b>K.J. Wallace</b>, R.T. Rausch, M. E.  Ramsey,  M. E. Cummings (in review)<br><br>
 </p>
 
 <hr style="height:9px;color:#84949B">
-<p><b><font color="lightcyan4">Skills</font></b><br><br>
+<p><b><font color="darkslateblue">Skills</font></b><br><br>
 <b>Computer Techniques:</b> Python, ffmpeg, R & RStudio, basic HTML, Command Line, Jenkins continuous integration task manager, ImageJ, basic electronic circuitry, Github, Alibi Security<br><br>
 <b>Laboratory Techniques:</b> Cryostat slicing, Cresyl Violet staining, Peak Scanner, Leica light and fluorescence microscopy, decapitation and brain extraction (fish), blood hormone collection<br><br>
 <b>Behavioral Techniques:</b> VIE & Bead Tagging, fish husbandry & aquatic facility care, mate choice, scototaxis, sociality, morris water maze, detour reaching task, shuttle-box assay <br><br>
