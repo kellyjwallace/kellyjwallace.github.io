@@ -16,7 +16,7 @@
 		</nav>
 		<div class="container">
     		<div class="blurb">
-        		<h1>Hi there, I'm Hank Quinlan!</h1>
+        		<h1>Kelly J Wallace</h1>
 				<p>Fish biologist from <em>Austin, TX</em> hacker babe <a href="/about">Most recent publication</a></p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
