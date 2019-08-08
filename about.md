@@ -5,7 +5,7 @@
 <h1>About</h1>
 cats and stuff
 
-![kitpic](/images/Jack1.jpg)
+![kitpic](Jack1.jpg)
 
 	
 <a href="../">Home</a>
