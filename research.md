@@ -5,7 +5,7 @@
 <h1>Research</h1>
 <br><hr style="height:9px;color:#84949B">
 
-<p style="color:darkslateblue"><em> I'm interested in understanding how an individual's social environment influences how they behave and how they make decisions. I have investigated this question across three model systems known for their dynamic and varied social interactions, well-established literature on the neural and hormonal mechanisms of social behavior and decision-making, and a broad eco-evolutionary framework to understand how animals navigate their social environment: </em></p> <br><br>
+<p style="color:darkslateblue"><em> I'm interested in understanding how an individual's social environment influences how they behave and how they make decisions. I have investigated this question across three model systems: cichlid fish, mosquitofish, and prairie voles. These three systems are well known for their dynamic and varied social interactions, a historical foundation on the neural and hormonal mechanisms of social behavior and decision-making, and an integration of across broad eco-evolutionary frameworks. </em></p> <br><br>
 
 <p style="text-align:center;font-size:120%"><b><font color="darkslateblue"><i>Astatotilapia burtoni               Gambusia affinis               Microtus ochrogaster</i></font></b><br></p>
 	
