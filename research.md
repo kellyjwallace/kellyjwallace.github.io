@@ -1,8 +1,3 @@
-
----
-layout: default
----
-
 <body>
 		
 <div class="container">
