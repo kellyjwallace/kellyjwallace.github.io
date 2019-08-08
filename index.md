@@ -6,8 +6,7 @@
   
   [Link Text](https://www.researchgate.net/profile/Kelly_Wallace2)
   
-  	<body>
-		<nav>
+<nav>
     		<ul>
         		<li><a href="/">Home</a></li>
 	        	<li><a href="/about">About</a></li>
@@ -27,6 +26,5 @@
         		<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
 			</ul>
 		</footer>
-	</body>
   
 </html>
