@@ -1,6 +1,4 @@
----
-vimeoId: 343679289
----
+
 <button type="button" class="btn btn-primary">Research</button>
 <a href="{{/research.html}}" class="btn">Research</a>
 
@@ -14,9 +12,6 @@ vimeoId: 343679289
 </div><!-- /.container -->
 
 <img src="/images/Bigbend2.JPG">
-
-
-{% include vimeoPlayer.html id=page.vimeoId %}
 
 <footer>
 <ul>
