@@ -6,6 +6,9 @@
 <p>Neutoethologist & Behavioral Ecologist in <em>Austin, TX</em> <a href="/about">Most recent publication</a></p>
 </div><!-- /.blurb -->
 </div><!-- /.container -->
+
+<img src="/images/Bigbend2.JPG">
+
 		
 <nav>
 <ul>
