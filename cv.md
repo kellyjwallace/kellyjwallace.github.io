@@ -5,7 +5,7 @@
 <h1>Curriculum Vitae</h1>
 
 <hr style="height:9px;color:#84949B">
-<b><font color="darkslateblue"><p style="font-size:28px">Education</font></b></p><br><br>
+<b><font color="darkslateblue" size = "+1">Education</font></b></p><br><br>
 	
 <b>Doctor of Philosophy Program in Ecology, Evolution, and Behavior</b> <br>
 <em> University of Texas at Austin </em> PhD Advisors: Dr. Hans A Hofmann & Dr. Michael J Ryan <br><br>
