@@ -1,6 +1,4 @@
-<head>
-<title>Kelly Wallace, a literal fish</title>
-</head>
+
 <body>
 		
 <div class="container">
