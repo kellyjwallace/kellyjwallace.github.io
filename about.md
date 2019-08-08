@@ -5,7 +5,7 @@
 <h1>About</h1>
 cats and stuff
 
-<img src="../images/Jack1.jpg" alt="Jack1" class="inline"/>
+![jack2](/images/Jack1.JPG)
 
 	
 <a href="../">Home</a>
