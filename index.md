@@ -1,11 +1,12 @@
 <html>
+	<head>
+	<title>Kelly J Wallae, a literal fish</title>
+	<!-- link to main stylesheet -->
+	<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
 <body>
-<title>Kelly J Wallae, a literal fish</title>
-<!-- link to main stylesheet -->
-<link rel="stylesheet" type="text/css" href="/css/main.css">
+  [Link Text](https://www.researchgate.net/profile/Kelly_Wallace2)	
 </body>
-  
-  [Link Text](https://www.researchgate.net/profile/Kelly_Wallace2)
   
 <nav>
     		<ul>
