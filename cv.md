@@ -4,7 +4,7 @@
 <div class="blurb">
 <h1>Curriculum Vitae</h1>
 	
-<p><b><font color="Indigo">Education</font></b><br>
+<p><b><font color="SlateBlue">Education</font></b><br>
 <br>
 <b>Doctor of Philosophy Program in Ecology, Evolution, and Behavior</b> <br>
 <em> University of Texas at Austin </em> PhD Advisors: Dr. Hans A Hofmann & Dr. Michael J Ryan <br>
@@ -13,7 +13,7 @@
 <em> Cornell University </em> Undergraduate Research ADvisor: Dr. Alex Ophir <br>
 </p>
 
-<p><b><font color="Indigo">Awards</font></b><br>
+<p><b><font color="SlateBlue">Awards</font></b><br>
 <br>
 <b><em>Ford Foundation 2017 Predoctoral Fellowship <em> </b> (National Academies of Sciences, Engineering, and Medicine $72,000) 2017-2019<br><br>
 <b><em>BEACON Student Travel Fund Award <em> </b>(BEACON Center for Evolution in Action, $500) 2019<br><br>
