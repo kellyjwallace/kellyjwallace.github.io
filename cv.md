@@ -99,6 +99,17 @@ American Society of Naturalists<br><br>
 <br><br>
 
 
+<br><hr style="height:9px;color:#84949B">
+<p style="text-align:right;font-size:180%"><b><font color="darkslateblue">Teaching</font></b><br></p>
+<b>Teaching Assistant:</b> Bio370 Evolution<br><br>
+<b>Teaching Assistant:</b> Bio 359K Animal Behavior<br><br>
+<i>For each Teaching Asistant position I led weekly discussion sections, graded essay exams, and led review sessions. For Animal Behavior I mentored student groups on semester-long research projects which included video analysis training, R coding workshops, and term paper writing critiques.</i> 
+<b>Grading Assistant:</b> Bio 373 Ecology<br><br>
+
+
+<br><br>
+
+
 	   
 	   
 	
