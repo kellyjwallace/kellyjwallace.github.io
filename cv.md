@@ -21,7 +21,7 @@ Undergraduate Research Advisor: Dr. Alex Ophir <br><br>
 	
 <b><i>Ford Foundation 2017 Predoctoral Fellowship </i></b><br>National Academies of Sciences, Engineering, and Medicine $72,000 <b>2017-2019</b><br><br>
 <b><i>BEACON Student Travel Fund Award </i></b><br>BEACON Center for Evolution in Action, $500 <b>2019</b><br><br>
-<b><i>1st Place Student Poster Award </i></b><br>Ecological Integration Symposium, Texas A&M, $100 <b>2019</b><br><br>
+<b><i>First Place Student Poster Award </i></b><br>Ecological Integration Symposium, Texas A&M, $100 <b>2019</b><br><br>
 <b><i>IB Doctoral Dissertation Improvement Grant </i></b><br>University of Texas at Austin, $8,000 <b>2019</b><br><br>
 <b><i>IB Joint Graduate Program Travel Award </i></b><br>University of Texas at Austin, $580 <b>2018</b><br><br>
 <b><i>Best Student Presentation Award </i></b><br>7th Meeting of Poeciliid Biologists <b>2017</b><br><br>
