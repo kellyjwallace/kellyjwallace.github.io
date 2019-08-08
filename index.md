@@ -1,8 +1,6 @@
 <html>
 <body>
-<h1>Kelly J Wallace</h1>
-<p>August 2019</p>
-
+<title>Kelly J Wallae, a literal fish</title>
 <!-- link to main stylesheet -->
 <link rel="stylesheet" type="text/css" href="/css/main.css">
 </body>
