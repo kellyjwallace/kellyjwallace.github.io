@@ -31,20 +31,20 @@ Undergraduate Research Advisor: Dr. Alex Ophir <br><br>
 <b><i>Diversity Travel Award </i></b><br>Animal Behavior Society, $300 <b>2016</b><br><br>
 <b><i>EEB Startup Fellowship </i></b><br>University of Texas at Austin, $2,000 <b>2016</b><br><br>
 <b><i>Graduate School Mentoring Fellowship </i></b><br>University of Texas at Austin, $36,000 <b>2015</b><br><br>
-<b><i>Charles H. Turner Award </i></b><br>Animal Behavior Society <b>2014</b><br><br>
+<b><i>Charles H. Turner Award </i></b><br>Animal Behavior Society <b>2014</b><br>
 
 
 <br><hr style="height:9px;color:#84949B">
 <p style="text-align:right;font-size:180%"><b><font color="darkslateblue">Publications</font></b><br></p>
 Cryptic sexual dimorphism in spatial memory and hippocampal oxytocin receptors in prairie voles <i>(Microtus ochrogaster)</i> (2017) M.A. Rice, L.E. Hobbs,<b> K.J. Wallace</b>, A.G. Ophir. <i>Hormones and Behavior</i> 95: 94–102<br><br>
-Sex differences in cognitive performance, style and domain relationships in mosquitofish <i>(Gambusia affinis)</i> (2019) <b>K.J. Wallace</b>, R.T. Rausch, M. E.  Ramsey,  M. E. Cummings (in review)<br><br>
+Sex differences in cognitive performance, style and domain relationships in mosquitofish <i>(Gambusia affinis)</i> (2019) <b>K.J. Wallace</b>, R.T. Rausch, M. E.  Ramsey,  M. E. Cummings (in review)<br>
 
 
 <br><hr style="height:9px;color:#84949B">
 <p style="text-align:right;font-size:180%"><b><font color="darkslateblue">Skills</font></b><br></p>
 <b>Computer Techniques:</b> Python, ffmpeg, R & RStudio, basic HTML, Command Line, Jenkins continuous integration task manager, ImageJ, basic electronic circuitry, Github, Alibi Security<br><br>
 <b>Laboratory Techniques:</b> Cryostat slicing, Cresyl Violet staining, Peak Scanner, Leica light and fluorescence microscopy, decapitation and brain extraction (fish), blood hormone collection<br><br>
-<b>Behavioral Techniques:</b> VIE & Bead Tagging, fish husbandry & aquatic facility care, mate choice, scototaxis, sociality, morris water maze, detour reaching task, shuttle-box assay <br><br>
+<b>Behavioral Techniques:</b> VIE & Bead Tagging, fish husbandry & aquatic facility care, mate choice, scototaxis, sociality, morris water maze, detour reaching task, shuttle-box assay <br>
 
 <br><hr style="height:9px;color:#84949B">
 <p style="text-align:right;font-size:180%"><b><font color="darkslateblue">Manuscripts Reviewed</font></b><br></p>
@@ -86,7 +86,7 @@ Talk: <i>Stress and cognition: an improvement on a numerosity learning assay</i>
 <b>Cornell Undergraduate Research Board Fall Forum, Cornell University, 2014</b><br>
 Poster: <i>Sex differences in spatial memory, hippocampal volume, and OTR Expression</i><br><br>
 <b>Annual Meeting of the Animal Behavior Society, Princeton University, 2014</b><br>
-Poster: <i>Sex differences in spatial memory, hippocampal volume, and OTR Expression</i><br><br>
+Poster: <i>Sex differences in spatial memory, hippocampal volume, and OTR Expression</i><br>
 
 
 <br><hr style="height:9px;color:#84949B">
@@ -95,8 +95,7 @@ Animal Behavior Society<br><br>
 Society for Behavioral Neuroendocrinology<br><br>
 BEACON Center for Evolution in Action<br><br>
 Ford Fellows Foundation<br><br>
-American Society of Naturalists<br><br>
-<br><br>
+American Society of Naturalists<br>
 
 
 <br><hr style="height:9px;color:#84949B">
@@ -104,7 +103,7 @@ American Society of Naturalists<br><br>
 <b>Teaching Assistant:</b> Bio370 Evolution<br><br>
 <b>Teaching Assistant:</b> Bio 359K Animal Behavior<br><br>
 <i>For each Teaching Asistant position I led weekly discussion sections, graded essay exams, and led review sessions. For Animal Behavior I mentored student groups on semester-long research projects which included video analysis training, R coding workshops, and term paper writing critiques.</i><br>
-<b>Grading Assistant:</b> Bio 373 Ecology<br><br>
+<b>Grading Assistant:</b> Bio 373 Ecology<br>
 
 <b>Student Training</b><br>
 <i>I have trained 27 undergraduate and two high school volunteers (including thirteen female students and eleven student of different racial minorities) on skills including experimental design, coding, fish husbandry, electronic circuitry, and data analysis.</i> <br><br>
