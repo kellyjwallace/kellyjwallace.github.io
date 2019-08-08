@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   
-  <section class="page-header">
-      <a href="{{/research.html}}" class="btn">Research</a>
-</section>
-  
   <head>
 
     {% if site.google_analytics %}
@@ -25,7 +21,14 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-
+  <section class="page-header">
+      <a href="{{/about.html}}" class="btn">About</a>
+      <a href="{{/research.html}}" class="btn">Research</a>
+      <a href="{{/cv.html}}" class="btn">CV</a>
+      <a href="{{/communication.html}}" class="btn">Media & Communication</a>
+      <a href="{{/outreach.html}}" class="btn">Outreach & Diversity</a>
+</section>
+  
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
