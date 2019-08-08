@@ -3,26 +3,16 @@
 <div class="container">
 <div class="blurb">
 <h1>Kelly J Wallace</h1>
-<p>Neutoethologist & Behavioral Ecologist in <em>Austin, TX</em> <a href="/about">Most recent publication</a></p>
+<p>Neuroethologist & Behavioral Ecologist in <em>Austin, TX</em> <a href="/about">Most recent publication</a></p>
+<hr style="height:9px;color:#84949B">
 </div><!-- /.blurb -->
 </div><!-- /.container -->
 
 <img src="/images/Bigbend2.JPG">
 
-		
-<nav>
-<ul>
-<li><a href="/research.html">Research</a></li>
-<li><a href="/about.html">About</a></li>
-<li><a href="/cv.html">Curriculum Vitae</a></li>
-<li><a href="/outreach.html">Outreach</a></li>
-</ul>
-</nav>
 
-<footer>
-<ul>
-<li><a href="mailto:kwallace@utexas.edu">email</a></li>
-<li><a href="https://www.researchgate.net/profile/Kelly_Wallace2">ResearchGate Profile</a></li>
-</ul>
-</footer>
+<br><br>
+<a href="mailto:kwallace@utexas.edu"><i>contact me via email</i></a><br><br>
+<a href="https://www.researchgate.net/profile/Kelly_Wallace2"><i>view my ResearchGate profile</i></a>
+
 
