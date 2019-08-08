@@ -1,8 +1,8 @@
 <html>
-	<head>
-		<title>Kelly Wallace, a literal fish</title>
-	</head>
-	<body>
+<head>
+<title>Kelly Wallace, a literal fish</title>
+</head>
+<body>
 		
 <div class="container">
 <div class="blurb">
@@ -11,20 +11,20 @@
 </div><!-- /.blurb -->
 </div><!-- /.container -->
 		
-		<nav>
-    		<ul>
-        		<li><a href="/">Research</a></li>
-	        	<li><a href="/about">About</a></li>
-        		<li><a href="/cv">CV</a></li>
-        		<li><a href="/blog">Outreach</a></li>
-    		</ul>
-		</nav>
+<nav>
+<ul>
+<li><a href="/">Research</a></li>
+<li><a href="/about">About</a></li>
+<li><a href="/cv">CV</a></li>
+<li><a href="/blog">Outreach</a></li>
+</ul>
+</nav>
 
-		<footer>
-    		<ul>
-        		<li><a href="mailto:kwallace@utexas.edu">email</a></li>
-        		<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
-			</ul>
-		</footer>
+<footer>
+<ul>
+<li><a href="mailto:kwallace@utexas.edu">email</a></li>
+<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
+</ul>
+</footer>
   
 </html>
