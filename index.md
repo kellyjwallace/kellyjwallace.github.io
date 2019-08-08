@@ -19,6 +19,18 @@
 </ul>
 </nav>
 
+<div class="embed-container">
+  <iframe
+      src="https://player.vimeo.com/video/343679289"
+      width="500"
+      height="281"
+      frameborder="0"
+      webkitallowfullscreen
+      mozallowfullscreen
+      allowfullscreen>
+  </iframe>
+</div>
+
 <footer>
 <ul>
 <li><a href="mailto:kwallace@utexas.edu">email</a></li>
