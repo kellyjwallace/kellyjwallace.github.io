@@ -4,7 +4,7 @@
 <div class="blurb">
 <h1>Curriculum Vitae</h1>
 
-<hr size="60">
+<hr style="height:3px">
 <p><b><font color="SlateBlue">Education</font></b><br><br>
 	
 <b>Doctor of Philosophy Program in Ecology, Evolution, and Behavior</b> <br>
