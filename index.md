@@ -2,6 +2,8 @@
 vimeoId: 343679289
 ---
 
+<a href="{{/research.html}}" class="btn">Research</a>
+
 <body>
 		
 <div class="container">
