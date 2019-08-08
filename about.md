@@ -3,6 +3,9 @@
 <div class="container">
 <div class="blurb">
 <h1>About</h1>
-<p> cats and stuff <a href="/about">cat photo maybe</a></p>
+cats and stuff
+
+![kitpic](/images/Jack1.jpg)
+
 	
 <a href="../">Home</a>

@@ -3,7 +3,7 @@
 <div class="container">
 <div class="blurb">
 <h1>Kelly J Wallace</h1>
-<p>Fish biologist from <em>Austin, TX</em> hacker babe <a href="/about">Most recent publication</a></p>
+<p>Neutoethologist & Behavioral Ecologist in <em>Austin, TX</em> <a href="/about">Most recent publication</a></p>
 </div><!-- /.blurb -->
 </div><!-- /.container -->
 		
@@ -12,7 +12,7 @@
 <li><a href="/research.html">Research</a></li>
 <li><a href="/about.html">About</a></li>
 <li><a href="/cv.html">Curriculum Vitae</a></li>
-<li><a href="/Outreach.html">Outreach</a></li>
+<li><a href="/outreach.html">Outreach</a></li>
 </ul>
 </nav>
 
