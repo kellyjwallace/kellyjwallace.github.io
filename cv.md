@@ -89,6 +89,15 @@ Poster: <i>Sex differences in spatial memory, hippocampal volume, and OTR Expres
 Poster: <i>Sex differences in spatial memory, hippocampal volume, and OTR Expression</i><br><br>
 
 
+<hr style="height:9px;color:#84949B">
+<b><font color="darkslateblue">Affiliations</font></b><br><br>
+Animal Behavior Society<br><br>
+Society for Behavioral Neuroendocrinology<br><br>
+BEACON Center for Evolution in Action<br><br>
+Ford Fellows Foundation<br><br>
+American Society of Naturalists<br><br>
+<br><br>
+
 
 	   
 	   
