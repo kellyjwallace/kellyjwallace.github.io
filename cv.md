@@ -5,7 +5,7 @@
 <h1>Curriculum Vitae</h1>
 
 <br><hr style="height:9px;color:#84949B">
-<p align="right"><b><font color="darkslateblue">Education</font></b><br><br></p>
+<p style="text-align:right;font-size:200%"><b><font color="darkslateblue">Education</font></b><br><br></p>
 	
 <b>Doctor of Philosophy Program in Ecology, Evolution, and Behavior</b> <br>
 <em> University of Texas at Austin </em> <br>
