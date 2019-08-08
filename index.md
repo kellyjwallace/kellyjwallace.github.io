@@ -9,10 +9,10 @@
 		
 <nav>
 <ul>
-<li><a href="/research.md">Research</a></li>
-<li><a href="/about.md">About</a></li>
-<li><a href="/cv.md">Curriculum Vitae</a></li>
-<li><a href="/Outreach.md">Outreach</a></li>
+<li><a href="/research">Research</a></li>
+<li><a href="/about">About</a></li>
+<li><a href="/cv">Curriculum Vitae</a></li>
+<li><a href="/Outreach">Outreach</a></li>
 </ul>
 </nav>
 
