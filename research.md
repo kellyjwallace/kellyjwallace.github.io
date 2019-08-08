@@ -4,3 +4,5 @@
 <div class="blurb">
 <h1>Research</h1>
 <p>How does the social environment influence cognition? <em>Austin, TX</em> Gambusia affinis and Astatotilapia burtoni <a href="/about"> Hofmann Lab website</a></p>
+	
+<a href="../">Home</a>
