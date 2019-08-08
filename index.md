@@ -1,4 +1,3 @@
-<html>
 <head>
 <title>Kelly Wallace, a literal fish</title>
 </head>
@@ -26,5 +25,4 @@
 <li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
 </ul>
 </footer>
-  
-</html>
+
