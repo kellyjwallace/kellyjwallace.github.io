@@ -4,7 +4,7 @@
 <div class="blurb">
 <h1>Curriculum Vitae</h1>
 
-<hr size="30">
+<hr size="60">
 <p><b><font color="SlateBlue">Education</font></b><br><br>
 	
 <b>Doctor of Philosophy Program in Ecology, Evolution, and Behavior</b> <br>
@@ -38,5 +38,5 @@ Cryptic sexual dimorphism in spatial memory and hippocampal oxytocin receptors i
 Sex differences in cognitive performance, style and domain relationships in mosquitofish <i>(Gambusia affinis)</i> (2019) <b>K.J. Wallace</b>, R.T. Rausch, M. E.  Ramsey,  M. E. Cummings (in review)
 
 	
-	
+<br><br><br>	
 <a href="../">Home</a>
