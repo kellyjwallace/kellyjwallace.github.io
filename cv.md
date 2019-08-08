@@ -3,7 +3,7 @@
 <div class="container">
 <div class="blurb">
 <h1>Curriculum Vitae</h1>
-<p><b><font size="+4"><font color="red">Education</font></b> <br>
+<p><b><font size="+4">Education</font></b> <br>
 <br>
 <b>Doctor of Philosophy Program in Ecology, Evolution, and Behavior</b> <br>
 	<em> italicized words </em> non italicsed words <br>	
