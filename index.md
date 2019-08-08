@@ -15,15 +15,6 @@ vimeoId: 343679289
 
 <img src="/images/Bigbend2.JPG">
 
-		
-<nav>
-<ul>
-<li><a href="/research.html">Research</a></li>
-<li><a href="/about.html">About</a></li>
-<li><a href="/cv.html">Curriculum Vitae</a></li>
-<li><a href="/outreach.html">Outreach</a></li>
-</ul>
-</nav>
 
 {% include vimeoPlayer.html id=page.vimeoId %}
 
