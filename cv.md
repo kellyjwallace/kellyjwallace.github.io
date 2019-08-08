@@ -15,7 +15,7 @@
 
 <p><b><font color="SlateBlue">Awards</font></b><br>
 <br>
-<i><b>Ford Foundation 2017 Predoctoral Fellowship </i></b>(National Academies of Sciences, Engineering, and Medicine $72,000) 2017-2019<br><br>
+<b><i>Ford Foundation 2017 Predoctoral Fellowship </i></b>(National Academies of Sciences, Engineering, and Medicine $72,000) 2017-2019<br><br>
 <b><i>BEACON Student Travel Fund Award </i></b>(BEACON Center for Evolution in Action, $500) 2019<br><br>
 <b><i>1st Place Student Poster Award </i></b>(Ecological Integration Symposium, Texas A&M, $100) 2019<br><br>
 <b><i>IB Doctoral Dissertation Improvement Grant </i></b>(University of Texas at Austin, $8,000) 2019<br><br>
