@@ -47,7 +47,7 @@ Sex differences in cognitive performance, style and domain relationships in mosq
 <b>Behavioral Techniques:</b> VIE & Bead Tagging, fish husbandry & aquatic facility care, mate choice, scototaxis, sociality, morris water maze, detour reaching task, shuttle-box assay <br><br>
 
 <br><hr style="height:9px;color:#84949B">
-<p style="text-align:right;font-size:200%"><b><font color="darkslateblue">Manuscripts Reviewed</font></b><br><br></p>
+<p style="text-align:right;font-size:180%"><b><font color="darkslateblue">Manuscripts Reviewed</font></b><br></p>
 Hormones and Behavior (1) Scientific Reports (1) Trends in Cognitive Sciences (1)<br><br>
 
 
