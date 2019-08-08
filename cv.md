@@ -35,8 +35,17 @@
 <hr style="height:9px>
 <p><b><font color="Turquoise4">Publications</font></b><br><br>
 Cryptic sexual dimorphism in spatial memory and hippocampal oxytocin receptors in prairie voles <i>(Microtus ochrogaster)</i> (2017) M.A. Rice, L.E. Hobbs,<b> K.J. Wallace</b>, A.G. Ophir. <i>Hormones and Behavior</i> 95: 94–102<br><br>
-Sex differences in cognitive performance, style and domain relationships in mosquitofish <i>(Gambusia affinis)</i> (2019) <b>K.J. Wallace</b>, R.T. Rausch, M. E.  Ramsey,  M. E. Cummings (in review)
+Sex differences in cognitive performance, style and domain relationships in mosquitofish <i>(Gambusia affinis)</i> (2019) <b>K.J. Wallace</b>, R.T. Rausch, M. E.  Ramsey,  M. E. Cummings (in review)<br><br>
+</p>
 
+<hr style="height:9px>
+<p><b><font color="Turquoise4">Skills</font></b><br><br>
+<b>Computer Techniques:</b> Python, ffmpeg, R & RStudio, Command Line, Jenkins continuous integration task manager, ImageJ, basic electronic circuitry, Alibi Security<br><br>
+<b>Laboratory Techniques:</b> Cryostat slicing, Cresyl Violet staining, Peak Scanner, Leica light and fluorescence microscopy, decapitation and brain extraction (fish), blood hormone collection<br><br>
+<b>Behavioral Techniques:</b> VIE & Bead Tagging, fish husbandry & aquatic facility care, mate choice, scototaxis, sociality, morris water maze, detour reaching task, shuttle-box assay <br><br>
+
+	   
+	   
 	
-<br><br><br>	
+<br><br>	
 <a href="../">Home</a>
