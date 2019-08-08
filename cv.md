@@ -11,10 +11,10 @@
 <em> University of Texas at Austin </em> PhD Advisors: Dr. Hans A Hofmann & Dr. Michael J Ryan <br><br>
 
 <b>Bachelor of Science in Biological Sciences,</b>Minor in Music, January 2015 <br>
-<em> Cornell University </em> Undergraduate Research ADvisor: Dr. Alex Ophir <br>
+<em> Cornell University </em> Undergraduate Research ADvisor: Dr. Alex Ophir <br><br>
 </p>
 
-<hr>
+<hr size="90">
 <p><b><font color="SlateBlue">Awards</font></b><br><br>
 	
 <b><i>Ford Foundation 2017 Predoctoral Fellowship </i></b>(National Academies of Sciences, Engineering, and Medicine $72,000) 2017-2019<br><br>
