@@ -5,18 +5,18 @@
 <h1>Curriculum Vitae</h1>
 
 <hr>
-<p><b><font color="SlateBlue">Education</font></b><br>
-<br>
+<p><b><font color="SlateBlue">Education</font></b><br><br>
+	
 <b>Doctor of Philosophy Program in Ecology, Evolution, and Behavior</b> <br>
-<em> University of Texas at Austin </em> PhD Advisors: Dr. Hans A Hofmann & Dr. Michael J Ryan <br>
-<br>
+<em> University of Texas at Austin </em> PhD Advisors: Dr. Hans A Hofmann & Dr. Michael J Ryan <br><br>
+
 <b>Bachelor of Science in Biological Sciences,</b>Minor in Music, January 2015 <br>
 <em> Cornell University </em> Undergraduate Research ADvisor: Dr. Alex Ophir <br>
 </p>
 
 <hr>
-<p><b><font color="SlateBlue">Awards</font></b><br>
-<br>
+<p><b><font color="SlateBlue">Awards</font></b><br><br>
+	
 <b><i>Ford Foundation 2017 Predoctoral Fellowship </i></b>(National Academies of Sciences, Engineering, and Medicine $72,000) 2017-2019<br><br>
 <b><i>BEACON Student Travel Fund Award </i></b>(BEACON Center for Evolution in Action, $500) 2019<br><br>
 <b><i>1st Place Student Poster Award </i></b>(Ecological Integration Symposium, Texas A&M, $100) 2019<br><br>
@@ -31,5 +31,11 @@
 <b><i>Graduate School Mentoring Fellowship </i></b>(University of Texas at Austin, $36,000) 2015<br><br>
 <b><i>Charles H. Turner Award </i></b>(Animal Behavior Society) 2014<br><br>
 </p>
+
+<hr>
+<p><b><font color="SlateBlue">Publications</font></b><br><br>
+Cryptic sexual dimorphism in spatial memory and hippocampal oxytocin receptors in prairie voles <i>(Microtus ochrogaster)</i> (2017) M.A. Rice, L.E. Hobbs,<b> K.J. Wallace</b>, A.G. Ophir. <i>Hormones and Behavior</i> 95: 94–102
+
+	
 	
 <a href="../">Home</a>
