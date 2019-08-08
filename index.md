@@ -22,7 +22,7 @@
 <footer>
 <ul>
 <li><a href="mailto:kwallace@utexas.edu">email</a></li>
-<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
+<li><a href="https://www.researchgate.net/profile/Kelly_Wallace2">ResearchGate Profile</a></li>
 </ul>
 </footer>
 
