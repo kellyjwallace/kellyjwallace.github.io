@@ -15,7 +15,7 @@
 </p>
 
 <hr style="height:9px;color:#84949B">
-<p><b><font color="darkslateblue">Awards</font></b><br><br>
+<p><b><font color="darkslateblue"><p style="font-size:40px">Awards</font></p></b><br><br>
 	
 <b><i>Ford Foundation 2017 Predoctoral Fellowship </i></b>(National Academies of Sciences, Engineering, and Medicine $72,000) 2017-2019<br><br>
 <b><i>BEACON Student Travel Fund Award </i></b>(BEACON Center for Evolution in Action, $500) 2019<br><br>
