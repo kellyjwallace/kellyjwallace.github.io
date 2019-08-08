@@ -10,11 +10,9 @@
 
 <img src="/images/Bigbend2.JPG">
 
-<footer>
-<ul>
-<br>
-	<a href="mailto:kwallace@utexas.edu"><i>contact me via email</i></a><br><br>
+
+<br><br>
+<a href="mailto:kwallace@utexas.edu"><i>contact me via email</i></a><br><br>
 <a href="https://www.researchgate.net/profile/Kelly_Wallace2"><i>view my ResearchGate profile</i></a>
-</ul>
-</footer>
+
 
