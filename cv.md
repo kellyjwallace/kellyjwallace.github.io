@@ -23,7 +23,7 @@
 <b><i>IB Doctoral Dissertation Improvement Grant </i></b>(University of Texas at Austin, $8,000) 2019<br><br>
 <b><i>IB Joint Graduate Program Travel Award </i></b>(University of Texas at Austin, $580) 2018<br><br>
 <b><i>Best Student Presentation Award </i></b>(7th Meeting of Poeciliid Biologists) 2017<br><br>
-<b>EcoLabs Research Grant </i></b>(Texas EcoLabs, $2,100) 2017<br><br>
+<b><i>EcoLabs Research Grant </i></b>(Texas EcoLabs, $2,100) 2017<br><br>
 <b><i>Graduate Dean's Prestigious Supplement </i></b>University of Texas at Austin, $3,000) 2017-2019<br><br>
 <b><i>Graduate School Continuing Fellowship </i></b>(University of Texas at Austin, $8,000) 2017<br><br>
 <b><i>Diversity Travel Award </i></b>(Animal Behavior Society, $300) 2016<br><br>
