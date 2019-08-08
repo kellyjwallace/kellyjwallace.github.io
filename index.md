@@ -1,7 +1,3 @@
-
-<button type="button" class="btn btn-primary">Research</button>
-<a href="{{/research.html}}" class="btn">Research</a>
-
 <body>
 		
 <div class="container">
