@@ -9,7 +9,7 @@ vimeoId: 343679289
 <div class="container">
 <div class="blurb">
 <h1>Kelly J Wallace</h1>
-<p>Neutoethologist & Behavioral Ecologist in <em>Austin, TX</em> <a href="/about">Most recent publication</a></p>
+<p>Neuroethologist & Behavioral Ecologist in <em>Austin, TX</em> <a href="/about">Most recent publication</a></p>
 </div><!-- /.blurb -->
 </div><!-- /.container -->
 
