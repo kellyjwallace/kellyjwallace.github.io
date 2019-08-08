@@ -13,8 +13,8 @@
 <footer>
 <ul>
 <br>
-<a href="mailto:kwallace@utexas.edu">Contact me via email</a><br><br>
-<a href="https://www.researchgate.net/profile/Kelly_Wallace2">View my ResearchGate profile</a>
+	<a href="mailto:kwallace@utexas.edu"><i>contact me via email</i></a><br><br>
+<a href="https://www.researchgate.net/profile/Kelly_Wallace2"><i>view my ResearchGate profile</i></a>
 </ul>
 </footer>
 
