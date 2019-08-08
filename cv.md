@@ -46,6 +46,50 @@ Sex differences in cognitive performance, style and domain relationships in mosq
 <b>Laboratory Techniques:</b> Cryostat slicing, Cresyl Violet staining, Peak Scanner, Leica light and fluorescence microscopy, decapitation and brain extraction (fish), blood hormone collection<br><br>
 <b>Behavioral Techniques:</b> VIE & Bead Tagging, fish husbandry & aquatic facility care, mate choice, scototaxis, sociality, morris water maze, detour reaching task, shuttle-box assay <br><br>
 
+<hr style="height:9px;color:#84949B">
+<b><font color="darkslateblue">Manuscripts Reviewed</font></b><br><br>
+Hormones and Behavior (1) Scientific Reports (1) Trends in Cognitive Sciences (1)<br><br>
+
+<hr style="height:9px;color:#84949B">
+<b><font color="darkslateblue">Presentations</font></b><br><br>
+
+<b>Society for Behavioral Neuroendocrinology, Indiana University, 2019</b><br>
+Poster: <i>Neuroendocrine basis of social competence & cognition in a highly social cichlid fish</i><br><br>
+<b>Spring Symposium in Behavioral Epigenetics, University of Texas at Austin, 2019</b><br>
+Poster: <i>Social Competence & Cognition in Dynamic Communities of a Highly Social Cichlid Fish</i><br><br>
+<b>Ecological Integration Symposium, Texas A&M University, 2019</b><br>
+Poster: <i>Social Competence & Cognition in Dynamic Communities of a Highly Social Cichlid Fish</i><br><br>
+<b>Conference of Ford Fellows, National Academy of Sciences, 2018</b><br>
+Talk: <i>Sex differences in cognitive style across domains in mosquitofish (Gambusia affinis)</i><br><br>
+<b>Science Under the Stars, Brackenridge Field Labs, 2018</b><br>
+Talk: <i>Fish are smarter than we think!</i><br><br>
+<b>Annual Meeting of the Animal Behavior Society, University of Wisconsin, 2018</b><br>
+Talk: <i>Sex differences in cognitive style across domains in mosquitofish (Gambusia affinis)</i><br><br>
+<b>Conference of Ford Fellows, National Academy of Sciences, 2018</b><br>
+Poster: <i>Comparative Cognition in Gambusia affinis</i><br><br>
+<b>Spring Symposium in Behavioral Epigenetics, University of Texas at Austin, 2018</b><br>
+Poster: <i>Comparative Cognition in Gambusia affinis</i><br><br>
+<b>Brain Behavior, and Evolution Seminar, University of Texas at Austin, 2018</b><br>
+Talk: <i>Comparative cognition in Gambusia affinis</i><br><br>
+<b>7th Meeting of Poeciliid Biologists, Oklahoma University, 2017</b><br>
+Talk: <i>Investigating individual variation in cognition and behavior in Gambusia affinis</i><br><br>
+<b>Brain Behavior, and Evolution Seminar, University of Texas at Austin, 2017</b><br>
+Talk: <i>Investigating individual variation in cognition</i><br><br>
+<b>BEACON Congress, Michigan State University, 2016</b><br>
+Poster: <i>Stress and cognition: an improvement on a numerosity learning assay</i><br><br>
+<b>Annual Meeting of the Animal Behavior Society, University of Missouri, 2016</b><br>
+Poster: <i>Stress and cognition: an improvement on a numerosity learning assay</i><br><br>
+<b>Evolution Meeting, University of Texas at Austin, 2016</b><br>
+Poster: <i>Stress and cognition: an improvement on a numerosity learning assay</i><br><br>
+<b>Integrative Biology Graduate Research Symposium, University of Texas at Austin, 2016</b><br>
+Talk: <i>Stress and cognition: an improvement on a numerosity learning assay</i><br><br>
+<b>Cornell Undergraduate Research Board Fall Forum, Cornell University, 2014</b><br>
+Poster: <i>Sex differences in spatial memory, hippocampal volume, and OTR Expression</i><br><br>
+<b>Annual Meeting of the Animal Behavior Society, Princeton University, 2014</b><br>
+Poster: <i>Sex differences in spatial memory, hippocampal volume, and OTR Expression</i><br><br>
+
+
+
 	   
 	   
 	
