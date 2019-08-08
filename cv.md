@@ -3,7 +3,8 @@
 <div class="container">
 <div class="blurb">
 <h1>Curriculum Vitae</h1>
-	
+
+----
 <p><b><font color="SlateBlue">Education</font></b><br>
 <br>
 <b>Doctor of Philosophy Program in Ecology, Evolution, and Behavior</b> <br>
