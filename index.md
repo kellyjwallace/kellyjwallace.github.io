@@ -4,6 +4,7 @@
 <div class="blurb">
 <h1>Kelly J Wallace</h1>
 <p>Neuroethologist & Behavioral Ecologist in <em>Austin, TX</em> <a href="/about">Most recent publication</a></p>
+
 </div><!-- /.blurb -->
 </div><!-- /.container -->
 
