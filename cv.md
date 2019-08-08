@@ -4,7 +4,7 @@
 <div class="blurb">
 <h1>Curriculum Vitae</h1>
 
-<hr style="height:3px">
+<hr style="height:9px">
 <p><b><font color="Turquoise4">Education</font></b><br><br>
 	
 <b>Doctor of Philosophy Program in Ecology, Evolution, and Behavior</b> <br>
@@ -14,7 +14,7 @@
 <em> Cornell University </em> Undergraduate Research ADvisor: Dr. Alex Ophir <br><br>
 </p>
 
-<hr size="90">
+<hr style="height:9px>
 <p><b><font color="Turquoise4">Awards</font></b><br><br>
 	
 <b><i>Ford Foundation 2017 Predoctoral Fellowship </i></b>(National Academies of Sciences, Engineering, and Medicine $72,000) 2017-2019<br><br>
@@ -32,7 +32,7 @@
 <b><i>Charles H. Turner Award </i></b>(Animal Behavior Society) 2014<br><br>
 </p>
 
-<hr>
+<hr style="height:9px>
 <p><b><font color="Turquoise4">Publications</font></b><br><br>
 Cryptic sexual dimorphism in spatial memory and hippocampal oxytocin receptors in prairie voles <i>(Microtus ochrogaster)</i> (2017) M.A. Rice, L.E. Hobbs,<b> K.J. Wallace</b>, A.G. Ophir. <i>Hormones and Behavior</i> 95: 94–102<br><br>
 Sex differences in cognitive performance, style and domain relationships in mosquitofish <i>(Gambusia affinis)</i> (2019) <b>K.J. Wallace</b>, R.T. Rausch, M. E.  Ramsey,  M. E. Cummings (in review)
