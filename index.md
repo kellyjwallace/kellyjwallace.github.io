@@ -12,8 +12,8 @@
 
 <footer>
 <ul>
-<li><a href="mailto:kwallace@utexas.edu">email</a></li>
-<li><a href="https://www.researchgate.net/profile/Kelly_Wallace2">ResearchGate Profile</a></li>
+<a href="mailto:kwallace@utexas.edu">email</a>
+<a href="https://www.researchgate.net/profile/Kelly_Wallace2">ResearchGate Profile</a>
 </ul>
 </footer>
 
