@@ -9,7 +9,7 @@ cats and stuff
 <img src="/images/Kelly1.jpg">
 <br><br>
 
-I grew up in Easton, Pennsylvania and did my undergraduate research at Cornell University. While at Cornell I sang and performed a cappella and also learned about behavioral ecology and neorbiology while working in the lab of Dr. Alex Ophir. After graduating, I joined the Ecology, Evolution, and PhD program at the UNiversity of Texas at Austin. When not putting fish through mazes you can usually find me camping around texas, playing the viola, or meticulously search for the best happy hours in Austin.
+I grew up in Easton, Pennsylvania and did my undergraduate research at Cornell University in Ithaca, New York. While at Cornell I sang a cappella and also learned about behavioral ecology and neorbiology while working on prairie voles in the lab of Dr. Alex Ophir. After graduating, I joined the Ecology, Evolution, and PhD program at the UNiversity of Texas at Austin. When not putting fish through mazes you can usually find me camping around texas, playing the viola, or meticulously search for the best happy hours in Austin.
 
 
 <img src="/images/aftereight1.jpg">
