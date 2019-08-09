@@ -18,6 +18,6 @@ vimeoId: 343679289
 
 
 {% include vimeoPlayer.html id=page.vimeoId %}
-
+<br>
 
 <br><br><a href="../">Home</a>
