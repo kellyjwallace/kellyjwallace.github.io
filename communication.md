@@ -11,7 +11,7 @@ vimeoId: 343679289
 	
 
 <img src="/images/SUTS1.jpg">
-<p><a href="https://scienceunderthestars.org/2018/08/20/sept-13-kelly-wallace/"> <b>Science under the Stars</b></a> hosts monthly public talks by graduate students, with children's games, local wildlife displays, and tours of Brackenridge Field Labs.</p> 
+<p><a href="https://scienceunderthestars.org/2018/08/20/sept-13-kelly-wallace/"> <b>Science under the Stars</b></a> hosts monthly public talks by graduate students, with children's games, local wildlife displays, and tours of Brackenridge Field Labs. (Talk: <i>Fish are smarter than we think!) </i></p> 
 
 <p> Blurb about UT Grad SChool Video Link</p><br>
 		
