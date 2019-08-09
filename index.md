@@ -6,8 +6,8 @@
 <p>Neuroethologist & Behavioral Ecologist in <em>Austin, TX</em> <br><br>
 <hr style="height:9px;color:#84949B"><br>	
 	
-<a href="/https://www.sciencedirect.com/science/article/pii/S0018506X17302027#!">View my recent publication</a></p>
-<hr style="height:9px;color:#84949B">
+<a href="/https://www.sciencedirect.com/science/article/pii/S0018506X17302027#!">View my most recent publication</a></p>
+
 	
 <img src="/images/Bigbend2.JPG">
 <p style="text-align:right;font-size:600%"><i><font color="darkslateblue">photo by Kurt Miller</font></i><br></p>
