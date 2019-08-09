@@ -110,12 +110,7 @@ American Society of Naturalists<br>
 <b>R Analysis for Behavioral Data, Teaching Resource</b> (2019)<br>
 <i>I created a tutorial on the basics of R analysis for behavioral data that was presented to 92 students in the Bio359K Spring 2019 Animal Behavior course.</i> 
 
-
-
-<br><br>
-
-
-	   
+  
 	   
 	
 <br><br>	
