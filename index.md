@@ -12,7 +12,6 @@
 <p style="text-align:right;font-size:60%"><i><font color="darkslateblue">photo by Kurt Miller</font></i><br></p>
 
 
-<br><br>
 <a href="mailto:kwallace@utexas.edu"><i>contact me via email</i></a><br><br>
 <a href="https://www.researchgate.net/profile/Kelly_Wallace2"><i>view my ResearchGate profile</i></a>
 
