@@ -16,10 +16,9 @@
 
 <img src="/images/Bigbend1.JPG"><br><br>
 
-<p float="left">
-<img align="left" src="/images/aftereight1.jpg" height="397"/>
-<img align="left" src="/images/Jack1.JPG" height="397"/>
-</p>
+<img align="left" src="/images/aftereight1.jpg" height="397" hspace="20"/>
+<img align="left" src="/images/Jack1.JPG" height="397" hspace="20"/>
+<br/><br/>
 
 	
 <br><br><a href="../">Home</a>
