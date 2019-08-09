@@ -19,7 +19,7 @@
 <img src="/images/aftereight1.jpg" height="500">
 
 
-<img src="/images/Jack1.JPG" height="500"><br><br>
+<img src="/images/Jack1.JPG" height="400"><br><br>
 
 	
 <br><br><a href="../">Home</a>
