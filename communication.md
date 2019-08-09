@@ -7,7 +7,7 @@ vimeoId: 343679289
 <div class="container">
 <div class="blurb">
 <h1>Media & Communication</h1>
-<hr style="height:9px;color:#84949B">
+<hr style="height:9px;color:#84949B"><br>
 	
 
 <img src="/images/SUTS1.jpg">
