@@ -10,7 +10,7 @@
 <hr style="height:9px;color:#84949B">
 	
 <img src="/images/Bigbend2.JPG">
-Photo by Kurt Miller
+<p style="text-align:right;font-size:600%"><i><font color="darkslateblue">photo by Kurt Miller</font></i><br></p>
 
 
 <br><br>
