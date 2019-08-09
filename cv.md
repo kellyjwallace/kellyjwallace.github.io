@@ -11,7 +11,7 @@
 <em> University of Texas at Austin </em> <br>
 PhD Advisors: Dr. Hans A Hofmann & Dr. Michael J Ryan <br><br>
 
-<b>Bachelor of Science in Biological Sciences,</b>Minor in Music, January 2015 <br>
+<b>Bachelor of Science in Biological Sciences</b>, Minor in Music, January 2015 <br>
 <em> Cornell University </em> <br>
 Undergraduate Research Advisor: Dr. Alex Ophir <br><br>
 
