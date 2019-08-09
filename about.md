@@ -3,7 +3,7 @@
 <div class="container">
 <div class="blurb">
 <h1>About</h1>
-<hr style="height:9px;color:#84949B">
+<hr style="height:9px;color:#84949B"><br>
 
 	
 <img src="/images/Kelly1.jpg">
