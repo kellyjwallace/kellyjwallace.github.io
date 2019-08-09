@@ -16,8 +16,8 @@
 
 <img src="/images/Bigbend1.JPG"><br><br>
 
-<img align="left" src="/images/aftereight1.jpg" height="397" hspace="20"/>
-<img align="left" src="/images/Jack1.JPG" height="397" hspace="20"/>
+<src="/images/aftereight1.jpg" height="397" hspace="20"/>
+<src="/images/Jack1.JPG" height="397"/>
 <br/><br/>
 
 	
