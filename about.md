@@ -16,10 +16,10 @@
 
 <img src="/images/Bigbend1.JPG"><br><br>
 
-<img src="/images/aftereight1.jpg" height="300">
-
-
-<img src="/images/Jack1.JPG" height="300"><br><br>
+<p float="left">
+<img src="/images/aftereight1.jpg" height="300" />
+<img src="/images/Jack1.JPG" height="300" />
+</p>
 
 	
 <br><br><a href="../">Home</a>
