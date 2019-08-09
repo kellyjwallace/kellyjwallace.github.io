@@ -6,7 +6,7 @@
 <hr style="height:9px;color:#84949B"><br>
 	
 <img src="/images/chronicle1.jpg">
-<a href="https://www.chronicle.com/article/How-a-Department-Took-On-the/245050"><i><b> How a Department Took On the Next Frontier in the #MeToo Movement</b></i></a> - photo and article by The Chronicle of Higher Education
+<a href="https://www.chronicle.com/article/How-a-Department-Took-On-the/245050"><i><b> How a Department Took On the Next Frontier in the #MeToo Movement</b></i></a> <br>photo and article by The Chronicle of Higher Education
 
 
 <br><br><a href="../">Home</a>
