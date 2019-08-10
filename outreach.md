@@ -27,11 +27,27 @@ I have judged oral and posted presentations for the <b>Capital of Texas Undergr
 <br><hr style="height:9px;color:#84949B">
 <p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Diversity & Inclusion </font></b><br></p>
 
+UT College of Natural Sciences Diversity and Inclusion Committee, 2019 
+I was selected to serve on the college’s D&I committee (https://cns.utexas.edu/diversity/d-i-committee) which has organized college-wide initiatives such as the “You Belong Here” 
+campaign, gender-neutral bathrooms, and a faculty lunch-series.
+Integrative Biology Diversity and Inclusivity Committee, 2017-present
+I am one of three founding student representatives of the Integrative Biology Department 
+Diversity and Inclusivity Committee. The is developing policies and procedures for handling 
+student concerns and encouraging diversity in applicants to the programs. 
+African American Pioneers in Evolutionary Science: The Untold Story, 2017
+I participated in a BEACON-funded project that met in April 2017 to develop scholarly 
+publications on the history/sociology of African American scientists in evolution and generate goals for improving diversity recruitment and inclusivity for students in evolutionary biology.
+Black History Month: Celebrating Black Scientists, 2016
+I collaborated with the UT Austin EEB Department to run a black history month campaign 
+highlight black scientists. This work inspired an additional program highlighting Hispanic-American scientists in September 2017.
+GirlAdvocates! Outreach Visit, 2015 (http://www.girladvocates.org/)
+The GirlAdvocates! program provides primarily minority local middle school students 
+opportunities to engage in science in their community. I organized a lab outreach event which included a lab tour, activities, and a student panel discussion about being a woman in science.
 
 
 
 <br><hr style="height:9px;color:#84949B">
-<p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Program Decelopment & Science Policy </font></b><br></p>
+<p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Program Development & Science Policy </font></b><br></p>
 
 EEB Graduate Student Representative <br>
 As the student representative, I attended faculty meetings and disseminated information. I 
