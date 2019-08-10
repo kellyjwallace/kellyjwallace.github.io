@@ -11,7 +11,7 @@ The article describes efforts by the graduate students in UT's Integrative Biolo
 
 
 
-Through the <b>Passport to UT Mentorship Program </b>I have mentored three international students (China, Ghana) during their transition to the United States and to the University of Texas at Austin. <br><br
+Through the <b>Passport to UT Mentorship Program </b>I have mentored three international students (China, Ghana) during their transition to the United States and to the University of Texas at Austin. <br><br>
 
 The <b>Crockett High School Mentorship Program</b> brings students from Crockett High School (an urban campus with primarily minority and low socioeconomic status enrollment) into a research environment at UT. I have mentored two high school students on their independent research projects, as well as led paper discussions and guided development of research presentations. <br><br>
 
