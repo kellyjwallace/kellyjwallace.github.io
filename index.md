@@ -8,7 +8,7 @@
 	
 <a href="https://www.sciencedirect.com/science/article/pii/S0018506X17302027#!">View my most recent publication</a></p>
 <hr style="height:9px;color:#84949B">
-<img align="middle" src="/images/eeb1.jpg" height="150">
+<img src="/images/eeb1.jpg" height="150" align="middle">
 
 	
 <img src="/images/Bigbend2.JPG">
