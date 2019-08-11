@@ -4,7 +4,7 @@
 <div class="blurb">
 <img src="/images/eeb1.jpg" height="150" align="middle">
 
-<p>I'm a neuroethologist & behavioral ecologist studying how the social environment influences behavior and decision-making at the University of Texas at Austin<br>
+<p style="text-align:center;font-size:110%">I'm a neuroethologist & behavioral ecologist studying how the social environment influences behavior and decision-making at the University of Texas at Austin</p>
 	
 <hr style="height:9px;color:#84949B">
 
