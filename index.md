@@ -3,12 +3,12 @@
 <div class="container">
 <div class="blurb">
 <h1>Kelly J Wallace</h1>
-<img src="/images/eeb1.jpg" height="120"><br><br>
 
 <p>Neuroethologist & Behavioral Ecologist in <em>Austin, TX</em> <br>
 	
-<a href="https://www.sciencedirect.com/science/article/pii/S0018506X17302027#!">View my most recent publication</a></p>>
+<a href="https://www.sciencedirect.com/science/article/pii/S0018506X17302027#!">View my most recent publication</a></p>
 <hr style="height:9px;color:#84949B"><br>
+<img src="/images/eeb1.jpg" height="120"><br><br>
 
 	
 <img src="/images/Bigbend2.JPG">
