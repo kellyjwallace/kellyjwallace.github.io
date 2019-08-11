@@ -2,7 +2,7 @@
 		
 <div class="container">
 <div class="blurb">
-<img src="/images/eeb1.jpg" height="140" align="middle">
+<center><img src="/images/eeb1.jpg" height="140"></center>
 
 <p style="text-align:center;font-size:110%">My research at the University of Texas at Austin investigates the ecological, behavioral, physiological, and neuromolecular mechanisms underlying how an animal's social environment influences their behavior and cognition. </p>
 	
