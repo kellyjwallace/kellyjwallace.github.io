@@ -4,20 +4,20 @@
 <div class="blurb">
 <h1>Curriculum Vitae</h1>
 
-<br><hr style="height:9px;color:#84949B">
-<p style="text-align:right;font-size:180%"><b><font color="darkslateblue">Education</font></b><br></p>
+<hr style="height:9px;color:#84949B">
+<p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Education</font></b><br></p>
 	
 <b>Doctor of Philosophy Program in Ecology, Evolution, and Behavior</b> <br>
 <em> University of Texas at Austin </em> <br>
 PhD Advisors: Dr. Hans A Hofmann & Dr. Michael J Ryan <br><br>
 
-<b>Bachelor of Science in Biological Sciences,</b>Minor in Music, January 2015 <br>
+<b>Bachelor of Science in Biological Sciences</b>, Minor in Music, January 2015 <br>
 <em> Cornell University </em> <br>
 Undergraduate Research Advisor: Dr. Alex Ophir <br><br>
 
 
 <br><hr style="height:9px;color:#84949B">
-<p style="text-align:right;font-size:180%"><b><font color="darkslateblue">Awards</font></b><br></p>
+<p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Awards</font></b><br></p>
 	
 <b><i>Ford Foundation 2017 Predoctoral Fellowship </i></b><br>National Academies of Sciences, Engineering, and Medicine $72,000 <b>2017-2019</b><br><br>
 <b><i>BEACON Student Travel Fund Award </i></b><br>BEACON Center for Evolution in Action, $500 <b>2019</b><br><br>
@@ -35,24 +35,24 @@ Undergraduate Research Advisor: Dr. Alex Ophir <br><br>
 
 
 <br><hr style="height:9px;color:#84949B">
-<p style="text-align:right;font-size:180%"><b><font color="darkslateblue">Publications</font></b><br></p>
+<p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Publications</font></b><br></p>
 Cryptic sexual dimorphism in spatial memory and hippocampal oxytocin receptors in prairie voles <i>(Microtus ochrogaster)</i> (2017) M.A. Rice, L.E. Hobbs,<b> K.J. Wallace</b>, A.G. Ophir. <i>Hormones and Behavior</i> 95: 94–102<br><br>
 Sex differences in cognitive performance, style and domain relationships in mosquitofish <i>(Gambusia affinis)</i> (2019) <b>K.J. Wallace</b>, R.T. Rausch, M. E.  Ramsey,  M. E. Cummings (in review)<br>
 
 
 <br><hr style="height:9px;color:#84949B">
-<p style="text-align:right;font-size:180%"><b><font color="darkslateblue">Skills</font></b><br></p>
+<p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Skills</font></b><br></p>
 <b>Computer Techniques:</b> Python, ffmpeg, R & RStudio, basic HTML, Command Line, Jenkins continuous integration task manager, ImageJ, basic electronic circuitry, Github, Alibi Security<br><br>
 <b>Laboratory Techniques:</b> Cryostat slicing, Cresyl Violet staining, Peak Scanner, Leica light and fluorescence microscopy, decapitation and brain extraction (fish), blood hormone collection<br><br>
 <b>Behavioral Techniques:</b> VIE & Bead Tagging, fish husbandry & aquatic facility care, mate choice, scototaxis, sociality, morris water maze, detour reaching task, shuttle-box assay <br>
 
 <br><hr style="height:9px;color:#84949B">
-<p style="text-align:right;font-size:180%"><b><font color="darkslateblue">Manuscripts Reviewed</font></b><br></p>
+<p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Manuscripts Reviewed</font></b><br></p>
 Hormones and Behavior (1) Scientific Reports (1) Trends in Cognitive Sciences (1)<br><br>
 
 
 <br><hr style="height:9px;color:#84949B">
-<p style="text-align:right;font-size:180%"><b><font color="darkslateblue">Presentations</font></b><br></p>
+<p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Presentations</font></b><br></p>
 <b>Society for Behavioral Neuroendocrinology, Indiana University, 2019</b><br>
 Poster: <i>Neuroendocrine basis of social competence & cognition in a highly social cichlid fish</i><br><br>
 <b>Spring Symposium in Behavioral Epigenetics, University of Texas at Austin, 2019</b><br>
@@ -90,7 +90,7 @@ Poster: <i>Sex differences in spatial memory, hippocampal volume, and OTR Expres
 
 
 <br><hr style="height:9px;color:#84949B">
-<p style="text-align:right;font-size:180%"><b><font color="darkslateblue">Affiliations</font></b><br></p>
+<p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Affiliations</font></b><br></p>
 Animal Behavior Society<br><br>
 Society for Behavioral Neuroendocrinology<br><br>
 BEACON Center for Evolution in Action<br><br>
@@ -99,9 +99,9 @@ American Society of Naturalists<br>
 
 
 <br><hr style="height:9px;color:#84949B">
-<p style="text-align:right;font-size:180%"><b><font color="darkslateblue">Teaching</font></b><br></p>
-<b>Teaching Assistant:</b> Bio370 Evolution<br><br>
-<b>Teaching Assistant:</b> Bio 359K Animal Behavior<br><br>
+<p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Teaching</font></b><br></p>
+<b>Teaching Assistant</b><br> Bio370 Evolution<br><br>
+<b>Teaching Assistant</b><br> Bio 359K Animal Behavior<br><br>
 <i>For each Teaching Asistant position I led weekly discussion sections, graded essay exams, and led review sessions. For Animal Behavior I mentored student groups on semester-long research projects which included video analysis training, R coding workshops, and term paper writing critiques.</i><br><br>
 <b>Grading Assistant:</b> Bio 373 Ecology<br><br>
 
@@ -110,12 +110,7 @@ American Society of Naturalists<br>
 <b>R Analysis for Behavioral Data, Teaching Resource</b> (2019)<br>
 <i>I created a tutorial on the basics of R analysis for behavioral data that was presented to 92 students in the Bio359K Spring 2019 Animal Behavior course.</i> 
 
-
-
-<br><br>
-
-
-	   
+  
 	   
 	
 <br><br>	

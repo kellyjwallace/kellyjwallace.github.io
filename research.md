@@ -3,7 +3,7 @@
 <div class="container">
 <div class="blurb">
 <h1>Research</h1>
-<br><hr style="height:9px;color:#84949B">
+<hr style="height:9px;color:#84949B">
 
 <p style="color:darkslateblue"><em> I'm interested in understanding how an individual's social environment influences how they behave and how they make decisions. I have investigated this question across three model systems: cichlid fish, mosquitofish, and prairie voles. These three systems are well known for their dynamic and varied social interactions, a historical foundation on the neural and hormonal mechanisms of social behavior and decision-making, and an integration of across broad eco-evolutionary frameworks. </em></p> <br><br>
 
@@ -18,8 +18,8 @@ Individual variation in “cognitive style” (how an individual approaches a co
 Given that the sexes often differ in their ecological and sexual selection pressures, sex differences in cognitive properties are likely. While research on sexually dimorphic cognition often focuses on performance, it commonly overlooks how sexes diverge across multiple cognitive tasks (cognitive domains) and in behaviors associated with cognitive performance (cognitive style). We tested male and female western mosquitofish (Gambusia affinis) in three cognitive tasks: associative learning (numerical discrimination), cognitive flexibility (detour task), and spatio-temporal learning (shuttlebox). We characterized statistical relationships between cognitive performances and cognitive style during the associative learning task with measures of anxiety, boldness, exploration, reaction time, and activity. <b>We found sex differences in performance, cognitive style, and the relationships between cognitive domains.</b> Females outperformed males in spatio-temporal learning task, while the sexes performed equally in associate learning and cognitive flexibility assays. Females (but not males) exhibited a ‘fast-exploratory’ cognitive style during associative learning trials. Meanwhile, only males showed a significant positive relationship between domains (associative learning and cognitive flexibility). We propose that these sexually dimorphic cognitive traits result from strong sexual conflict in this taxon; and emphasize the need to explore suites of sex-specific cognitive traits and broader comparative work examining sexual selection and cognition.<br><br>
 
 <p style="text-align:left;font-size:120%"><b><font color="darkslateblue">Sex differences in hippocampal CA1 cell densities in relation to oxytocin expression <i>(Microtus ochrogaster)</i></font></b><br></p>
-As part of my undergraduate reserach, I sectioned, stained (cresyl violet), and imaged hippocampal slices of male and female prairie voles <i> (Microtus ochrogaster) </i>, then developed a grid overlay using ImageJ and calculated cell density in the CA1 region of the hippocampus. This work contributed to the discovery of sex differences in oxytocin receptor density in prairie voles and highlights an expanded mechanistic role for oxytocin as an integrator of social and sptaial information. <br><br>
+As part of my undergraduate reserach, I sectioned, stained (cresyl violet), and imaged hippocampal slices of male and female prairie voles <i> (Microtus ochrogaster) </i>, then developed a grid overlay using ImageJ and calculated cell density in the CA1 region of the hippocampus. This work contributed to the discovery of sex differences in oxytocin receptor density in prairie voles and highlights an expanded mechanistic role for oxytocin as an integrator of social and sptaial information. <br>
 
 
 	
-<a href="../">Home</a>
+<br><br><a href="../">Home</a>
