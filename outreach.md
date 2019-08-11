@@ -19,22 +19,16 @@ The <b>Crockett High School Mentorship Program</b> brings students from Crockett
 
 I have judged oral and posted presentations for the <b>Capital of Texas Undergraduate Research Conference</b> and the <b>University of Texas at Austin College of Natural Sciences Undergraduate Research Forum </b><br>
 
-<br><hr style="height:9px;color:#84949B">
-<p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Diversity & Inclusion </font></b><br></p>
-
 
 
 <br><hr style="height:9px;color:#84949B">
 <p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Diversity & Inclusion </font></b><br></p>
 
-UT College of Natural Sciences Diversity and Inclusion Committee, 2019 
-I was selected to serve on the college’s D&I committee (https://cns.utexas.edu/diversity/d-i-committee) which has organized college-wide initiatives such as the “You Belong Here” 
-campaign, gender-neutral bathrooms, and a faculty lunch-series.
-Integrative Biology Diversity and Inclusivity Committee, 2017-present
-I am one of three founding student representatives of the Integrative Biology Department 
-Diversity and Inclusivity Committee. The is developing policies and procedures for handling 
-student concerns and encouraging diversity in applicants to the programs. 
-African American Pioneers in Evolutionary Science: The Untold Story, 2017
+I was selected to serve on the <a href="https://cns.utexas.edu/diversity/d-i-committee" <b> UT College of Natural Sciences Diversity and Inclusion Committee</b> </a> which has organized college-wide initiatives such as the “You Belong Here” campaign, gender-neutral bathrooms, diversity award funding, and a college-wide lunch-series.<br><br>
+
+I am one of three founding student representatives of the <a href="https://cns.utexas.edu/eeb-graduate-program/diversity#diversity-amp-inclusivity-committee" <b> Integrative Biology Department Diversity and Inclusivity Committee </b></a>. The committee develops policies and procedures for handling student concerns and encouraging diversity in applicants to the affiliated graduate programs. 
+
+African American Pioneers in Evolutionary Science: The Untold Story
 I participated in a BEACON-funded project that met in April 2017 to develop scholarly 
 publications on the history/sociology of African American scientists in evolution and generate goals for improving diversity recruitment and inclusivity for students in evolutionary biology.
 Black History Month: Celebrating Black Scientists, 2016
