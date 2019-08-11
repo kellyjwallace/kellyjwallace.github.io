@@ -2,7 +2,7 @@
 		
 <div class="container">
 <div class="blurb">
-<img src="/images/eeb1.jpg" height="150" align="middle">
+<img src="/images/eeb1.jpg" height="140" align="middle">
 
 <p style="text-align:center;font-size:110%">I'm a neuroethologist & behavioral ecologist studying how the social environment influences behavior and decision-making at the University of Texas at Austin</p>
 	
