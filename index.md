@@ -6,7 +6,7 @@
 <p>Neuroethologist & Behavioral Ecologist in <em>Austin, TX</em> <br>
 	
 <a href="https://www.sciencedirect.com/science/article/pii/S0018506X17302027#!">View my most recent publication</a></p>
-<img src="/images/eeb1.jpg" height="90"><br>
+<img src="/images/eeb1.jpg" height="120"><br>
 <hr style="height:9px;color:#84949B"><br>
 
 	
