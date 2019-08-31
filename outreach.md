@@ -28,12 +28,13 @@ I was selected to serve on the <a href="https://cns.utexas.edu/diversity/d-i-com
 
 I am one of three founding student representatives of the <a href="https://cns.utexas.edu/eeb-graduate-program/diversity#diversity-amp-inclusivity-committee"> <b> Integrative Biology Department Diversity and Inclusivity Committee </b></a>. The committee develops policies and procedures for handling student concerns and encouraging diversity in applicants to the affiliated graduate programs. <br><br>
 
-African American Pioneers in Evolutionary Science: The Untold Story
-I participated in a BEACON-funded project that met in April 2017 to develop scholarly 
-publications on the history/sociology of African American scientists in evolution and generate goals for improving diversity recruitment and inclusivity for students in evolutionary biology.
+I participated in a <a href="https://beacon-center.org/"> <b> BEACON</b></a>-funded project titled <b>African American Pioneers in Evolutionary Science: The Untold Story</b> that met in 2017 to develop scholarly 
+publications on the history/sociology of African American scientists in evolution and generate goals for improving diversity recruitment and inclusivity for students in evolutionary biology.<br><br>
+
 Black History Month: Celebrating Black Scientists, 2016
 I collaborated with the UT Austin EEB Department to run a black history month campaign 
-highlight black scientists. This work inspired an additional program highlighting Hispanic-American scientists in September 2017.
+highlight black scientists. This work inspired an additional program highlighting Hispanic-American scientists in September 2017.<br><br>
+
 GirlAdvocates! Outreach Visit, 2015 (http://www.girladvocates.org/)
 The GirlAdvocates! program provides primarily minority local middle school students 
 opportunities to engage in science in their community. I organized a lab outreach event which included a lab tour, activities, and a student panel discussion about being a woman in science.
