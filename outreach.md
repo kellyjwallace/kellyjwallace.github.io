@@ -24,20 +24,16 @@ I have judged oral and posted presentations for the <b>Capital of Texas Undergr
 <br><hr style="height:9px;color:#84949B">
 <p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Diversity & Inclusion </font></b><br></p>
 
-I was selected to serve on the <a href="https://cns.utexas.edu/diversity/d-i-committee"> <b> UT College of Natural Sciences Diversity and Inclusion Committee</b> </a> which has organized college-wide initiatives such as the “You Belong Here” campaign, gender-neutral bathrooms, diversity award funding, and a college-wide lunch-series.<br><br>
+In 2019 I was selected to serve on the <a href="https://cns.utexas.edu/diversity/d-i-committee"> <b> UT College of Natural Sciences Diversity and Inclusion Committee</b> </a> which has organized college-wide initiatives such as the “You Belong Here” campaign, gender-neutral bathrooms, diversity award funding, and a college-wide lunch-series.<br><br>
 
 I am one of three founding student representatives of the <a href="https://cns.utexas.edu/eeb-graduate-program/diversity#diversity-amp-inclusivity-committee"> <b> Integrative Biology Department Diversity and Inclusivity Committee </b></a>. The committee develops policies and procedures for handling student concerns and encouraging diversity in applicants to the affiliated graduate programs. <br><br>
 
 I participated in a <a href="https://beacon-center.org/"> <b> BEACON</b></a>-funded project titled <b>African American Pioneers in Evolutionary Science: The Untold Story</b> that met in 2017 to develop scholarly 
 publications on the history/sociology of African American scientists in evolution and generate goals for improving diversity recruitment and inclusivity for students in evolutionary biology.<br><br>
 
-Black History Month: Celebrating Black Scientists, 2016
-I collaborated with the UT Austin EEB Department to run a black history month campaign 
-highlight black scientists. This work inspired an additional program highlighting Hispanic-American scientists in September 2017.<br><br>
+In 2016 I collaborated with the UT Austin EEB PhD Program to run a <b> social media campaign during Black History Month </b> (February) to celebrate black scientists. This work inspired an additional program highlighting Hispanic-American scientists.<br><br>
 
-GirlAdvocates! Outreach Visit, 2015 (http://www.girladvocates.org/)
-The GirlAdvocates! program provides primarily minority local middle school students 
-opportunities to engage in science in their community. I organized a lab outreach event which included a lab tour, activities, and a student panel discussion about being a woman in science.
+The <a href="http://www.girladvocates.org/"> <b> GirlAdvocates!</b></a> program provides primarily minority local middle school students opportunities to engage in science in their community. In 2015 organized a lab outreach event which included a lab tour, activities, and a student panel discussion about being a woman in science.
 
 
 
