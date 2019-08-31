@@ -91,8 +91,9 @@ Poster: <i>Sex differences in spatial memory, hippocampal volume, and OTR Expres
 
 <br><hr style="height:9px;color:#84949B">
 <p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Affiliations</font></b><br></p>
-Animal Behavior Society<br><br>
 Society for Behavioral Neuroendocrinology<br><br>
+Society for Integrative & Comparative Biology<br><br>
+Animal Behavior Society<br><br>
 BEACON Center for Evolution in Action<br><br>
 Ford Fellows Foundation<br><br>
 American Society of Naturalists<br>
