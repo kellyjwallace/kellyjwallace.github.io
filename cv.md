@@ -43,7 +43,7 @@ Sex differences in cognitive performance, style and domain relationships in mosq
 <br><hr style="height:9px;color:#84949B">
 <p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Skills</font></b><br></p>
 <b>Computational Techniques:</b> Python, ffmpeg, R & RStudio, basic HTML, Command Line, Jenkins continuous integration task manager, ImageJ, basic electronic circuitry, Github, Alibi Security<br><br>
-<b>Laboratory Techniques:</b> Cryostat slicing, Cresyl Violet staining, Peak Scanner, Leica light and fluorescence microscopy, decapitation and brain extraction (fish), blood hormone collection<br><br>
+<b>Laboratory Techniques:</b> Cryostat slicing, Cresyl Violet staining, Peak Scanner, Leica light and fluorescence microscopy, brain extraction (fish), blood and water hormone collection<br><br>
 <b>Behavioral Techniques:</b> VIE & Bead Tagging, fish husbandry & aquatic facility care, mate choice, scototaxis, sociality, morris water maze, detour reaching task, shuttle-box assay <br>
 
 <br><hr style="height:9px;color:#84949B">
