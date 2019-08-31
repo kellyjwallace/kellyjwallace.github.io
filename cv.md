@@ -53,6 +53,10 @@ Hormones and Behavior (1) Scientific Reports (1) Trends in Cognitive Sciences 
 
 <br><hr style="height:9px;color:#84949B">
 <p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Presentations</font></b><br></p>
+
+
+<b>Long-View Micro School Outreach Presentation, 2019 </b><br>
+Talk: <i>Fish are smarter than we think!</i><br><br>
 <b>Society for Behavioral Neuroendocrinology, Indiana University, 2019</b><br>
 Poster: <i>Neuroendocrine basis of social competence & cognition in a highly social cichlid fish</i><br><br>
 <b>Spring Symposium in Behavioral Epigenetics, University of Texas at Austin, 2019</b><br>
