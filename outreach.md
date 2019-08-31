@@ -43,7 +43,7 @@ The <a href="http://www.girladvocates.org/"> <b> GirlAdvocates!</b></a> program 
 As the <b>EEB Program's Graduate Student Representative</b> from 2018-2019, I attended faculty meetings and disseminated information to students. I organized town hall events, designed and administered a survey on the graduate student curriculum, developed a student writing group, and advocated for student concerns. <br><br>
 
 
-While I was the Graduate Student Representative I implemented a <b>Mentoring Plan<b> designed to clarify expectations and responsibilities between incoming students and their advisors. The Mentoring Plan is a survey-like document that the
+While I was the Graduate Student Representative I implemented a <b>Mentoring Plan</b> designed to clarify expectations and responsibilities between incoming students and their advisors. The Mentoring Plan is a survey-like document that the
 student and advisor complete together soon after the student arrives (answering questions like frequency of meetings, preferred communication, strengths and weaknesses, etc). The two revisit to the document in the student’s second semester to assess and update their plan. This plan is also being used as a template for the UT CMB (Cell & Molecular Biology) Graduate Program <br><br>
 
 <a href="https://austinscienceadvocates.wordpress.com/"> <b> Austin Science Advocates</b></a> promotes science communication and science policy awareness. As part of the planning team I have helped with guest speaker events, skills workshops, and “contact your local representative” sessions. <br><br>
