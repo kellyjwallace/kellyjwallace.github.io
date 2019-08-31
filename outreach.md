@@ -24,9 +24,9 @@ I have judged oral and posted presentations for the <b>Capital of Texas Undergr
 <br><hr style="height:9px;color:#84949B">
 <p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Diversity & Inclusion </font></b><br></p>
 
-I was selected to serve on the <a href="https://cns.utexas.edu/diversity/d-i-committee" <b> UT College of Natural Sciences Diversity and Inclusion Committee</b> </a> which has organized college-wide initiatives such as the “You Belong Here” campaign, gender-neutral bathrooms, diversity award funding, and a college-wide lunch-series.<br><br>
+I was selected to serve on the <a href="https://cns.utexas.edu/diversity/d-i-committee"> <b> UT College of Natural Sciences Diversity and Inclusion Committee</b> </a> which has organized college-wide initiatives such as the “You Belong Here” campaign, gender-neutral bathrooms, diversity award funding, and a college-wide lunch-series.<br><br>
 
-I am one of three founding student representatives of the <a href="https://cns.utexas.edu/eeb-graduate-program/diversity#diversity-amp-inclusivity-committee" <b> Integrative Biology Department Diversity and Inclusivity Committee </b></a>. The committee develops policies and procedures for handling student concerns and encouraging diversity in applicants to the affiliated graduate programs. <br><br>
+I am one of three founding student representatives of the <a href="https://cns.utexas.edu/eeb-graduate-program/diversity#diversity-amp-inclusivity-committee"> <b> Integrative Biology Department Diversity and Inclusivity Committee </b></a>. The committee develops policies and procedures for handling student concerns and encouraging diversity in applicants to the affiliated graduate programs. <br><br>
 
 African American Pioneers in Evolutionary Science: The Untold Story
 I participated in a BEACON-funded project that met in April 2017 to develop scholarly 
