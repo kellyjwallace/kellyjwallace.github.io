@@ -15,7 +15,7 @@ The article describes efforts by the graduate students in UT's Integrative Biolo
 
 Through the <a href="https://world.utexas.edu/isss/programs/passport-to-ut"><b>Passport to UT Mentorship Program </b> </a>I have mentored three international students (China, Ghana) during their transition to the United States and to the University of Texas at Austin. <br><br>
 
-The <b>Crockett High School Mentorship Program</b> brings students from Crockett High School (an urban campus with primarily minority and low socioeconomic status enrollment) into a research environment at UT. I have mentored two high school students on their independent research projects, as well as led paper discussions and guided development of research presentations. <br><br>
+The <b>Crockett High School Mentorship Program</b> brings students from Crockett High School (an urban campus with primarily minority and low socioeconomic status enrollment) into a research environment at UT. I have mentored three high school students on their independent research projects, as well as led paper discussions and guided development of research presentations. <br><br>
 
 I have judged oral and posted presentations for the <b>Capital of Texas Undergraduate Research Conference</b> and the <b>University of Texas at Austin College of Natural Sciences Undergraduate Research Forum </b><br>
 
@@ -47,6 +47,8 @@ While I was the Graduate Student Representative I implemented a <b>Mentoring Pla
 student and advisor complete together soon after the student arrives (answering questions like frequency of meetings, preferred communication, strengths and weaknesses, etc). The two revisit to the document in the student’s second semester to assess and update their plan. This plan is also being used as a template for the UT CMB (Cell & Molecular Biology) Graduate Program <br><br>
 
 <a href="https://austinscienceadvocates.wordpress.com/"> <b> Austin Science Advocates</b></a> promotes science communication and science policy awareness. As part of the planning team I have helped with guest speaker events, skills workshops, and “contact your local representative” sessions. <br><br>
+
+In 2019 I organized a weekly graduate <b>student writing group</b> for students in the EEB Program. 
 
 
 <br><br><a href="../">Home</a>

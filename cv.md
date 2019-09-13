@@ -42,8 +42,8 @@ Sex differences in cognitive performance, style and domain relationships in mosq
 
 <br><hr style="height:9px;color:#84949B">
 <p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Skills</font></b><br></p>
-<b>Computer Techniques:</b> Python, ffmpeg, R & RStudio, basic HTML, Command Line, Jenkins continuous integration task manager, ImageJ, basic electronic circuitry, Github, Alibi Security<br><br>
-<b>Laboratory Techniques:</b> Cryostat slicing, Cresyl Violet staining, Peak Scanner, Leica light and fluorescence microscopy, decapitation and brain extraction (fish), blood hormone collection<br><br>
+<b>Computational Techniques:</b> Python, ffmpeg, R & RStudio, basic HTML, Command Line, Jenkins continuous integration task manager, ImageJ, basic electronic circuitry, Github, Alibi Security<br><br>
+<b>Laboratory Techniques:</b> Cryostat slicing, Cresyl Violet staining, Peak Scanner, Leica light and fluorescence microscopy, brain extraction (fish), blood and water hormone collection<br><br>
 <b>Behavioral Techniques:</b> VIE & Bead Tagging, fish husbandry & aquatic facility care, mate choice, scototaxis, sociality, morris water maze, detour reaching task, shuttle-box assay <br>
 
 <br><hr style="height:9px;color:#84949B">
@@ -53,6 +53,10 @@ Hormones and Behavior (1) Scientific Reports (1) Trends in Cognitive Sciences 
 
 <br><hr style="height:9px;color:#84949B">
 <p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Presentations</font></b><br></p>
+
+
+<b>Long-View Micro School Outreach Presentation, 2019 </b><br>
+Talk: <i>Fish are smarter than we think!</i><br><br>
 <b>Society for Behavioral Neuroendocrinology, Indiana University, 2019</b><br>
 Poster: <i>Neuroendocrine basis of social competence & cognition in a highly social cichlid fish</i><br><br>
 <b>Spring Symposium in Behavioral Epigenetics, University of Texas at Austin, 2019</b><br>
@@ -91,8 +95,9 @@ Poster: <i>Sex differences in spatial memory, hippocampal volume, and OTR Expres
 
 <br><hr style="height:9px;color:#84949B">
 <p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Affiliations</font></b><br></p>
-Animal Behavior Society<br><br>
 Society for Behavioral Neuroendocrinology<br><br>
+Society for Integrative & Comparative Biology<br><br>
+Animal Behavior Society<br><br>
 BEACON Center for Evolution in Action<br><br>
 Ford Fellows Foundation<br><br>
 American Society of Naturalists<br>
@@ -106,7 +111,7 @@ American Society of Naturalists<br>
 <b>Grading Assistant</b><br> Bio 373 Ecology<br><br>
 
 <b>Student Training</b><br>
-<i>I have trained 27 undergraduate and two high school volunteers (including thirteen female students and eleven student of different racial minorities) on skills including experimental design, coding, fish husbandry, electronic circuitry, and data analysis.</i> <br><br>
+<i>I have trained 31 undergraduate and three high school students (including fifteen female students and fifteen student of different racial and ethnic minorities) on skills including experimental design, coding, fish husbandry, electronic circuitry, and data analysis.</i> <br><br>
 <b>R Analysis for Behavioral Data, Teaching Resource</b> (2019)<br>
 <i>I created a tutorial on the basics of R analysis for behavioral data that was presented to 92 students in the Bio359K Spring 2019 Animal Behavior course.</i> 
 
