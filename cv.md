@@ -111,7 +111,7 @@ American Society of Naturalists<br>
 <b>Grading Assistant</b><br> Bio 373 Ecology<br><br>
 
 <b>Student Training</b><br>
-<i>I have trained 31 undergraduate and three high school students (including fifteen female students and fifteen student of different racial and ethnic minorities) on skills including experimental design, coding, fish husbandry, electronic circuitry, and data analysis.</i> <br><br>
+<i>I have trained 31 undergraduate and three high school students (including fifteen female students and sixteen students of different racial and ethnic minorities) on skills including experimental design, coding, fish husbandry, electronic circuitry, and data analysis.</i> <br><br>
 <b>R Analysis for Behavioral Data, Teaching Resource</b> (2019)<br>
 <i>I created a tutorial on the basics of R analysis for behavioral data that was presented to 92 students in the Bio359K Spring 2019 Animal Behavior course.</i> 
 
