@@ -48,7 +48,7 @@ student and advisor complete together soon after the student arrives (answering 
 
 <a href="https://austinscienceadvocates.wordpress.com/"> <b> Austin Science Advocates</b></a> promotes science communication and science policy awareness. As part of the planning team I have helped with guest speaker events, skills workshops, and “contact your local representative” sessions. <br><br>
 
-In 2019 I organized a weekly graduate <b>student writing group</b> for students in the EEB Program. 
+In Fall 2019 I organized a weekly graduate <b>student writing group</b> for students in the EEB Program. 
 
 
 <br><br><a href="../">Home</a>
