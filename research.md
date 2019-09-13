@@ -27,7 +27,7 @@ Given that the sexes often differ in their ecological and sexual selection press
 <p style="text-align:center;font-size:80%"><i><font color="darkslateblue"> catching mosquitofish at Brackenridge Field Labs, Austin TX</font></i></p>
 
 <p style="text-align:left;font-size:120%"><b><font color="darkslateblue">Sex differences in hippocampal CA1 cell densities in relation to oxytocin expression <i>(Microtus ochrogaster)</i></font></b><br></p>
-As part of my undergraduate reserach, I sectioned, stained (cresyl violet), and imaged hippocampal slices of male and female prairie voles <i> (Microtus ochrogaster) </i>, then developed a grid overlay using ImageJ and calculated cell density in the CA1 region of the hippocampus. This work contributed to the discovery of sex differences in oxytocin receptor density in prairie voles and highlights an expanded mechanistic role for oxytocin as an integrator of social and sptaial information. <br>
+As part of my undergraduate reserach, I sectioned, stained (cresyl violet), and imaged hippocampal slices of male and female prairie voles <i> (Microtus ochrogaster) </i>, then developed a grid overlay using ImageJ and calculated cell density in the CA1 region of the hippocampus. This work contributed to the characterization of sex differences in oxytocin receptor density in prairie vole hippocampi, and highlights an expanded mechanistic role for oxytocin as an integrator of social and sptaial information. <br>
 
 
 	
