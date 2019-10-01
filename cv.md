@@ -112,11 +112,19 @@ American Society of Naturalists<br>
 <b>Teaching Assistant</b><br> Bio 359K Animal Behavior<br><br>
 <i>For each Teaching Asistant position I led weekly discussion sections, graded essay exams, and led review sessions. For Animal Behavior I mentored student groups on semester-long research projects which included video analysis training, R coding workshops, and term paper writing critiques.</i><br><br>
 <b>Grading Assistant</b><br> Bio 373 Ecology<br><br>
-
-<b>Student Training</b><br>
-<i>I have trained 31 undergraduate and three high school students (including fifteen female students and sixteen students of different racial and ethnic minorities) on skills including experimental design, coding, fish husbandry, electronic circuitry, and data analysis.</i> <br><br>
 <b>R Analysis for Behavioral Data, Teaching Resource</b> (2019)<br>
 <i>I created a tutorial on the basics of R analysis for behavioral data that was presented to 92 students in the Bio359K Spring 2019 Animal Behavior course.</i> 
+
+<b>Student Training</b><br>
+<i>I have trained 37 undergraduate and three high school students (including twenty female students and eighteen students of different racial and ethnic minorities) on skills including experimental design, coding, fish husbandry, electronic circuitry, and data analysis.</i> <br><br>
+
+<b>Undergraduate Students Supervised</b> (University of Texas at Austin)<br>
+Camille Akin, Matt Armstrong, Jeffrey Alliston, Lauren Borland, Connor Bianchi, Kavyaa Choudhary, Rahi Dakwala, Rachel Ellerd, Marisa Farjado, Caleb Fleischer, Lily Guevara, Daniel Hauser, Randa Kabbani, Sam Kagel, Kathryn M Kaihlanen, Amogh Kashyap, Rachel Koeter, Layla Kutty, Don Le, Matthew Le, Presley Mackey, Claire Mayorga, Jessika McFarland, An Nguyen, Lily Parsi, Huynh Pham, Adam Redmer, Albert Reyes, Remedy Rule, Vishaal Sakthivelnathan, Eduardo Saucedo, Madison Schumm, Jennifer Schlauch, Benjamin Whelan, Anirudh Yerrapragada, Karleen Wu, Melody Ziari<br><br>
+
+<b>Highschool Students Supervised</b> (Crockett High School)<br>
+Isaac Carroll , Gabe Rocha, Isaac Munoz 
+
+
 
   
 	   
