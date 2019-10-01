@@ -13,7 +13,7 @@ PhD Advisors: Dr. Hans A Hofmann & Dr. Michael J Ryan <br><br>
 
 <b>Bachelor of Science in Biological Sciences</b>, Minor in Music, January 2015 <br>
 <em> Cornell University </em> <br>
-Undergraduate Research Advisor: Dr. Alex Ophir <br><br>
+Undergraduate Research Advisor: Dr. Alex G Ophir <br><br>
 
 
 <br><hr style="height:9px;color:#84949B">
