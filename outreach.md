@@ -28,9 +28,9 @@ In 2019 I was selected to serve on the <a href="https://cns.utexas.edu/diversity
 
 I am one of three founding student representatives of the <a href="https://cns.utexas.edu/eeb-graduate-program/diversity#diversity-amp-inclusivity-committee"> <b> Integrative Biology Department Diversity and Inclusivity Committee </b></a>. The committee develops policies and procedures for handling student concerns and encouraging diversity in applicants to the affiliated graduate programs. <br><br>
 
-In Fall 2019 I co-developed and led a seminar and discussion on <b> Equitable and Inclusive Recruitment Practices</b> (which broadly included recruiting graduate students, postdoctoral reserachers, and faculty). This event led to the creation of a “Diverse     Recruitment Resource Guide” for the department. <br><br>
+As part of the department's <a href="https://cns.utexas.edu/eeb-graduate-program/diversity#equity-and-inclusion-discussion-group"><b>Equity and Inclusion Discussion Group </b></a>, in Fall 2019 I co-developed and led a seminar and discussion on <b> Equitable and Inclusive Recruitment Practices</b> (which broadly included recruiting graduate students, postdoctoral reserachers, and faculty). This event led to the creation of a “Diverse Recruitment Resource Guide” for the department. <br><br>
 
-In Spring 2019 I co-developed and led a seminar and discussion on <b> Sexual Harassment in Field Research</b>, which consisted of paper discussions and walkthroughs of scenarios. <br><br>
+In Spring 2019 (also as part of the department's Equity and Inclusion Discussion Group) I co-developed and led a seminar and discussion on <b> Sexual Harassment in Field Research</b>, which consisted of paper discussions and walkthroughs of scenarios. <br><br>
 
 I participated in a <a href="https://beacon-center.org/"> <b> BEACON</b></a>-funded project titled <b>African American Pioneers in Evolutionary Science: The Untold Story</b> that met in 2017 to develop scholarly 
 publications on the history/sociology of African American scientists in evolution and generate goals for improving diversity recruitment and inclusivity for students in evolutionary biology.<br><br>
