@@ -43,8 +43,7 @@ Cryptic sexual dimorphism in spatial memory and hippocampal oxytocin receptors i
 Sex differences in cognitive performance, style and domain relationships in mosquitofish <i>(Gambusia affinis)</i> (2019) <b>K.J. Wallace</b>, R.T. Rausch, M. E.  Ramsey,  M. E. Cummings <i>(in review)</i><br><br>
 Social behavioral consistency over development and across contexts in a highly
 social fish. T.K. Solomon-Lane, <b>K.J. Wallace</b>, R.M. Butler, H. A. Hofmann <i>(in prep)</i><br><br>
-Cognitive-Behavioral variation in dynamic social communities of highly social
-cichlid fish. <b>K.J. Wallace</b>, H.A. Hofmann <i>(in prep)</i>
+Cognitive-Behavioral variation in dynamic social communities of <i> Astatotilapia burtoni </i>. <b>K.J. Wallace</b>, H.A. Hofmann <i>(in prep)</i>
 
 
 
