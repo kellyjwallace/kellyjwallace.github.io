@@ -66,6 +66,8 @@ Poster: <i>Neuroendocrine basis of social competence & cognition in a highly soc
 Poster: <i>Social Competence & Cognition in Dynamic Communities of a Highly Social Cichlid Fish</i><br><br>
 <b>Ecological Integration Symposium, Texas A&M University, 2019</b><br>
 Poster: <i>Social Competence & Cognition in Dynamic Communities of a Highly Social Cichlid Fish</i><br><br>
+<b>Brain Behavior, and Evolution Seminar, University of Texas at Austin, 2018</b><br>
+Talk: <i>Sex differences in Cognitive Style and Domain Relationships in Mosquitofish (Gambusia Affinis)</i><br><br>
 <b>Conference of Ford Fellows, National Academy of Sciences, 2018</b><br>
 Talk: <i>Sex differences in cognitive style across domains in mosquitofish (Gambusia affinis)</i><br><br>
 <b>Science Under the Stars, Brackenridge Field Labs, 2018</b><br>
