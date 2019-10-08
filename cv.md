@@ -40,11 +40,11 @@ Undergraduate Research Advisor: Dr. Alex G Ophir <br><br>
 <br><hr style="height:9px;color:#84949B">
 <p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Publications</font></b><br></p>
 Cryptic sexual dimorphism in spatial memory and hippocampal oxytocin receptors in prairie voles <i>(Microtus ochrogaster)</i> (2017) M.A. Rice, L.E. Hobbs,<b> K.J. Wallace</b>, A.G. Ophir. <i>Hormones and Behavior</i> 95: 94–102<br><br>
-Sex differences in cognitive performance, style and domain relationships in mosquitofish <i>(Gambusia affinis)</i> (2019) <b>K.J. Wallace</b>, R.T. Rausch, M. E.  Ramsey,  M. E. Cummings (in review)<br><br>
+Sex differences in cognitive performance, style and domain relationships in mosquitofish <i>(Gambusia affinis)</i> (2019) <b>K.J. Wallace</b>, R.T. Rausch, M. E.  Ramsey,  M. E. Cummings <i>(in review)</i><br><br>
 Social behavioral consistency over development and across contexts in a highly
-social fish. T.K. Solomon-Lane, <b>K.J. Wallace</b>, R.M. Butler, H. A. Hofmann (in prep)<br><br>
+social fish. T.K. Solomon-Lane, <b>K.J. Wallace</b>, R.M. Butler, H. A. Hofmann <i>(in prep)</i><br><br>
 Cognitive-Behavioral variation in dynamic social communities of highly social
-cichlid fish. <b>K.J. Wallace</b>, H.A. Hofmann (in prep)
+cichlid fish. <b>K.J. Wallace</b>, H.A. Hofmann <i>(in prep)</i>
 
 
 
