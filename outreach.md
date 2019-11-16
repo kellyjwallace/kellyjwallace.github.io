@@ -24,9 +24,15 @@ I have judged oral and posted presentations for the <b>Capital of Texas Undergr
 <br><hr style="height:9px;color:#84949B">
 <p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Diversity & Inclusion </font></b><br></p>
 
+<img src="/images/CNSdiversity.jpg"> <br>
+
 In 2019 I was selected to serve on the <a href="https://cns.utexas.edu/diversity/d-i-committee"> <b> UT College of Natural Sciences Diversity and Inclusion Committee</b> </a> which has organized college-wide initiatives such as the “You Belong Here” campaign, gender-neutral bathrooms, diversity award funding, and a college-wide lunch-series.<br><br>
 
 I am one of three founding student representatives of the <a href="https://cns.utexas.edu/eeb-graduate-program/diversity#diversity-amp-inclusivity-committee"> <b> Integrative Biology Department Diversity and Inclusivity Committee </b></a>. The committee develops policies and procedures for handling student concerns and encouraging diversity in applicants to the affiliated graduate programs. <br><br>
+
+As part of the department's <a href="https://cns.utexas.edu/eeb-graduate-program/diversity#equity-and-inclusion-discussion-group"><b>Equity and Inclusion Discussion Group </b></a>, in Fall 2019 I co-developed and led a seminar and discussion on <b> Equitable and Inclusive Recruitment Practices</b> (which broadly included recruiting graduate students, postdoctoral reserachers, and faculty). This event led to the creation of a “Diverse Recruitment Resource Guide” for the department. <br><br>
+
+In Spring 2019 (also as part of the department's Equity and Inclusion Discussion Group) I co-developed and led a seminar and discussion on <b> Sexual Harassment in Field Research</b>, which consisted of paper discussions and walkthroughs of scenarios. <br><br>
 
 I participated in a <a href="https://beacon-center.org/"> <b> BEACON</b></a>-funded project titled <b>African American Pioneers in Evolutionary Science: The Untold Story</b> that met in 2017 to develop scholarly 
 publications on the history/sociology of African American scientists in evolution and generate goals for improving diversity recruitment and inclusivity for students in evolutionary biology.<br><br>
@@ -46,9 +52,11 @@ As the <b>EEB Program's Graduate Student Representative</b> from 2018-2019, I at
 While I was the Graduate Student Representative I implemented a <b>Mentoring Plan</b> designed to clarify expectations and responsibilities between incoming students and their advisors. The Mentoring Plan is a survey-like document that the
 student and advisor complete together soon after the student arrives (answering questions like frequency of meetings, preferred communication, strengths and weaknesses, etc). The two revisit to the document in the student’s second semester to assess and update their plan. This plan is also being used as a template for the UT CMB (Cell & Molecular Biology) Graduate Program <br><br>
 
+As part of the EEB Program's First Year Subjects and Skills Course, I participated in a <b>graduate student panel</b> and spoke on topics such as how to begin research projects, TA responsibilities, and on-campus resources for graduate students. <br><br>
+
 <a href="https://austinscienceadvocates.wordpress.com/"> <b> Austin Science Advocates</b></a> promotes science communication and science policy awareness. As part of the planning team I have helped with guest speaker events, skills workshops, and “contact your local representative” sessions. <br><br>
 
-In 2019 I organized a weekly graduate <b>student writing group</b> for students in the EEB Program. 
+In Fall of 2019 I organized a weekly graduate <b>student writing group</b> for students in the EEB Program. 
 
 
 <br><br><a href="../">Home</a>

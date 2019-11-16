@@ -13,13 +13,16 @@ PhD Advisors: Dr. Hans A Hofmann & Dr. Michael J Ryan <br><br>
 
 <b>Bachelor of Science in Biological Sciences</b>, Minor in Music, January 2015 <br>
 <em> Cornell University </em> <br>
-Undergraduate Research Advisor: Dr. Alex Ophir <br><br>
+Undergraduate Research Advisor: Dr. Alex G Ophir <br><br>
 
 
 <br><hr style="height:9px;color:#84949B">
 <p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Awards</font></b><br></p>
 	
 <b><i>Ford Foundation 2017 Predoctoral Fellowship </i></b><br>National Academies of Sciences, Engineering, and Medicine $72,000 <b>2017-2019</b><br><br>
+
+<b><i>Junior Scientist Workshop Award </i></b><br>Howard Hughes Medical Institute <b>2019</b><br><br>
+
 <b><i>BEACON Student Travel Fund Award </i></b><br>BEACON Center for Evolution in Action, $500 <b>2019</b><br><br>
 <b><i>First Place Student Poster Award </i></b><br>Ecological Integration Symposium, Texas A&M, $100 <b>2019</b><br><br>
 <b><i>IB Doctoral Dissertation Improvement Grant </i></b><br>University of Texas at Austin, $8,000 <b>2019</b><br><br>
@@ -37,7 +40,11 @@ Undergraduate Research Advisor: Dr. Alex Ophir <br><br>
 <br><hr style="height:9px;color:#84949B">
 <p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Publications</font></b><br></p>
 Cryptic sexual dimorphism in spatial memory and hippocampal oxytocin receptors in prairie voles <i>(Microtus ochrogaster)</i> (2017) M.A. Rice, L.E. Hobbs,<b> K.J. Wallace</b>, A.G. Ophir. <i>Hormones and Behavior</i> 95: 94–102<br><br>
-Sex differences in cognitive performance, style and domain relationships in mosquitofish <i>(Gambusia affinis)</i> (2019) <b>K.J. Wallace</b>, R.T. Rausch, M. E.  Ramsey,  M. E. Cummings (in review)<br>
+Sex differences in cognitive performance, style and domain relationships in mosquitofish <i>(Gambusia affinis)</i> (2019) <b>K.J. Wallace</b>, R.T. Rausch, M. E.  Ramsey,  M. E. Cummings <i>(preprint available at BioRxiv, doi.org/10.1101/842278)</i><br><br>
+Social behavioral consistency over development and across contexts in a highly
+social fish. T.K. Solomon-Lane, <b>K.J. Wallace</b>, R.M. Butler, H. A. Hofmann <i>(in prep)</i><br><br>
+Cognitive-Behavioral variation in dynamic social communities of <i> Astatotilapia burtoni </i>. <b>K.J. Wallace</b>, H.A. Hofmann <i>(in prep)</i>
+
 
 
 <br><hr style="height:9px;color:#84949B">
@@ -54,7 +61,8 @@ Hormones and Behavior (1) Scientific Reports (1) Trends in Cognitive Sciences 
 <br><hr style="height:9px;color:#84949B">
 <p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Presentations</font></b><br></p>
 
-
+<b>Janelia Junior Scientist Workshop on Mechanistic Cognitive Neuroscience, HHMI, 2019</b><br>
+Talk: <i>Neuroendocrine basis of social competence & cognition in a highly social cichlid fish</i><br><br>
 <b>Long-View Micro School Outreach Presentation, 2019 </b><br>
 Talk: <i>Fish are smarter than we think!</i><br><br>
 <b>Society for Behavioral Neuroendocrinology, Indiana University, 2019</b><br>
@@ -63,6 +71,8 @@ Poster: <i>Neuroendocrine basis of social competence & cognition in a highly soc
 Poster: <i>Social Competence & Cognition in Dynamic Communities of a Highly Social Cichlid Fish</i><br><br>
 <b>Ecological Integration Symposium, Texas A&M University, 2019</b><br>
 Poster: <i>Social Competence & Cognition in Dynamic Communities of a Highly Social Cichlid Fish</i><br><br>
+<b>Brain Behavior, and Evolution Seminar, University of Texas at Austin, 2018</b><br>
+Talk: <i>Sex differences in Cognitive Style and Domain Relationships in Mosquitofish (Gambusia Affinis)</i><br><br>
 <b>Conference of Ford Fellows, National Academy of Sciences, 2018</b><br>
 Talk: <i>Sex differences in cognitive style across domains in mosquitofish (Gambusia affinis)</i><br><br>
 <b>Science Under the Stars, Brackenridge Field Labs, 2018</b><br>
@@ -109,11 +119,19 @@ American Society of Naturalists<br>
 <b>Teaching Assistant</b><br> Bio 359K Animal Behavior<br><br>
 <i>For each Teaching Asistant position I led weekly discussion sections, graded essay exams, and led review sessions. For Animal Behavior I mentored student groups on semester-long research projects which included video analysis training, R coding workshops, and term paper writing critiques.</i><br><br>
 <b>Grading Assistant</b><br> Bio 373 Ecology<br><br>
+<b>R Analysis for Behavioral Data, Teaching Resource</b> (2019)<br>
+<i>I created a tutorial on the basics of R analysis for behavioral data that was presented to 92 students in the Bio359K Spring 2019 Animal Behavior course.</i> <br><br>
 
 <b>Student Training</b><br>
-<i>I have trained 31 undergraduate and three high school students (including fifteen female students and fifteen student of different racial and ethnic minorities) on skills including experimental design, coding, fish husbandry, electronic circuitry, and data analysis.</i> <br><br>
-<b>R Analysis for Behavioral Data, Teaching Resource</b> (2019)<br>
-<i>I created a tutorial on the basics of R analysis for behavioral data that was presented to 92 students in the Bio359K Spring 2019 Animal Behavior course.</i> 
+<i>I have trained 37 undergraduate and three high school students (including twenty female students and eighteen students of different racial and ethnic minorities) on skills including experimental design, coding, fish husbandry, electronic circuitry, and data analysis.</i> <br><br>
+
+<b>Undergraduate Students Supervised</b> (University of Texas at Austin)<br>
+Camille Akin, Matt Armstrong, Jeffrey Alliston, Lauren Borland, Connor Bianchi, Kavyaa Choudhary, Rahi Dakwala, Rachel Ellerd, Marisa Farjado, Caleb Fleischer, Lily Guevara, Daniel Hauser, Randa Kabbani, Sam Kagel, Kathryn M Kaihlanen, Amogh Kashyap, Rachel Koeter, Layla Kutty, Don Le, Matthew Le, Presley Mackey, Claire Mayorga, Jessika McFarland, An Nguyen, Lily Parsi, Huynh Pham, Adam Redmer, Albert Reyes, Remedy Rule, Vishaal Sakthivelnathan, Eduardo Saucedo, Madison Schumm, Jennifer Schlauch, Benjamin Whelan, Anirudh Yerrapragada, Karleen Wu, Melody Ziari<br><br>
+
+<b>Highschool Students Supervised</b> (Crockett High School)<br>
+Isaac Carroll , Gabe Rocha, Isaac Munoz 
+
+
 
   
 	   

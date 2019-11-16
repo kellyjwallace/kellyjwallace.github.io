@@ -12,8 +12,12 @@
 <img src="/images/Bigbend2.JPG">
 <p style="text-align:right;font-size:60%"><i><font color="darkslateblue">photo by Kurt Miller</font></i><br></p>
 
+<a href="https://www.biorxiv.org/content/10.1101/842278v1"><i><b>View my most recent preprint (BioRxiv) </b></i></a><br><br>
+
 <a href="https://www.sciencedirect.com/science/article/pii/S0018506X17302027#!"><i><b>view my most recent publication</b></i></a><br><br>
+
 <a href="mailto:kwallace@utexas.edu"><i><b>contact me via email</b></i></a><br><br>
+
 <a href="https://www.researchgate.net/profile/Kelly_Wallace2"><i><b>view my ResearchGate profile</b></i></a>
 
 
