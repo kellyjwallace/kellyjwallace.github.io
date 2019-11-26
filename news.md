@@ -3,6 +3,9 @@
 <h1>News</h1>
 <hr style="height:9px;color:#84949B">
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">As graduate programs, how should we evaluate our diversity efforts to best address student concerns? Check out this preprint by myself and Julia York to find out! <a href="https://t.co/TfzgNxL0rL">https://t.co/TfzgNxL0rL</a></p>&mdash; Kelly Wallace (@KJeanWallace) <a href="https://twitter.com/KJeanWallace/status/1197989728303353856?ref_src=twsrc%5Etfw">November 22, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Excited to share my first preprint! Sex differences in cognitive performance, style, and domain relationships in mosquitofish (Gambusia affinis) <a href="https://t.co/YCuYCaN4qZ">https://t.co/YCuYCaN4qZ</a></p>&mdash; Kelly Wallace (@KJeanWallace) <a href="https://twitter.com/KJeanWallace/status/1195709689297805316?ref_src=twsrc%5Etfw">November 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
