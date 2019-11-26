@@ -48,7 +48,7 @@ The <a href="http://www.girladvocates.org/"> <b> GirlAdvocates!</b></a> program 
 <p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Program Development & Science Policy </font></b><br></p>
 
 Gathering and evaluating data on representaiton in academia is the first step to identifying issues. In our preprint <a href="https://www.biorxiv.org/content/10.1101/848101v1"> <b> Using a Systems Change Framework to Evaluate Academic Equity & Climate Efforts in a Graduate Program</b></a> Julia York and I gathered information about the Department of Integrative Biology at the UNiversity of Texas at Austin and its PhD program in Ecology, Evolution, and BEhavior. We also discuss how graduate programs can evaluate their diversity related efforts in order to make the most efficient and positive impact. 
-<img src="/images/diversity1.png"> <br>
+<img src="/images/diversity1.png" height="375"> <br>
 
 
 As the <b>EEB Program's Graduate Student Representative</b> from 2018-2019, I attended faculty meetings and disseminated information to students. I organized town hall events, designed and administered a survey on the graduate student curriculum, developed a student writing group, and advocated for student concerns. <br><br>
