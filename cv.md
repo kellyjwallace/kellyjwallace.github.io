@@ -47,9 +47,9 @@ Sex differences in cognitive performance, style and domain relationships in mosq
 Using a Systems Change Framework to Evaluate Academic Equity & Climate Efforts in a Graduate Program (2019) <b>KJ Wallace</b>, JM York <i>(preprint available at BioRxiv, doi.org/10.1101/848101) </i><br><br>
 
 Social behavioral consistency over development and across contexts in a highly
-social fish. T.K. Solomon-Lane, <b>K.J. Wallace</b>, R.M. Butler, H. A. Hofmann <i>(in prep)</i><br><br>
+social fish. TK Solomon-Lane, <b>KJ Wallace</b>, RM Butler, HA Hofmann <i>(in prep)</i><br><br>
 
-Cognitive-Behavioral variation in dynamic social communities of <i> Astatotilapia burtoni </i>. <b>K.J. Wallace</b>, H.A. Hofmann <i>(in prep)</i>
+Cognitive-Behavioral variation in dynamic social communities of <i> Astatotilapia burtoni </i>. <b>KJ Wallace</b>, HA Hofmann <i>(in prep)</i>
 
 
 
