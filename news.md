@@ -3,6 +3,12 @@
 <h1>News</h1>
 <hr style="height:9px;color:#84949B">
 
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I had a wonderful time at <a href="https://twitter.com/hashtag/SICB2020?src=hash&amp;ref_src=twsrc%5Etfw">#SICB2020</a> hearing about integrative research across diverse taxa, and I also had a blast presenting my own work!🐟 <a href="https://t.co/uZN5ac9Sum">pic.twitter.com/uZN5ac9Sum</a></p>&mdash; Kelly Wallace (@KJeanWallace) <a href="https://twitter.com/KJeanWallace/status/1214710994112528384?ref_src=twsrc%5Etfw">January 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">An amazing group of young researchers traveled from all over the world to shared their science at Austin! Congratulations to all BP grant awardees! <a href="https://twitter.com/hashtag/SICB2020?src=hash&amp;ref_src=twsrc%5Etfw">#SICB2020</a> <a href="https://t.co/f3sliHzahC">pic.twitter.com/f3sliHzahC</a></p>&mdash; SICB (@SICBtweets) <a href="https://twitter.com/SICBtweets/status/1214368841435951104?ref_src=twsrc%5Etfw">January 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">As graduate programs, how should we evaluate our diversity efforts to best address student concerns? Check out this preprint by myself and Julia York to find out! <a href="https://t.co/TfzgNxL0rL">https://t.co/TfzgNxL0rL</a></p>&mdash; Kelly Wallace (@KJeanWallace) <a href="https://twitter.com/KJeanWallace/status/1197989728303353856?ref_src=twsrc%5Etfw">November 22, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
