@@ -42,7 +42,7 @@ Undergraduate Research Advisor: Dr. Alex G Ophir <br><br>
 
 Cryptic sexual dimorphism in spatial memory and hippocampal oxytocin receptors in prairie voles <i>(Microtus ochrogaster)</i> (2017) MA Rice, LE Hobbs,<b> KJ Wallace</b>, AG Ophir. <i>Hormones and Behavior</i> 95: 94–102<br><br>
 
-Sex differences in cognitive performance, style and domain relationships in mosquitofish <i>(Gambusia affinis)</i> (2019) <b>KJ Wallace</b>, RT Rausch, ME Ramsey,  ME Cummings <i>(preprint available at BioRxiv, doi.org/10.1101/842278)</i><br><br>
+Sex differences in cognitive performance, style and domain relationships in mosquitofish <i>(Gambusia affinis)</i> (2019) <b>KJ Wallace</b>, RT Rausch, ME Ramsey,  ME Cummings <i>(accepted, Animal Cognition)</i><br><br>
 
 Using a Systems Change Framework to Evaluate Academic Equity & Climate Efforts in a Graduate Program (2019) <b>KJ Wallace</b>, JM York <i>(preprint available at BioRxiv, doi.org/10.1101/848101) </i><br><br>
 
