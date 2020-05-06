@@ -3,7 +3,7 @@
 <h1>News</h1>
 <hr style="height:9px;color:#84949B">
 
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Excited and thankful to be awarded an <a href="https://twitter.com/NSF_BIO?ref_src=twsrc%5Etfw">@NSF_BIO</a> <a href="https://twitter.com/hashtag/PRFB?src=hash&amp;ref_src=twsrc%5Etfw">#PRFB</a> postdoc fellowship! I&#39;m headed to Emory to work with <a href="https://twitter.com/AubreyMKelly?ref_src=twsrc%5Etfw">@AubreyMKelly</a>, researching how the juvenile social environment shapes behavior and cognition!🐭</p>&mdash; Kelly Wallace (@KJeanWallace) <a href="https://twitter.com/KJeanWallace/status/1257409135089520641?ref_src=twsrc%5Etfw">May 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I had a wonderful time at <a href="https://twitter.com/hashtag/SICB2020?src=hash&amp;ref_src=twsrc%5Etfw">#SICB2020</a> hearing about integrative research across diverse taxa, and I also had a blast presenting my own work!🐟 <a href="https://t.co/uZN5ac9Sum">pic.twitter.com/uZN5ac9Sum</a></p>&mdash; Kelly Wallace (@KJeanWallace) <a href="https://twitter.com/KJeanWallace/status/1214710994112528384?ref_src=twsrc%5Etfw">January 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
