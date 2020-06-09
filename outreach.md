@@ -5,24 +5,6 @@
 <h1>Outreach & Diversity</h1>
 <hr style="height:9px;color:#84949B"><br>
 	
-<img src="/images/chronicle1.jpg"> <br><br>
-<a href="https://www.chronicle.com/article/How-a-Department-Took-On-the/245050"><i><b> How a Department Took On the Next Frontier in the #MeToo Movement</b></i></a> <br><i>photo and article by The Chronicle of Higher Education</i><br>
-The article describes efforts by the graduate students in UT's Integrative Biology Department to improve cultural issues in the department and academia as a whole, specifically as it relates to addressing racial insensitivity and sexism. <br>
-
-
-<br><hr style="height:9px;color:#84949B">
-<p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Mentorship</font></b><br></p>
-
-Through the <a href="https://world.utexas.edu/isss/programs/passport-to-ut"><b>Passport to UT Mentorship Program </b> </a>I have mentored three international students (China, Ghana) during their transition to the United States and to the University of Texas at Austin. <br><br>
-
-The <b>Crockett High School Mentorship Program</b> brings students from Crockett High School (an urban campus with primarily minority and low socioeconomic status enrollment) into a research environment at UT. I have mentored three high school students on their independent research projects, as well as led paper discussions and guided development of research presentations. <br><br>
-
-I have judged oral and posted presentations for the <b>Capital of Texas Undergraduate Research Conference</b> and the <b>University of Texas at Austin College of Natural Sciences Undergraduate Research Forum </b><br>
-
-
-
-<br><hr style="height:9px;color:#84949B">
-<p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Diversity & Inclusion </font></b><br></p>
 
 <img src="/images/CNSdiversity.jpg"> <br>
 
@@ -42,6 +24,19 @@ In 2016 I collaborated with the UT Austin EEB PhD Program to run a <b> social me
 The <a href="http://www.girladvocates.org/"> <b> GirlAdvocates!</b></a> program provides primarily minority local middle school students opportunities to engage in science in their community. In 2015 organized a lab outreach event which included a lab tour, activities, and a student panel discussion about being a woman in science.
 
 
+<img src="/images/chronicle1.jpg"> <br><br>
+<a href="https://www.chronicle.com/article/How-a-Department-Took-On-the/245050"><i><b> How a Department Took On the Next Frontier in the #MeToo Movement</b></i></a> <br><i>photo and article by The Chronicle of Higher Education</i><br>
+The article describes efforts by the graduate students in UT's Integrative Biology Department to improve cultural issues in the department and academia as a whole, specifically as it relates to addressing racial insensitivity and sexism. <br>
+
+
+<br><hr style="height:9px;color:#84949B">
+<p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Mentorship</font></b><br></p>
+
+Through the <a href="https://world.utexas.edu/isss/programs/passport-to-ut"><b>Passport to UT Mentorship Program </b> </a>I have mentored three international students (China, Ghana) during their transition to the United States and to the University of Texas at Austin. <br><br>
+
+The <b>Crockett High School Mentorship Program</b> brings students from Crockett High School (an urban campus with primarily minority and low socioeconomic status enrollment) into a research environment at UT. I have mentored three high school students on their independent research projects, as well as led paper discussions and guided development of research presentations. <br><br>
+
+I have judged oral and posted presentations for the <b>Capital of Texas Undergraduate Research Conference</b> and the <b>University of Texas at Austin College of Natural Sciences Undergraduate Research Forum </b><br>
 
 
 <br><hr style="height:9px;color:#84949B">
@@ -61,7 +56,8 @@ As part of the EEB Program's First Year Subjects and Skills Course, I participat
 
 <a href="https://austinscienceadvocates.wordpress.com/"> <b> Austin Science Advocates</b></a> promotes science communication and science policy awareness. As part of the planning team I have helped with guest speaker events, skills workshops, and “contact your local representative” sessions. <br><br>
 
-In Fall of 2019 I organized a weekly graduate <b>student writing group</b> for students in the EEB Program. 
+In Fall of 2019 I organized a weekly graduate <b>student writing group</b> for students in the EEB Program. <br><br>
 
+ <b>For additional information, please refer to my CV</b>
 
 <br><br><a href="../">Home</a>
