@@ -21,7 +21,9 @@
 <a href="https://www.researchgate.net/profile/Kelly_Wallace2"><i><b>view my ResearchGate profile</b></i></a>
 
 
+<h1>News</h1>
 
+<hr style="height:9px;color:#84949B">
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Congrats to all of the travel awardees for SBN 2020🥂! They are...<br><br>Graduate students - Abigal Barrett, Katherine Broekman, Krisitie Conde, Caroline David, Sagi Gillera, Jacqueline Quigley, and Kelly Wallace</p>&mdash; SBN Tweets (@SBNTweets) <a href="https://twitter.com/SBNTweets/status/1261790172628353032?ref_src=twsrc%5Etfw">May 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
