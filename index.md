@@ -14,7 +14,7 @@
 
 <a href="https://www.biorxiv.org/content/10.1101/842278v1"><i><b>view my most recent preprint (BioRxiv) </b></i></a><br><br>
 
-<a href="https://www.sciencedirect.com/science/article/pii/S0018506X17302027#!"><i><b>view my most recent publication</b></i></a><br><br>
+<a href="https://link.springer.com/article/10.1007/s10071-020-01367-2"><i><b>view my most recent publication</b></i></a><br><br>
 
 <a href="mailto:kwallace@utexas.edu"><i><b>contact me via email</b></i></a><br><br>
 
