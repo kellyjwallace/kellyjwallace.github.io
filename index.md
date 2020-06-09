@@ -12,7 +12,7 @@
 <p><center><img src="/images/Bigbend2.JPG"> </center></p>
 <p style="text-align:right;font-size:60%"><i><font color="darkslateblue">photo by Kurt Miller</font></i><br></p>
 <p><center><img src="/images/KP border_conflict_cropped.gif" height="300" width = "900"> </center></p>
-<p style="text-align:left;font-size:100%"><i><font color="darkslateblue">two male Astatotilapia burtoni engaging in a territorial dispute</font></i><br></p>
+<p style="text-align:left;font-size:100%"><i><font color="darkslateblue">two male Astatotilapia burtoni engaging in a territorial dispute</font></i><br></p><br>
 
 <a href="https://www.biorxiv.org/content/10.1101/842278v1"><i><b>view my most recent preprint (BioRxiv) </b></i></a><br><br>
 
