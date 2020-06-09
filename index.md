@@ -19,7 +19,7 @@
 <a href="mailto:kwallace@utexas.edu"><i><b>contact me via email</b></i></a><br><br>
 
 <a href="https://www.researchgate.net/profile/Kelly_Wallace2"><i><b>view my ResearchGate profile</b></i></a>
-
+<hr style="height:9px;color:#84949B">
 
 <h1>News</h1>
 
