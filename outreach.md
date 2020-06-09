@@ -40,14 +40,15 @@ publications on the history/sociology of African American scientists in evolutio
 In 2016 I collaborated with the UT Austin EEB PhD Program to run a <b> social media campaign during Black History Month </b> (February) to celebrate black scientists. This work inspired an additional program highlighting Hispanic-American scientists.<br><br>
 
 The <a href="http://www.girladvocates.org/"> <b> GirlAdvocates!</b></a> program provides primarily minority local middle school students opportunities to engage in science in their community. In 2015 organized a lab outreach event which included a lab tour, activities, and a student panel discussion about being a woman in science.
-<img src="/images/diversity.png"> <br>
+
 
 
 
 <br><hr style="height:9px;color:#84949B">
 <p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Program Development & Science Policy </font></b><br></p>
 
-Gathering and evaluating data on representaiton in academia is the first step to identifying issues. In our preprint <a href="https://www.biorxiv.org/content/10.1101/848101v1"> <b> Using a Systems Change Framework to Evaluate Academic Equity & Climate Efforts in a Graduate Program</b></a> Julia York and I gathered information about the Department of Integrative Biology at the UNiversity of Texas at Austin and its PhD program in Ecology, Evolution, and BEhavior. We also discuss how graduate programs can evaluate their diversity related efforts in order to make the most efficient and positive impact. 
+Gathering and evaluating data on representation in academia is the first step to identifying areas to target inclusive programming efforts. In our preprint <a href="https://www.biorxiv.org/content/10.1101/848101v1"> <b> Using a Systems Change Framework to Evaluate Academic Equity & Climate Efforts in a Graduate Program</b></a> Julia York and I gathered information about the Department of Integrative Biology at the University of Texas at Austin and its PhD program in Ecology, Evolution, and BEehavior. We discuss how graduate programs can evaluate their inclusive programming efforts in order to make the most efficient and positive impact. 
+<img src="/images/diversity1.png" height="200"> <br>
 
 
 As the <b>EEB Program's Graduate Student Representative</b> from 2018-2019, I attended faculty meetings and disseminated information to students. I organized town hall events, designed and administered a survey on the graduate student curriculum, developed a student writing group, and advocated for student concerns. <br><br>

@@ -5,6 +5,10 @@
 <h1>Curriculum Vitae</h1>
 
 <hr style="height:9px;color:#84949B">
+
+<b>Full CV available here:</b> <br>
+<a href="/images/Kelly_Wallace_curriculum_vita_2020.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+
 <p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Education</font></b><br></p>
 	
 <b>Doctor of Philosophy Program in Ecology, Evolution, and Behavior</b> <br>
@@ -39,11 +43,17 @@ Undergraduate Research Advisor: Dr. Alex G Ophir <br><br>
 
 <br><hr style="height:9px;color:#84949B">
 <p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Publications</font></b><br></p>
-Cryptic sexual dimorphism in spatial memory and hippocampal oxytocin receptors in prairie voles <i>(Microtus ochrogaster)</i> (2017) M.A. Rice, L.E. Hobbs,<b> K.J. Wallace</b>, A.G. Ophir. <i>Hormones and Behavior</i> 95: 94–102<br><br>
-Sex differences in cognitive performance, style and domain relationships in mosquitofish <i>(Gambusia affinis)</i> (2019) <b>K.J. Wallace</b>, R.T. Rausch, M. E.  Ramsey,  M. E. Cummings <i>(preprint available at BioRxiv, doi.org/10.1101/842278)</i><br><br>
+
+Cryptic sexual dimorphism in spatial memory and hippocampal oxytocin receptors in prairie voles <i>(Microtus ochrogaster)</i> (2017) MA Rice, LE Hobbs,<b> KJ Wallace</b>, AG Ophir. <i>Hormones and Behavior</i> 95: 94–102<br><br>
+
+Sex differences in cognitive performance, style and domain relationships in mosquitofish <i>(Gambusia affinis)</i> (2019) <b>KJ Wallace</b>, RT Rausch, ME Ramsey,  ME Cummings <i>(accepted, Animal Cognition)</i><br><br>
+
+Using a Systems Change Framework to Evaluate Academic Equity & Climate Efforts in a Graduate Program (2019) <b>KJ Wallace</b>, JM York <i>(preprint available at BioRxiv, doi.org/10.1101/848101) </i><br><br>
+
 Social behavioral consistency over development and across contexts in a highly
-social fish. T.K. Solomon-Lane, <b>K.J. Wallace</b>, R.M. Butler, H. A. Hofmann <i>(in prep)</i><br><br>
-Cognitive-Behavioral variation in dynamic social communities of <i> Astatotilapia burtoni </i>. <b>K.J. Wallace</b>, H.A. Hofmann <i>(in prep)</i>
+social fish. TK Solomon-Lane, <b>KJ Wallace</b>, RM Butler, HA Hofmann <i>(in prep)</i><br><br>
+
+Cognitive-Behavioral variation in dynamic social communities of <i> Astatotilapia burtoni </i>. <b>KJ Wallace</b>, HA Hofmann <i>(in prep)</i>
 
 
 
@@ -61,6 +71,10 @@ Hormones and Behavior (1) Scientific Reports (1) Trends in Cognitive Sciences 
 <br><hr style="height:9px;color:#84949B">
 <p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Presentations</font></b><br></p>
 
+<b>Brain Behavior, and Evolution Seminar, University of Texas at Austin, 2020 </b><br>
+Talk: <i>Neuroendocrine basis of social competence & cognition in a highly social cichlid fish</i><br><br>
+<b>Society for Integrative & Comparative Biology, Austin TX, 2020 </b><br>
+Poster:<i>Neuroendocrine basis of social competence & cognition in a highly social cichlid fish</i><br><br>
 <b>Janelia Junior Scientist Workshop on Mechanistic Cognitive Neuroscience, HHMI, 2019</b><br>
 Talk: <i>Neuroendocrine basis of social competence & cognition in a highly social cichlid fish</i><br><br>
 <b>Long-View Micro School Outreach Presentation, 2019 </b><br>
