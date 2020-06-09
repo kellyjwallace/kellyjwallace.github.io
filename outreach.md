@@ -58,6 +58,6 @@ As part of the EEB Program's First Year Subjects and Skills Course, I participat
 
 In Fall of 2019 I organized a weekly graduate <b>student writing group</b> for students in the EEB Program. <br><br>
 
- <b>For additional information, please refer to my CV</b>
+ <i>For additional information, please refer to my CV</i>
 
 <br><br><a href="../">Home</a>
