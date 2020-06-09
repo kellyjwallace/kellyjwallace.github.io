@@ -21,8 +21,8 @@ publications on the history/sociology of African American scientists in evolutio
 
 In 2016 I collaborated with the UT Austin EEB PhD Program to run a <b> social media campaign during Black History Month </b> (February) to celebrate black scientists. This work inspired an additional program highlighting Hispanic-American scientists.<br><br>
 
-The <a href="http://www.girladvocates.org/"> <b> GirlAdvocates!</b></a> program provides primarily minority local middle school students opportunities to engage in science in their community. In 2015 organized a lab outreach event which included a lab tour, activities, and a student panel discussion about being a woman in science.
-
+The <a href="http://www.girladvocates.org/"> <b> GirlAdvocates!</b></a> program provides primarily minority local middle school students opportunities to engage in science in their community. In 2015 organized a lab outreach event which included a lab tour, activities, and a student panel discussion about being a woman in science.<br><br>
+<hr style="height:9px;color:#84949B"><br>
 
 <img src="/images/chronicle1.jpg"> <br><br>
 <a href="https://www.chronicle.com/article/How-a-Department-Took-On-the/245050"><i><b> How a Department Took On the Next Frontier in the #MeToo Movement</b></i></a> <br><i>photo and article by The Chronicle of Higher Education</i><br>
