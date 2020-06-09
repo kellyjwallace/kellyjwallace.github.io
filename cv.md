@@ -7,7 +7,7 @@
 <hr style="height:9px;color:#84949B">
 
 <b>Full CV available here:</b> <br>
-<a href="https://github.com/kellyjwallace/kellyjwallace.github.io/blob/master/images/Kelly_Wallace_curriculum_vita_2020.pdf"</a>
+<embed src="https://github.com/kellyjwallace/kellyjwallace.github.io/blob/master/images/Kelly_Wallace_curriculum_vita_2020.pdf" type="application/pdf" />
 
 <p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Education</font></b><br></p>
 	
