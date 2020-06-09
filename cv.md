@@ -5,6 +5,10 @@
 <h1>Curriculum Vitae</h1>
 
 <hr style="height:9px;color:#84949B">
+
+<b>Full CV available here:</b> <br>
+<a href="/images/Kelly_Wallace_curriculum_vita_2020.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+
 <p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Education</font></b><br></p>
 	
 <b>Doctor of Philosophy Program in Ecology, Evolution, and Behavior</b> <br>
