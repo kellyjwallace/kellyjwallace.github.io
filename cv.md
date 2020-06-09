@@ -6,7 +6,7 @@
 
 <hr style="height:9px;color:#84949B">
 
-<embed src="https://kellyjwallace.github.io/images/Kelly_Wallace_curriculum_vita_2020.pdf" width="1000px" height="800px" />
+<embed src="https://kellyjwallace.github.io/images/Kelly_Wallace_curriculum_vita_2020.pdf" target="_blank" />
 
 <p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Education</font></b><br></p>
 	
