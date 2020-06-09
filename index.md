@@ -4,7 +4,7 @@
 <div class="blurb">
 <center><img src="/images/eeb1.jpg" height="140"></center>
 
-<p style="text-align:center;font-size:110%">My research at the University of Texas at Austin investigates the ecological, behavioral, physiological, and neuromolecular mechanisms underlying how an animal's social environment influences their behavior and cognition. </p>
+<p style="text-align:center;font-size:110%">My research at the University of Texas at Austin investigates how the social environment influences individual behavior and cognition, integrating ecological, behavioral, physiological, and neuromolecular perspectives. </p>
 	
 <hr style="height:9px;color:#84949B">
 
