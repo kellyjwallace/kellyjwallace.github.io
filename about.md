@@ -5,9 +5,7 @@
 <h1>About</h1>
 <hr style="height:9px;color:#84949B"><br>
 
-	
-<img align="center" src="/images/Kelly1.jpg" height="450">
-<br><br><br>
+<p><center><img src="/images/Kelly1.jpg" height="450"> </center></p>
 
 <p style="text-align:center;font-size:110%">I grew up in Easton, Pennsylvania and earned my bachelor's degree at Cornell University in Ithaca, New York. At Cornell I sang a cappella and was introduced to behavioral ecology and neurobiology while working on prairie voles in the lab of Dr. Alex Ophir. <br><br> In 2015 I joined the Ecology, Evolution, and PhD program at the University of Texas at Austin. I currently research social decision-making cichlid fish, advised by Dr. Hans Hofmann & Dr. Mike Ryan. If I'm not running fish through mazes, you can find me camping around Texas, playing the viola, or meticulously searching for the best happy hours in Austin.</p>
 
