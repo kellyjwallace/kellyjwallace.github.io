@@ -9,9 +9,9 @@
 <hr style="height:9px;color:#84949B">
 
 	
-<img src="/images/Bigbend2.JPG">
+<p><center><img src="/images/Bigbend2.JPG" height="450"> </center></p>
 <p style="text-align:right;font-size:60%"><i><font color="darkslateblue">photo by Kurt Miller</font></i><br></p>
-<img src="/images/KP border_conflict_cropped.gif">
+<p><center><img src="/images/KP border_conflict_cropped.gif" height="450"> </center></p>
 
 <a href="https://www.biorxiv.org/content/10.1101/842278v1"><i><b>view my most recent preprint (BioRxiv) </b></i></a><br><br>
 
