@@ -11,7 +11,7 @@
 	
 <p><center><img src="/images/Bigbend2.JPG"> </center></p>
 <p style="text-align:right;font-size:60%"><i><font color="darkslateblue">photo by Kurt Miller</font></i><br></p>
-<p><center><img src="/images/KP border_conflict_cropped.gif" height="200" width = "300"> </center></p>
+<p><center><img src="/images/KP border_conflict_cropped.gif" height="200" width = "600"> </center></p>
 
 <a href="https://www.biorxiv.org/content/10.1101/842278v1"><i><b>view my most recent preprint (BioRxiv) </b></i></a><br><br>
 
