@@ -3,9 +3,9 @@
 <div class="container">
 <div class="blurb">
 <center><img src="/images/eeb1.jpg" height="170"></center>
-
-<p style="text-align:center;font-size:110%">My research at the University of Texas at Austin investigates how the social environment influences individual behavior and cognition by integrating ecological, behavioral, physiological, and neuromolecular perspectives. </p>
 <hr style="height:9px;color:#84949B">
+<p style="text-align:center;font-size:110%">My research at the University of Texas at Austin investigates how the social environment influences individual behavior and cognition by integrating ecological, behavioral, physiological, and neuromolecular perspectives. </p>
+
 <p><center><img src="/images/choose texas gif 2019.gif"> </center></p>
 	
 
