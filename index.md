@@ -6,7 +6,7 @@
 
 <p style="text-align:center;font-size:110%">My research at the University of Texas at Austin investigates how the social environment influences individual behavior and cognition by integrating ecological, behavioral, physiological, and neuromolecular perspectives. </p>
 
-<p><center><img src="/images/choose_texas.gif"> </center></p>
+<p><center><img src="/images/choose texas gif 2019.gif"> </center></p>
 	
 <hr style="height:9px;color:#84949B">
 <center><a href="https://link.springer.com/article/10.1007/s10071-020-01367-2"><i><b>view my most recent publication</b></i></a><br>
