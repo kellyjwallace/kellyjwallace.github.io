@@ -15,7 +15,7 @@ vimeoId: 343679289
 		
 
 
-{% include vimeoPlayer.html id=page.vimeoId %}<br>
+<center>{% include vimeoPlayer.html id=page.vimeoId %}</center><br>
 Three graduate students across varied disciplines were selected to participate in a Choose Texas pomotional video hosted by The Graduate School at the University of Texas at Austin <br><br>
 
 <p><a href="https://tbmws.podbean.com/"> <b>They Blinded Me with Science</b></a> is a student-run radio program where scientists can share their research (KVRX 91.7 FM). I participated in a show and answered questions on fish cognition. <br>
