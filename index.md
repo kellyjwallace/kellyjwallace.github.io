@@ -12,7 +12,7 @@
 <center><a href="mailto:kwallace@utexas.edu"><i><b>contact me via email</b></i></a><br>
 
 <center><a href="https://www.researchgate.net/profile/Kelly_Wallace2"><i><b>view my ResearchGate profile</b></i></a>
-<hr style="height:9px;color:#84949B">
+
 
 <center><img src="/images/eeb1.jpg" height="170"></center>
 <p><center><img src="/images/KP border_conflict_cropped.gif" height="300" width = "900"> </center></p>
@@ -20,6 +20,7 @@
 
 
 <h1>News</h1>
+<hr style="height:9px;color:#84949B">
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Kelly Wallace (<a href="https://twitter.com/KJeanWallace?ref_src=twsrc%5Etfw">@KJeanWallace</a>, <a href="https://t.co/y62w8AfZBz">https://t.co/y62w8AfZBz</a>) is finishing her PhD <a href="https://twitter.com/UTAustin?ref_src=twsrc%5Etfw">@UTAustin</a>, where she integrates ecological, behavioral, physiological, &amp; neuromolecular perspectives to understand how social environments influence individual behavior &amp; cognition. <a href="https://twitter.com/hashtag/BlackInAnimalBehavior?src=hash&amp;ref_src=twsrc%5Etfw">#BlackInAnimalBehavior</a> <a href="https://t.co/1wWlJn3Cwb">pic.twitter.com/1wWlJn3Cwb</a></p>&mdash; Animal Behavior Society (@AnimBehSociety) <a href="https://twitter.com/AnimBehSociety/status/1286677521728069632?ref_src=twsrc%5Etfw">July 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
