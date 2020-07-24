@@ -5,23 +5,25 @@
 <center><img src="/images/eeb1.jpg" height="170"></center>
 
 <p style="text-align:center;font-size:110%">My research at the University of Texas at Austin investigates how the social environment influences individual behavior and cognition by integrating ecological, behavioral, physiological, and neuromolecular perspectives. </p>
+
+<p><center><img src="/images/choose_texas.gif"> </center></p>
 	
+<hr style="height:9px;color:#84949B">
+<center><a href="https://link.springer.com/article/10.1007/s10071-020-01367-2"><i><b>view my most recent publication</center></b></i></a><br>
+
+<center><a href="mailto:kwallace@utexas.edu"><i><b>contact me via email</center></b></i></a><br>
+
+<center><a href="https://www.researchgate.net/profile/Kelly_Wallace2"><i><b>view my ResearchGate profile</center></b></i></a>
 <hr style="height:9px;color:#84949B">
 
 	
-<p><center><img src="/images/Bigbend2.JPG"> </center></p>
-<p style="text-align:right;font-size:60%"><i><font color="darkslateblue">photo by Kurt Miller</font></i><br></p>
 <p><center><img src="/images/KP border_conflict_cropped.gif" height="300" width = "900"> </center></p>
 <p style="text-align:right;font-size:80%"><i><font color="darkslateblue">two male Astatotilapia burtoni engaging in a territorial dispute</font></i><br></p><br>
 
-<a href="https://link.springer.com/article/10.1007/s10071-020-01367-2"><i><b>view my most recent publication</b></i></a><br><br>
-
-<a href="mailto:kwallace@utexas.edu"><i><b>contact me via email</b></i></a><br><br>
-
-<a href="https://www.researchgate.net/profile/Kelly_Wallace2"><i><b>view my ResearchGate profile</b></i></a>
-<hr style="height:9px;color:#84949B">
 
 <h1>News</h1>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Kelly Wallace (<a href="https://twitter.com/KJeanWallace?ref_src=twsrc%5Etfw">@KJeanWallace</a>, <a href="https://t.co/y62w8AfZBz">https://t.co/y62w8AfZBz</a>) is finishing her PhD <a href="https://twitter.com/UTAustin?ref_src=twsrc%5Etfw">@UTAustin</a>, where she integrates ecological, behavioral, physiological, &amp; neuromolecular perspectives to understand how social environments influence individual behavior &amp; cognition. <a href="https://twitter.com/hashtag/BlackInAnimalBehavior?src=hash&amp;ref_src=twsrc%5Etfw">#BlackInAnimalBehavior</a> <a href="https://t.co/1wWlJn3Cwb">pic.twitter.com/1wWlJn3Cwb</a></p>&mdash; Animal Behavior Society (@AnimBehSociety) <a href="https://twitter.com/AnimBehSociety/status/1286677521728069632?ref_src=twsrc%5Etfw">July 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Congrats to all of the travel awardees for SBN 2020🥂! They are...<br><br>Graduate students - Abigal Barrett, Katherine Broekman, Krisitie Conde, Caroline David, Sagi Gillera, Jacqueline Quigley, and Kelly Wallace</p>&mdash; SBN Tweets (@SBNTweets) <a href="https://twitter.com/SBNTweets/status/1261790172628353032?ref_src=twsrc%5Etfw">May 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
