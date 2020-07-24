@@ -5,18 +5,18 @@
 <center><img src="/images/eeb1.jpg" height="170"></center>
 
 <p style="text-align:center;font-size:110%">My research at the University of Texas at Austin investigates how the social environment influences individual behavior and cognition by integrating ecological, behavioral, physiological, and neuromolecular perspectives. </p>
+
+<p><center><img src="/images/choose texas gif 2019.gif"> </center></p>
 	
-<hr style="height:9px;color:#84949B;text-align:center;font-size:110%">
-<a href="https://link.springer.com/article/10.1007/s10071-020-01367-2"><i><b>view my most recent publication</b></i></a><br>
+<hr style="height:9px;color:#84949B">
+<center><a href="https://link.springer.com/article/10.1007/s10071-020-01367-2"><i><b>view my most recent publication</center></b></i></a><br>
 
-<a href="mailto:kwallace@utexas.edu"><i><b>contact me via email</b></i></a><br>
+<center><a href="mailto:kwallace@utexas.edu"><i><b>contact me via email</center></b></i></a><br>
 
-<a href="https://www.researchgate.net/profile/Kelly_Wallace2"><i><b>view my ResearchGate profile</b></i></a>
+<center><a href="https://www.researchgate.net/profile/Kelly_Wallace2"><i><b>view my ResearchGate profile</center></b></i></a>
 <hr style="height:9px;color:#84949B">
 
 	
-<p><center><img src="/images/Bigbend2.JPG"> </center></p>
-<p style="text-align:right;font-size:60%"><i><font color="darkslateblue">photo by Kurt Miller</font></i><br></p>
 <p><center><img src="/images/KP border_conflict_cropped.gif" height="300" width = "900"> </center></p>
 <p style="text-align:right;font-size:80%"><i><font color="darkslateblue">two male Astatotilapia burtoni engaging in a territorial dispute</font></i><br></p><br>
 
