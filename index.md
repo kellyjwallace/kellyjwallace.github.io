@@ -11,7 +11,7 @@
 
 <center><a href="mailto:kwallace@utexas.edu"><i><b>contact me via email</b></i></a><br>
 
-<center><a href="https://www.researchgate.net/profile/Kelly_Wallace2"><i><b>view my ResearchGate profile</b></i></a>
+<center><a href="https://www.researchgate.net/profile/Kelly_Wallace2"><i><b>view my ResearchGate profile</b></i></a><br>
 
 
 <center><img src="/images/eeb1.jpg" height="170"></center>
