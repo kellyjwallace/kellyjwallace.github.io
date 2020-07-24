@@ -9,11 +9,11 @@
 <p><center><img src="/images/choose_texas.gif"> </center></p>
 	
 <hr style="height:9px;color:#84949B">
-<center><a href="https://link.springer.com/article/10.1007/s10071-020-01367-2"><i><b>view my most recent publication</center></b></i></a><br>
+<center><a href="https://link.springer.com/article/10.1007/s10071-020-01367-2"><i><b>view my most recent publication</b></i></a><br>
 
-<center><a href="mailto:kwallace@utexas.edu"><i><b>contact me via email</center></b></i></a><br>
+<center><a href="mailto:kwallace@utexas.edu"><i><b>contact me via email</b></i></a><br>
 
-<center><a href="https://www.researchgate.net/profile/Kelly_Wallace2"><i><b>view my ResearchGate profile</center></b></i></a>
+<center><a href="https://www.researchgate.net/profile/Kelly_Wallace2"><i><b>view my ResearchGate profile</b></i></a>
 <hr style="height:9px;color:#84949B">
 
 	
