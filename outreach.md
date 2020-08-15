@@ -8,7 +8,7 @@
 
 <img src="/images/CNSdiversity.jpg"> <br>
 
-In summer 2020 was invited by the College of Natural Sciences Dean Goldbart to join a 15-member <ahref="https://cns.utexas.edu/news/your-ideas-in-a-time-of-momentum"> <b> CNS Action Team on Racial Justice</b></a> that assessed needs and priorities in response to a college-wide request for action.<br><br>
+In summer 2020 was invited by the College of Natural Sciences Dean Goldbart to join a 15-member <a href="https://cns.utexas.edu/news/your-ideas-in-a-time-of-momentum"> <b> CNS Action Team on Racial Justice</b></a> that assessed needs and priorities in response to a college-wide request for action.<br><br>
 
 Since 2019 I have served on the <a href="https://cns.utexas.edu/diversity/d-i-committee"> <b> UT College of Natural Sciences Diversity and Inclusion Committee</b> </a> which has organized college-wide initiatives such as the “You Belong Here” campaign, gender-neutral bathrooms, diversity award funding, and a college-wide lunch-series.<br><br>
 
