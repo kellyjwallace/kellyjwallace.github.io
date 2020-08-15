@@ -16,8 +16,7 @@ MA Rice, LE Hobbs, <b> KJ Wallace</b>, AG Ophir (2017) <i>Cryptic sexual dimorph
 
 <b>KJ Wallace</b>, HA Hofmann. <i>Decision-making in a social world: integrating animal cognition and social neuroscience </i> (invited manuscript in prep, Current Opinion in Neurobiology)<br><br>
 
-<b>KJ Wallace</b>, JM York <i> Using a Systems Change Framework to Evaluate Academic Equity & Climate Efforts in a Graduate Program </i> (in review, preprint available on BioRxiv,
-doi.org/10.1101/848101) <br><br>
+<b>KJ Wallace</b>, JM York <i> Using a Systems Change Framework to Evaluate Academic Equity & Climate Efforts in a Graduate Program </i> (in review, preprint available on BioRxiv, <a href="https://doi.org/10.1101/848101> doi.org/10.1101/848101</a>) <br><br>
 
 TK Solomon-Lane, <b>KJ Wallace</b>, RM Butler, HA Hofmann. <i>Social behavioral consistency over development and across contexts in a highly social cichlid fish</i> (in prep) <br><br>
 
