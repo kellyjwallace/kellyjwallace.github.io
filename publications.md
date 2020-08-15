@@ -19,3 +19,13 @@ doi.org/10.1101/848101) <br><br>
 
 TK Solomon-Lane, KJ Wallace, RM Butler, HA Hofmann. Social behavioral consistency over development and across contexts in a highly social cichlid fish (in prep) <br>
 KJ Wallace, HA Hofmann. Cognitive-Behavioral variation in dynamic social communities of highly social cichlid fish (in prep)<br><br>
+
+
+
+
+
+
+
+
+<br><br>	
+<a href="../">Home</a>
