@@ -17,8 +17,9 @@ MANUSCRIPTS IN PREP<br>
 <b>KJ Wallace</b>, JM York Using a Systems Change Framework to Evaluate Academic Equity & Climate Efforts in a Graduate Program (in review, preprint available on BioRxiv,
 doi.org/10.1101/848101) <br><br>
 
-TK Solomon-Lane, KJ Wallace, RM Butler, HA Hofmann. Social behavioral consistency over development and across contexts in a highly social cichlid fish (in prep) <br>
-KJ Wallace, HA Hofmann. Cognitive-Behavioral variation in dynamic social communities of highly social cichlid fish (in prep)<br><br>
+TK Solomon-Lane, <b>KJ Wallace</b>, RM Butler, HA Hofmann. Social behavioral consistency over development and across contexts in a highly social cichlid fish (in prep) <br><br>
+
+<b>KJ Wallace</b>, HA Hofmann. Cognitive-Behavioral variation in dynamic social communities of highly social cichlid fish (in prep)<br><br>
 
 
 
