@@ -45,8 +45,8 @@ I have judged oral and posted presentations for the <b>Capital of Texas Undergr
 <br><hr style="height:9px;color:#84949B">
 <p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Program Development & Science Policy </font></b><br></p>
 
-Gathering and evaluating data on representation in academia is the first step to identifying areas to target inclusive programming efforts. In our preprint <a href="https://www.biorxiv.org/content/10.1101/848101v1"> <b> Using a Systems Change Framework to Evaluate Academic Equity & Climate Efforts in a Graduate Program</b></a> Julia York and I gathered information about the Department of Integrative Biology at the University of Texas at Austin and its PhD program in Ecology, Evolution, and Beehavior. In the manuscript we discuss how graduate programs can evaluate their inclusive programming efforts in order to make the most efficient and positive impact. 
-<img src="/images/diversity1.jpg" height="300"> <br>
+Gathering and evaluating data on representation in academia is the first step to identifying areas to target inclusive programming efforts. In our preprint <a href="https://www.biorxiv.org/content/10.1101/848101v1"> <b> Using a Systems Change Framework to Evaluate Academic Equity & Climate Efforts in a Graduate Program</b></a> Julia York and I gathered information about the Department of Integrative Biology at the University of Texas at Austin and its PhD program in Ecology, Evolution, and Beehavior. In the manuscript we discuss how graduate programs can evaluate their inclusive programming efforts in order to make the most efficient and positive impact. <br>
+<img src="/images/diversity1.jpg" height="400"> <br>
 
 
 As the <b>EEB Program's Graduate Student Representative</b> from 2018-2019, I attended faculty meetings and disseminated information to students. I organized town hall events, designed and administered a survey on the graduate student curriculum, developed a student writing group, and advocated for student concerns. <br><br>
