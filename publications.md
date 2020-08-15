@@ -6,9 +6,9 @@
 <h1>Publications</h1>
 <hr style="height:9px;color:#84949B"><br>
 
-<b>KJ Wallace</b>, RT Rausch, ME Ramsey, ME Cummings (2020) <i>Sex differences in cognitive performance, style across domains in mosquitofish (Gambusia affinis)</i> Animal Cognition 23:655–669 <a href = "doi.org/10.1007/s10071-020-01367-2"> </a> <br><br>
+<b>KJ Wallace</b>, RT Rausch, ME Ramsey, ME Cummings (2020) <i>Sex differences in cognitive performance, style across domains in mosquitofish (Gambusia affinis)</i> Animal Cognition 23:655–669 <a href = "https://doi.org/10.1007/s10071-020-01367-2"> doi.org/10.1007/s10071-020-01367-2 </a> <br><br>
 
-MA Rice, LE Hobbs, <b> KJ Wallace</b>, AG Ophir (2017) <i>Cryptic sexual dimorphism in spatial memory and hippocampal oxytocin receptors in prairie voles (Microtus ochrogaster) </i> Hormones and Behavior 95: 94–102 <a href="https://doi.org/10.1016/j.yhbeh.2017.08.003"></a> <br><br> 
+MA Rice, LE Hobbs, <b> KJ Wallace</b>, AG Ophir (2017) <i>Cryptic sexual dimorphism in spatial memory and hippocampal oxytocin receptors in prairie voles (Microtus ochrogaster) </i> Hormones and Behavior 95: 94–102 <a href="https://doi.org/10.1016/j.yhbeh.2017.08.003">doi.org/10.1016/j.yhbeh.2017.08.003</a> <br><br> 
 
 
 <h1>Manuscripts in prep</h1>
