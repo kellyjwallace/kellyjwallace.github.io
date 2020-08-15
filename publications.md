@@ -5,12 +5,13 @@
 	
 PUBLICATIONS<br>
 
-<br> MA Rice, LE Hobbs, <b> KJ Wallace</b>, AG Ophir (2017) Cryptic sexual dimorphism in spatial memory and hippocampal oxytocin receptors in prairie voles (Microtus ochrogaster) Hormones and Behavior 95: 94–102 <br>
+MA Rice, LE Hobbs, <b> KJ Wallace</b>, AG Ophir (2017) Cryptic sexual dimorphism in spatial memory and hippocampal oxytocin receptors in prairie voles (Microtus ochrogaster) Hormones and Behavior 95: 94–102 <br>
 
 <b>KJ Wallace</b>, RT Rausch, ME Ramsey, ME Cummings (2020) Sex differences in cognitive performance, style across domains in mosquitofish (Gambusia affinis) Animal Cognition,
 doi.org/10.1007/s10071-020-01367-2. <br>
 
-MANUSCRIPTS IN PREP
+MANUSCRIPTS IN PREP<br>
+
 <b>KJ Wallace</b>, HA Hofmann. Decision-making in a social world: integrating animal cognition and social neuroscience (invited manuscript in prep, Current Opinion in Neurobiology)<br>
 
 <b>KJ Wallace</b>, JM York Using a Systems Change Framework to Evaluate Academic Equity & Climate Efforts in a Graduate Program (in review, preprint available on BioRxiv,
