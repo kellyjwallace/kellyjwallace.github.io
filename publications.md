@@ -14,14 +14,14 @@ MA Rice, LE Hobbs, <b> KJ Wallace</b>, AG Ophir (2017) <i>Cryptic sexual dimorph
 <h1>Manuscripts in prep</h1>
 <hr style="height:9px;color:#84949B"><br>
 
-<b>KJ Wallace</b>, HA Hofmann. Decision-making in a social world: integrating animal cognition and social neuroscience (invited manuscript in prep, Current Opinion in Neurobiology)<br><br>
+<b>KJ Wallace</b>, HA Hofmann. <i>Decision-making in a social world: integrating animal cognition and social neuroscience </i> (invited manuscript in prep, Current Opinion in Neurobiology)<br><br>
 
-<b>KJ Wallace</b>, JM York Using a Systems Change Framework to Evaluate Academic Equity & Climate Efforts in a Graduate Program (in review, preprint available on BioRxiv,
+<b>KJ Wallace</b>, JM York <i> Using a Systems Change Framework to Evaluate Academic Equity & Climate Efforts in a Graduate Program </i> (in review, preprint available on BioRxiv,
 doi.org/10.1101/848101) <br><br>
 
-TK Solomon-Lane, <b>KJ Wallace</b>, RM Butler, HA Hofmann. Social behavioral consistency over development and across contexts in a highly social cichlid fish (in prep) <br><br>
+TK Solomon-Lane, <b>KJ Wallace</b>, RM Butler, HA Hofmann. <i>Social behavioral consistency over development and across contexts in a highly social cichlid fish</i> (in prep) <br><br>
 
-<b>KJ Wallace</b>, HA Hofmann. Cognitive-Behavioral variation in dynamic social communities of highly social cichlid fish (in prep)<br><br>
+<b>KJ Wallace</b>, HA Hofmann. <i> Cognitive-Behavioral variation in dynamic social communities of highly social cichlid fish</i> (in prep)<br><br>
 
 
 
