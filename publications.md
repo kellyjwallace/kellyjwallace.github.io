@@ -6,7 +6,7 @@
 <h1>Publications</h1>
 <hr style="height:9px;color:#84949B"><br>
 
-MA Rice, LE Hobbs, <b> KJ Wallace</b>, AG Ophir (2017) <i>Cryptic sexual dimorphism in spatial memory and hippocampal oxytocin receptors in prairie voles (Microtus ochrogaster) </i> Hormones and Behavior 95: 94–102 https://doi.org/10.1016/j.yhbeh.2017.08.003 <br><br> 
+MA Rice, LE Hobbs, <b> KJ Wallace</b>, AG Ophir (2017) <i>Cryptic sexual dimorphism in spatial memory and hippocampal oxytocin receptors in prairie voles (Microtus ochrogaster) </i> Hormones and Behavior 95: 94–102 <a href="https://doi.org/10.1016/j.yhbeh.2017.08.003"> <br><br> 
 
 <b>KJ Wallace</b>, RT Rausch, ME Ramsey, ME Cummings (2020) Sex differences in cognitive performance, style across domains in mosquitofish (Gambusia affinis) Animal Cognition,
 doi.org/10.1007/s10071-020-01367-2. <br><br>
