@@ -2,11 +2,19 @@
 		
 <div class="container">
 <div class="blurb">
-<p style="text-align:center;font-size:110%">My research at the University of Texas at Austin investigates how the social environment influences individual behavior and cognition by integrating ecological, behavioral, physiological, and neuromolecular perspectives. </p>
-	<center><img src="/images/eeb1.jpg" height="180"></center>
+	
+PUBLICATIONS<br>
 
-<center><a href="https://link.springer.com/article/10.1007/s10071-020-01367-2"><i><b>view my most recent publication</b></i></a><br><br>
-<center><a href="mailto:kwallace@utexas.edu"><i><b>contact me via email</b></i></a><br><br>
-<center><a href="https://www.researchgate.net/profile/Kelly_Wallace2"><i><b>view my ResearchGate profile</b></i></a><br><br>
+<br> MA Rice, LE Hobbs, <b> KJ Wallace</b>, AG Ophir (2017) Cryptic sexual dimorphism in spatial memory and hippocampal oxytocin receptors in prairie voles (Microtus ochrogaster) Hormones and Behavior 95: 94–102 <br>
 
-<p><center><img src="/images/choose texas gif 2019.gif"> </center></p>
+<b>KJ Wallace</b>, RT Rausch, ME Ramsey, ME Cummings (2020) Sex differences in cognitive performance, style across domains in mosquitofish (Gambusia affinis) Animal Cognition,
+doi.org/10.1007/s10071-020-01367-2. <br>
+
+MANUSCRIPTS IN PREP
+<b>KJ Wallace</b>, HA Hofmann. Decision-making in a social world: integrating animal cognition and social neuroscience (invited manuscript in prep, Current Opinion in Neurobiology)<br>
+
+<b>KJ Wallace</b>, JM York Using a Systems Change Framework to Evaluate Academic Equity & Climate Efforts in a Graduate Program (in review, preprint available on BioRxiv,
+doi.org/10.1101/848101) <br>
+
+TK Solomon-Lane, KJ Wallace, RM Butler, HA Hofmann. Social behavioral consistency over development and across contexts in a highly social cichlid fish (in prep) <br>
+KJ Wallace, HA Hofmann. Cognitive-Behavioral variation in dynamic social communities of highly social cichlid fish (in prep)
