@@ -5,12 +5,11 @@
 <h1>Research</h1>
 <hr style="height:9px;color:#84949B">
 	
-<p><center><img src="/images/aburtoni.png" height="375"> </center></p>
-<p style="text-align:center;font-size:80%"><i><font color="darkslateblue"> drawing by <a href="https://caitlinfriesen.myportfolio.com/"> <b>Caitlin Friesen</b></a></font></i></p>
-
 <p style="color:darkslateblue"><em> I'm interested in understanding how an individual's social environment influences how they behave and make decisions. I have investigated this question across three model systems: cichlid fish, mosquitofish, and prairie voles. These three systems are well known for their dynamic and varied social interactions, a historical foundation on the neural and hormonal mechanisms of social behavior and decision-making, and integration of broad eco-evolutionary frameworks. <br></em></p>
 
-
+	
+<p><center><img src="/images/aburtoni.png" height="350"> </center></p>
+<p style="text-align:center;font-size:80%"><i><font color="darkslateblue"> drawing by <a href="https://caitlinfriesen.myportfolio.com/"> <b>Caitlin Friesen</b></a></font></i></p>
 
 <p style="text-align:left;font-size:120%"><b><font color="darkslateblue">Neuroendocrine basis of social competence and cognition in dynamic communities of a highly soical cichlid fish <i>(Astatotilapia burtoni)</i></font></b><br></p>
 
