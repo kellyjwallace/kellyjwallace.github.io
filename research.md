@@ -9,7 +9,7 @@
 
 	
 <p><center><img src="/images/aburtoni.png" height="350"> </center></p>
-<p style="text-align:center;font-size:80%"><i><font color="darkslateblue"> drawing by <a href="https://caitlinfriesen.myportfolio.com/"> <b>Caitlin Friesen</b></a></font></i></p>
+<p style="text-align:center;font-size:80%"><i><font color="darkslateblue"> Astatotilapia burtoni - drawing by <a href="https://caitlinfriesen.myportfolio.com/"> <b>Caitlin Friesen</b></a></font></i></p>
 
 <p style="text-align:left;font-size:120%"><b><font color="darkslateblue">Neuroendocrine basis of social competence and cognition in dynamic communities of a highly soical cichlid fish <i>(Astatotilapia burtoni)</i></font></b><br></p>
 
