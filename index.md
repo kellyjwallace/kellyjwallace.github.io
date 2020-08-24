@@ -4,17 +4,20 @@
 <div class="blurb">
 <p style="text-align:center;font-size:110%">My research at the University of Texas at Austin investigates how the social environment influences individual behavior and cognition by integrating ecological, behavioral, physiological, and neuromolecular perspectives. </p>
 	
-<center><img src="/images/eeb1.jpg" height="180"></center><br>
-
-<center><a href="https://link.springer.com/article/10.1007/s10071-020-01367-2"><i><b>view my most recent publication</b></i></a><br><br>
-<center><a href="mailto:kwallace@utexas.edu"><i><b>contact me via email</b></i></a><br><br>
-<center><a href="https://www.researchgate.net/profile/Kelly_Wallace2"><i><b>view my ResearchGate profile</b></i></a><br><br>
+<center>   <a href="mailto:kwallace@utexas.edu"><i><b>contact me via email</b></i></a>
+<center>   <a href="https://link.springer.com/article/10.1007/s10071-020-01367-2"><i><b>view my most recent publication</b></i></a>
+<center>   <a href="https://www.researchgate.net/profile/Kelly_Wallace2"><i><b>view my ResearchGate profile</b></i></a>
+<center>   <a href="https://github.com/kellyjwallace"><i><b>view my Github page</b></i></a>
+	
+<center><img src="/images/eeb1.jpg" height="180"></center>	
 
 <p><center><img src="/images/choose texas gif 2019.gif"> </center></p>
 	
 
 <h1>News</h1>
 <hr style="height:9px;color:#84949B">
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you use CowLog (or any event logging software to score a focal animal moving between zones) I&#39;ve created an R package to help summarize and visualize your observations! Check out cowlogdata on github: <a href="https://t.co/4aSqhOINwx">https://t.co/4aSqhOINwx</a></p>&mdash; Kelly Wallace (@KJeanWallace) <a href="https://twitter.com/KJeanWallace/status/1297928483331604487?ref_src=twsrc%5Etfw">August 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">BioRxiv preprint up!🐟Check out &quot;Equal performance but distinct behaviors: Astatotilapia burtoni sex differences in a novel object recognition task and spatial maze&quot; <a href="https://t.co/7adpUZLZmd">https://t.co/7adpUZLZmd</a></p>&mdash; Kelly Wallace (@KJeanWallace) <a href="https://twitter.com/KJeanWallace/status/1290714415680172039?ref_src=twsrc%5Etfw">August 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

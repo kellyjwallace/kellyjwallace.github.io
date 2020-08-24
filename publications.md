@@ -26,8 +26,11 @@ TK Solomon-Lane, <b>KJ Wallace</b>, RM Butler, HA Hofmann. <i>Social behavioral 
 <b>KJ Wallace</b>, HA Hofmann. <i> Cognitive-Behavioral variation in dynamic social communities of highly social cichlid fish</i> (in prep)<br><br>
 
 
+<h1>Coding Resources</h1>
+<hr style="height:9px;color:#84949B"><br>
 
-
+<b>KJ Wallace </b>(2020) <i>Cowlogdata: an R package to analyze and visualize observations generated
+by the event logging software CowLog</i> (github.com/kellyjwallace/cowlogdata)
 
 
 
