@@ -11,9 +11,9 @@
 	
 <center><img src="/images/eeb1.jpg" height="180"></center>
 
-<a href="https://twitter.com/KJeanWallace">
-         <img alt="twitter" src="/images/social media icons/twitter.png"
-         width=30" height="30">
+<center><a href="https://twitter.com/KJeanWallace">
+         <img src="twitter" src="/images/social media icons/twitter.png"
+         width=30" height="30"></center>
 
 <p><center><img src="/images/choose texas gif 2019.gif"> </center></p>
 	
