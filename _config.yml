@@ -2,3 +2,10 @@ theme: jekyll-theme-cayman
 title: Kelly J Wallace
 description: Ecology, Evolution, and Behavior PhD Program - University of Texas at Austin
 
+enableEmoji = true
+footnotereturnlinkcontents = "<sup>^</sup>"
+
+[params]
+  name = "Kelly Wallace"
+  role = "PhD Candidate"
+  email = "kwallace@utexas.edu"
