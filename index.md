@@ -2,9 +2,7 @@
 		
 <div class="container">
 <div class="blurb">
-<p style="text-align:center;font-size:110%">My research investigates how the social environment influences individual behavior and cognition by integrating ecological, behavioral, physiological, and neuromolecular perspectives. </p>
-	
-<center>   <a href="https://link.springer.com/article/10.1007/s10071-020-01367-2"><i><b>view my most recent publication</b></i></a>
+<p style="text-align:center;font-size:110%">My research investigates how the social environment influences individual behavior and cognition by integrating ecological, behavioral, physiological, and neuromolecular perspectives. <a href="https://link.springer.com/article/10.1007/s10071-020-01367-2"><i><b>view my most recent publication</b></i></a><p>
 
 <center>
 <a href="mailto:kwallace@utexas.edu"> <img src="/images/social_media_icons/gmail.png" width="40" height="40"></a>
