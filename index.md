@@ -10,7 +10,7 @@
 <center>   <a href="https://github.com/kellyjwallace"><i><b>view my Github page</b></i></a><br>
 
 <center><a href="https://twitter.com/KJeanWallace">
-         <img src="/images/social media icons/twitter.png"
+         <img src="/images/social_media_icons/twitter.png"
          width=30" height="30"></center>
 
 <p><center><img src="/images/choose texas gif 2019.gif"> </center></p>
