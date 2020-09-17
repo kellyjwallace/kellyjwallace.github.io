@@ -8,8 +8,6 @@
 <center>   <a href="https://link.springer.com/article/10.1007/s10071-020-01367-2"><i><b>view my most recent publication</b></i></a>
 <center>   <a href="https://www.researchgate.net/profile/Kelly_Wallace2"><i><b>view my ResearchGate profile</b></i></a>
 <center>   <a href="https://github.com/kellyjwallace"><i><b>view my Github page</b></i></a>
-	
-<center><img src="/images/eeb1.jpg" height="180"></center>
 
 <center><a href="https://twitter.com/KJeanWallace">
          <img src="/images/social media icons/twitter.png"
