@@ -14,6 +14,7 @@
          width=30" height="30"></center>
 
 <p><center><img src="/images/choose texas gif 2019.gif"> </center></p>
+<p><center><img src="/images/social_media_icons/twitter.png"> </center></p>
 	
 
 <h1>News</h1>
