@@ -12,7 +12,7 @@
 <center>
 <a href="mailto:kwallace@utexas.edu"> <img src="/images/social_media_icons/gmail.png" width="40" height="40"></a>
 <a href="https://twitter.com/KJeanWallace"> <img src="/images/social_media_icons/twitter.png" width="40" height="40"></a>
-<a href="https://scholar.google.com/citations?user=y8kYZGAAAAAJ&hl=en&oi=ao"> <img src="/images/social_media_icons/google scholar.png" width="40" height="40"></a>
+<a href="https://scholar.google.com/citations?user=y8kYZGAAAAAJ&hl=en&oi=ao"> <img src="/images/social_media_icons/googlescholar.png" width="40" height="40"></a>
 <a href="https://orcid.org/0000-0002-2361-1213"> <img src="/images/social_media_icons/orcid.png" width="40" height="40"></a>
 
 </center>
