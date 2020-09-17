@@ -9,7 +9,11 @@
 <center>   <a href="https://www.researchgate.net/profile/Kelly_Wallace2"><i><b>view my ResearchGate profile</b></i></a>
 <center>   <a href="https://github.com/kellyjwallace"><i><b>view my Github page</b></i></a>
 	
-<center><img src="/images/eeb1.jpg" height="180"></center>	
+<center><img src="/images/eeb1.jpg" height="180"></center>
+
+<a href="https://twitter.com/KJeanWallace">
+         <img alt="twitter" src="/images/social media icons/twitter.png"
+         width=30" height="30">
 
 <p><center><img src="/images/choose texas gif 2019.gif"> </center></p>
 	
