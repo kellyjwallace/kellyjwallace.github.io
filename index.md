@@ -2,10 +2,12 @@
 		
 <div class="container">
 <div class="blurb">
-<p style="text-align:center;font-size:110%">My research investigates how the social environment influences individual behavior and cognition by integrating ecological, behavioral, physiological, and neuromolecular perspectives. <a href="https://link.springer.com/article/10.1007/s10071-020-01367-2"><i><b>view my most recent publication</b></i></a><p>
+<p style="text-align:center;font-size:110%">My research investigates how the social environment influences individual behavior and cognition by integrating ecological, behavioral, physiological, and neuromolecular perspectives. <br>
 
-<center>
-<a href="mailto:kwallace@utexas.edu"> <img src="/images/social_media_icons/gmail.png" width="40" height="40"></a>
+<center> <img src="/images/social_media_icons/gmail.png" width="40" height="40"><a href="mailto:kwallace@utexas.edu"><i><b>contact me via email</b></i></a><br>
+	<a href="https://link.springer.com/article/10.1007/s10071-020-01367-2"><i><b>view my most recent publication</b></i></a><p>
+	
+	
 <a href="https://twitter.com/KJeanWallace"> <img src="/images/social_media_icons/twitter.png" width="40" height="40"></a>
 <a href="https://scholar.google.com/citations?user=y8kYZGAAAAAJ&hl=en&oi=ao"> <img src="/images/social_media_icons/googlescholar.png" width="40" height="40"></a>
 <a href="https://orcid.org/0000-0002-2361-1213"> <img src="/images/social_media_icons/orcid.png" width="40" height="40"></a>
