@@ -16,7 +16,7 @@
 <a href="https://cns.utexas.edu/directory/item/7-integrative-biology/2514-wallace-kelly?Itemid=349"> <img src="/images/social_media_icons/uteeb.jpg" width="40" height="40"></a>
 
 
-<p><img src="/images/choose texas gif 2019.gif"> </center></p>
+<p><img src="/images/choose texas gif 2019.gif"></p>
 	
 
 <h1>News</h1>
