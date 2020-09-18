@@ -15,9 +15,8 @@
 <a href="https://github.com/kellyjwallace/"> <img src="/images/social_media_icons/github.png" width="40" height="40"></a>
 <a href="https://cns.utexas.edu/directory/item/7-integrative-biology/2514-wallace-kelly?Itemid=349"> <img src="/images/social_media_icons/uteeb.jpg" width="40" height="40"></a>
 
-</center>
 
-<p><center><img src="/images/choose texas gif 2019.gif"> </center></p>
+<p><img src="/images/choose texas gif 2019.gif"> </center></p>
 	
 
 <h1>News</h1>
