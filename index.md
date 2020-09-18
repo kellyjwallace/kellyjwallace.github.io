@@ -5,7 +5,7 @@
 <p style="text-align:center;font-size:110%">My research investigates how the social environment influences individual behavior and cognition by integrating ecological, behavioral, physiological, and neuromolecular perspectives. <br>
 
 <center> <img src="/images/social_media_icons/gmail.png" width="20" height="20"><a href="mailto:kwallace@utexas.edu"><i><b>kwallace@utexas.edu</b></i></a><br>
-	<a href="https://link.springer.com/article/10.1007/s10071-020-01367-2"><i><b>view my most recent publication</b></i></a><p>
+	<img src="/images/social_media_icons/book.jpg" width="20" height="20"><a href="https://link.springer.com/article/10.1007/s10071-020-01367-2"><i><b>view my most recent publication</b></i></a><p>
 	
 	
 <a href="https://twitter.com/KJeanWallace"> <img src="/images/social_media_icons/twitter.png" width="40" height="40"></a>
