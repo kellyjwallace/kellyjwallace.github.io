@@ -12,8 +12,7 @@
 <br>
 <hr style="height:9px;color:#84949B"><br>
 
-<center><img src="/images/Bigbend1.JPG" height="150"><br><br>
-<center><img src="/images/aftereight1.jpg"  height="150">
+<center><img src="/images/Bigbend1.JPG" height="150"><br>
 <center><img src="/images/Jack1.JPG" height="150">
 	
 <br/><br/>
