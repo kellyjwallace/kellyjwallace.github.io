@@ -14,7 +14,7 @@
 <a href="https://github.com/kellyjwallace/"> <img src="/images/social_media_icons/github.png" width="40" height="40"></a>
 <a href="https://www.researchgate.net/profile/Kelly_Wallace2"> <img src="/images/social_media_icons/researchgate.png" width="40" height="40"></a>
 <a href="https://cns.utexas.edu/directory/item/7-integrative-biology/2514-wallace-kelly?Itemid=349"> <img src="/images/social_media_icons/uteeb.jpg" width="40" height="40"></a>
-
+</center>
 
 <p><img src="/images/choose texas gif 2019.gif"></p>
 
