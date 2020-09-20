@@ -2,7 +2,9 @@
 		
 <div class="container">
 <div class="blurb">
-<p style="text-align:center;font-size:130%">I am a behavioral ecologist investigating how the social environment influences behavior and cognition. My research integrates across ecological, behavioral, physiological, and neuromolecular perspectives. </p>
+<p style="text-align:center;font-size:130%">I am a behavioral ecologist investigating how the social environment influences behavior and cognition. My research integrates across ecological, behavioral, physiological, and neuromolecular perspectives. <br>
+<i>I'm interested in understanding how an individual's social environment and their own social phenotype (e.g. their sex, dominance status) influences how they behave and make decisions. I have investigated this topic across three model systems: cichlid fish, mosquitofish, and prairie voles. These three systems are well known for their dynamic and varied social interactions, a historical foundation on the neural and hormonal mechanisms of social behavior and decision-making, and integration of broad eco-evolutionary frameworks.</i>	
+	</p>
 	
 <p style="text-align:center;font-size:110%">
 <img src="/images/social_media_icons/gmail.png" width="20" height="20"><a href="mailto:kwallace@utexas.edu"><i><b>kwallace@utexas.edu</b></i></a><br>
