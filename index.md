@@ -2,7 +2,7 @@
 		
 <div class="container">
 <div class="blurb">
-<p style="text-align:center;font-size:130%">My research investigates how the social environment influences behavior and cognition by integrating ecological, behavioral, physiological, and neuromolecular perspectives. </p>
+<p style="text-align:center;font-size:130%">I am a behavioral ecologist investigating how the social environment influences behavior and cognition. My research integrates across ecological, behavioral, physiological, and neuromolecular perspectives. </p>
 	
 <p style="text-align:center;font-size:110%">
 <img src="/images/social_media_icons/gmail.png" width="20" height="20"><a href="mailto:kwallace@utexas.edu"><i><b>kwallace@utexas.edu</b></i></a><br>
