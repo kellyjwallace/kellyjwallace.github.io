@@ -6,7 +6,7 @@
 <h1>Publications</h1>
 <hr style="height:9px;color:#84949B"><br>
 
-<b>KJ Wallace</b>, JM York <i> A systems change framework for evaluating academic equity and inclusion in an Ecology and Evolution Graduate Program.  </i> Ecology & Evolution <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6817"> doi/10.1002/ece3.6817</a> <br><br>
+<b>KJ Wallace</b>, JM York <i> A systems change framework for evaluating academic equity and inclusion in an Ecology and Evolution Graduate Program.  </i> Ecology and Evolution <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6817"> doi/10.1002/ece3.6817</a> <br><br>
 
 <b>KJ Wallace</b>, RT Rausch, ME Ramsey, ME Cummings (2020) <i>Sex differences in cognitive performance, style across domains in mosquitofish (Gambusia affinis)</i> Animal Cognition 23:655–669 <a href = "https://doi.org/10.1007/s10071-020-01367-2"> doi.org/10.1007/s10071-020-01367-2 </a> <br><br>
 
