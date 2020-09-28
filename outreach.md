@@ -53,7 +53,7 @@ As the <b>EEB Program's Graduate Student Representative</b> from 2018-2019, I at
 
 
 While I was the Graduate Student Representative I implemented a <b>Mentoring Plan</b> designed to clarify expectations and responsibilities between incoming students and their advisors. The Mentoring Plan is a survey-like document that the
-student and advisor complete together soon after the student arrives (answering questions like frequency of meetings, preferred communication, strengths and weaknesses, etc). The two revisit to the document in the student’s second semester to assess and update their plan. This plan is also being used as a template for the UT CMB (Cell & Molecular Biology) Graduate Program <br><br>
+student and advisor complete together soon after the student arrives (answering questions like frequency of meetings, preferred communication, strengths and weaknesses, etc). The two revisit to the document in the student’s second semester to assess and update their plan. This plan is also being used as a template for the UT CMB (Cell and Molecular Biology) Graduate Program <br><br>
 
 As part of the EEB Program's First Year Subjects and Skills Course, I participated in a <b>graduate student panel</b> and spoke on topics such as how to begin research projects, TA responsibilities, and on-campus resources for graduate students. <br><br>
 
