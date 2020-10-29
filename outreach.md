@@ -45,7 +45,7 @@ I have judged oral and posted presentations for the <b>Capital of Texas Undergr
 <br><hr style="height:9px;color:#84949B">
 <p style="text-align:center;font-size:180%"><b><font color="darkslateblue">Program Development & Science Policy </font></b><br></p>
 
-Gathering and evaluating data on representation in academia is the first step to identifying areas to target inclusive programming efforts. In our publicatino in <i> Ecology & Evolution </i> <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6817"> <b> A systems change framework for evaluating academic equity and inclusion in an Ecology and Evolution Graduate Program</b></a> Julia York and I analyzed information about the Department of Integrative Biology at the University of Texas at Austin and its PhD program in Ecology, Evolution, and Beehavior. In the manuscript we discuss how graduate programs can evaluate their inclusive programming efforts in order to make the most efficient and positive impact. <br>
+Gathering and evaluating data on representation in academia is the first step to identifying areas to target inclusive programming efforts. In our publication in <i> Ecology and Evolution </i> <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6817"> <b> A systems change framework for evaluating academic equity and inclusion in an Ecology and Evolution Graduate Program</b></a> Julia York and I analyzed information about the Department of Integrative Biology at the University of Texas at Austin and its PhD program in Ecology, Evolution, and Beehavior. In the manuscript we discuss how graduate programs can evaluate their inclusive programming efforts in order to make the most efficient and positive impact. <br>
 <img src="/images/diversity1.jpg" height="400"> <br>
 
 
@@ -53,7 +53,7 @@ As the <b>EEB Program's Graduate Student Representative</b> from 2018-2019, I at
 
 
 While I was the Graduate Student Representative I implemented a <b>Mentoring Plan</b> designed to clarify expectations and responsibilities between incoming students and their advisors. The Mentoring Plan is a survey-like document that the
-student and advisor complete together soon after the student arrives (answering questions like frequency of meetings, preferred communication, strengths and weaknesses, etc). The two revisit to the document in the student’s second semester to assess and update their plan. This plan is also being used as a template for the UT CMB (Cell & Molecular Biology) Graduate Program <br><br>
+student and advisor complete together soon after the student arrives (answering questions like frequency of meetings, preferred communication, strengths and weaknesses, etc). The two revisit to the document in the student’s second semester to assess and update their plan. This plan is also being used as a template for the UT CMB (Cell and Molecular Biology) Graduate Program <br><br>
 
 As part of the EEB Program's First Year Subjects and Skills Course, I participated in a <b>graduate student panel</b> and spoke on topics such as how to begin research projects, TA responsibilities, and on-campus resources for graduate students. <br><br>
 

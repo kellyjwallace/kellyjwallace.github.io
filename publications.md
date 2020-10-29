@@ -6,7 +6,7 @@
 <h1>Publications</h1>
 <hr style="height:9px;color:#84949B"><br>
 
-<b>KJ Wallace</b>, JM York <i> A systems change framework for evaluating academic equity and inclusion in an Ecology and Evolution Graduate Program.  </i> Ecology & Evolution <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6817"> doi/10.1002/ece3.6817</a> <br><br>
+<b>KJ Wallace</b>, JM York <i> A systems change framework for evaluating academic equity and inclusion in an Ecology and Evolution Graduate Program.  </i> Ecology and Evolution <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6817"> doi/10.1002/ece3.6817</a> <br><br>
 
 <b>KJ Wallace</b>, RT Rausch, ME Ramsey, ME Cummings (2020) <i>Sex differences in cognitive performance, style across domains in mosquitofish (Gambusia affinis)</i> Animal Cognition 23:655–669 <a href = "https://doi.org/10.1007/s10071-020-01367-2"> doi.org/10.1007/s10071-020-01367-2 </a> <br><br>
 
@@ -22,7 +22,7 @@ MA Rice, LE Hobbs, <b> KJ Wallace</b>, AG Ophir (2017) <i>Cryptic sexual dimorph
 <h1>Manuscripts in prep</h1>
 <hr style="height:9px;color:#84949B"><br>
 
-<b>KJ Wallace</b>, HA Hofmann <i> Equal performance but distinct behaviors: Astatotilapia burtoni sex differences in a novel object recognition task and spatial maze </i> (in review, preprint available on BioRxiv, <a href="https://doi.org/10.1101/2020.08.03.234658"> doi.org/10.1101/2020.08.03.234658</a>) <br><br>
+<b>KJ Wallace</b>, HA Hofmann <i> Equal performance but distinct behaviors: Astatotilapia burtoni sex differences in a novel object recognition task and spatial maze </i> (in revision, preprint available on BioRxiv, <a href="https://doi.org/10.1101/2020.08.03.234658"> doi.org/10.1101/2020.08.03.234658</a>) <br><br>
 
 <b>KJ Wallace</b>, HA Hofmann. <i>Decision-making in a social world: integrating animal cognition and social neuroscience </i> (invited manuscript in prep, Current Opinion in Neurobiology)<br><br>
 
