@@ -12,7 +12,7 @@ vimeoId: 343679289
 
 <p style="text-align:left;font-size:115%"><b>Featured:<br></b><a href="https://cns.utexas.edu/news/researchers-framework-address-inequity-biology"> Systems Change Publication covered by UT College of Natural Sciences News </a><br>
 
-	<img src="/images/diversity2.jpg">
+<img src="/images/diversity2.jpg">
 	
 	
 <p>
