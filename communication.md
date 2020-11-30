@@ -11,8 +11,12 @@ vimeoId: 343679289
 	
 
 <p style="text-align:left;font-size:120%"><b>Featured:</b> Systems Change Publication covered by UT College of Natural Sciences News <br>
+<img src="/images/diversity2.jpg">
+<p><a href="https://cns.utexas.edu/news/researchers-framework-address-inequity-biology"> <b>Researchers Use Framework to Address Inequity in Academia</b></a>	
 	
 <p>
+	
+<hr style="height:9px;color:#84949B"><br>
 <img src="/images/SUTS1.jpg">
 <p><a href="https://scienceunderthestars.org/2018/08/20/sept-13-kelly-wallace/"> <b>Science under the Stars</b></a> hosts monthly public talks by graduate students, with children's games, local wildlife displays, and tours of Brackenridge Field Labs. (Talk: <i>Fish are smarter than we think!) </i></p> 
 		
