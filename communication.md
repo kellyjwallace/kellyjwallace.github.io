@@ -10,7 +10,7 @@ vimeoId: 343679289
 <hr style="height:9px;color:#84949B"><br>
 	
 
-<p style="text-align:left;font-size:130%"><b>Featured:</b>Systems Change Publication covered by UT College of Natural Sciences News <br>
+<p style="text-align:left;font-size:180%"><b>Featured:</b> Systems Change Publication covered by UT College of Natural Sciences News <br>
 	
 <p>
 <img src="/images/SUTS1.jpg">
