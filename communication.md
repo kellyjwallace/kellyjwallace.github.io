@@ -10,9 +10,9 @@ vimeoId: 343679289
 <hr style="height:9px;color:#84949B"><br>
 	
 
-<p style="text-align:left;font-size:120%"><b>Featured:</b> Systems Change Publication covered by UT College of Natural Sciences News <br>
-<img src="/images/diversity2.jpg">
-<p><a href="https://cns.utexas.edu/news/researchers-framework-address-inequity-biology"> <b>Researchers Use Framework to Address Inequity in Academia</b></a>	
+<p style="text-align:left;font-size:115%"><b>Featured:</b> Systems Change Publication covered by UT College of Natural Sciences News <br>
+<p><a href="https://cns.utexas.edu/news/researchers-framework-address-inequity-biology"> <b>Researchers Use Framework to Address Inequity in Academia</b></a><img src="/images/diversity2.jpg">
+	
 	
 <p>
 	
