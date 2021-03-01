@@ -5,7 +5,7 @@
 <h1>Research</h1>
 <hr style="height:9px;color:#84949B">
 
-
+<p><center><img src="/images/spiny.jpg" height="200"> </center></p>
 <p style="text-align:center;font-size:80%"><i><font color="darkslateblue"> The African Spiny Mouse, Acomys (postnatal day 1 pups in foreground, adult in background) - Photo by <a href="https://www.thekellylab.org/"> <b>Aubrey Kelly </b></a></font></i></p>
 
 <p><center><img src="/images/aburtoni.png" height="200"> </center></p>
