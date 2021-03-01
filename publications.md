@@ -24,12 +24,14 @@ MA Rice, LE Hobbs, <b> KJ Wallace</b>, AG Ophir (2017) <i>Cryptic sexual dimorph
 
 <b>KJ Wallace</b>, HA Hofmann <i> Equal performance but distinct behaviors: Astatotilapia burtoni sex differences in a novel object recognition task and spatial maze </i> (accepted, preprint available on BioRxiv, <a href="https://doi.org/10.1101/2020.08.03.234658"> doi.org/10.1101/2020.08.03.234658</a>) <br><br>
 
-<b>KJ Wallace</b>, K Choudhary, L Kutty, D Le, M Lee, K Wu, HA Hofmann. <i>Social ascent changes cognition, behavior, and physiology in a highly social cichlid fish </i> (in revision, Current Opinion in Neurobiology)<br><br>
+<b>KJ Wallace</b>, HA Hofmann <i> Decision-making in a social world: integrating cognitive ecology and social neuroscience </i> (in revision, Current Opinion in Neurobiology) <br><br>
+
+<b>KJ Wallace</b>, K Choudhary, L Kutty, D Le, M Lee, K Wu, HA Hofmann. <i>Social ascent changes cognition, behavior, and physiology in a highly social cichlid fish </i> (in prep)<br><br>
 
 
 TK Solomon-Lane, <b>KJ Wallace</b>, RM Butler, HA Hofmann. <i>Social behavioral consistency over development and across contexts in a highly social cichlid fish</i> (in prep) <br><br>
 
-<b>KJ Wallace</b>, HA Hofmann. <i> Cognitive-Behavioral variation in dynamic social communities of highly social cichlid fish</i> (in prep)<br><br>
+
 
 
 
