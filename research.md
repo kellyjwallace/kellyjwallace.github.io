@@ -6,7 +6,7 @@
 <hr style="height:9px;color:#84949B">
 
 <p><center><img src="/images/gerbil.gif" height="200"> </center></p>
-<p style="text-align:center;font-size:80%"><i><font color="darkslateblue"> The Mongolian gerbil <i> Meriones unguicalatus</i></a></font></i></p>
+<p style="text-align:center;font-size:80%"><font color="darkslateblue"> The Mongolian gerbil <i> Meriones unguicalatus</i></font></i></p>
 
 <p style="text-align:left;font-size:120%"><b><font color="darkslateblue">A comparative investigation of the developmental origins and neuromolecular underpinnings of cognitive style</font></b><br></p>
 
