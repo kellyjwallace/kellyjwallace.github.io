@@ -7,7 +7,7 @@
 	
 <p style="text-align:center;font-size:110%">
 <img src="/images/social_media_icons/gmail.png" width="20" height="20"><a href="mailto:kelly.wallace@emory.edu"><i><b>kelly.wallace@emory.edu</b></i></a><br>
-	<img src="/images/social_media_icons/book.png" width="20" height="20"><a href="https://link.springer.com/article/10.1007/s10071-020-01367-2"><i><b>view my most recent publication</b></i></a><br><br>
+	<img src="/images/social_media_icons/book.png" width="20" height="20"><a href="https://www.sciencedirect.com/science/article/pii/S0959438821000349?dgcid=coauthor"><i><b>view my most recent publication</b></i></a><br><br>
 	
 	
 <a href="https://twitter.com/KJeanWallace"> <img src="/images/social_media_icons/twitter.png" width="40" height="40"></a>
