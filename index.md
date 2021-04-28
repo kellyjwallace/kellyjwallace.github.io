@@ -24,7 +24,7 @@
 	
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In this new review (intro chapter of her dissertation) &quot;Decision-making in a social world,&quot; <a href="https://twitter.com/KJeanWallace?ref_src=twsrc%5Etfw">@KJeanWallace</a> retraces the history of cognitive ecology &amp; social neuroscience, and suggests ways for a better integration of these fields! <a href="https://twitter.com/EcoEvoBevo?ref_src=twsrc%5Etfw">@EcoEvoBevo</a> <a href="https://twitter.com/TexasScience?ref_src=twsrc%5Etfw">@TexasScience</a> <a href="https://t.co/PWQRHER5W6">https://t.co/PWQRHER5W6</a></p>&mdash; Hofmann Lab (@HofmannLab) <a href="https://twitter.com/HofmannLab/status/1387402543895130124?ref_src=twsrc%5Etfw">April 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<p style="text-align:left;font-size:110%"><i><b>A literature analysis conducted in PubMed</b> (pictured below), traced publications over time in each field and in the overlapping integrative areas </i><br><br>
+<p style="text-align:left;font-size:110%"><i><b>A literature analysis conducted in PubMed</b> (pictured below) traced publications over time in each field and in the overlapping integrative areas </i><br><br>
 	<img src="/images/litanalysis.png">
 	
 	
