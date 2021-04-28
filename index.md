@@ -3,7 +3,7 @@
 <div class="container">
 <div class="blurb">
 <p style="text-align:left;font-size:120%">I am a behavioral ecologist investigating how the social environment influences cognition. My research integrates across behavioral, physiological, and neuromolecular perspectives. <br><br>
-<i>I'm interested in understanding how an individual's social environment and their own social phenotype (e.g. sex, dominance status) influences how they make decisions in non-social contexts. I have investigated this topic across multiple rodent and fish species. These species are well known for their dynamic and varied social interactions, a historical foundation on the neural and hormonal mechanisms of social behavior and decision-making, and integration of broad eco-evolutionary frameworks.<br></i></p>
+<i>I'm interested in understanding how an individual's social environment and their own social phenotype (e.g. sex, dominance status) influences how they make decisions in non-social contexts. I have investigated this topic across multiple rodent and fish species. These species are well known for their dynamic social interactions, and literature on these species have detailed the neural and hormonal mechanisms of social behavior and decision-making while integrating broad eco-evolutionary frameworks.<br></i></p>
 	
 <p style="text-align:center;font-size:110%">
 <img src="/images/social_media_icons/gmail.png" width="20" height="20"><a href="mailto:kelly.wallace@emory.edu"><i><b>kelly.wallace@emory.edu</b></i></a><br>
