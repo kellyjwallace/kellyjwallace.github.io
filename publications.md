@@ -28,7 +28,7 @@ MA Rice, LE Hobbs, <b> KJ Wallace</b>, AG Ophir (2017) <i>Cryptic sexual dimorph
 <hr style="height:9px;color:#84949B"><br>
 
 
-<b>KJ Wallace</b>, K Choudhary, L Kutty, D Le, M Lee, K Wu, HA Hofmann. <i>Social ascent changes cognition, behavior, and physiology in a highly social cichlid fish </i> (in prep)<br><br>
+<b>KJ Wallace</b>, K Choudhary, L Kutty, D Le, M Lee, K Wu, HA Hofmann. <i>Social ascent changes cognition, behavior, and physiology in a highly social cichlid fish </i> Philos Trans R Soc B (in review)<br><br>
 
 
 TK Solomon-Lane, <b>KJ Wallace</b>, RM Butler, HA Hofmann. <i>Social behavioral consistency over development and across contexts in a highly social cichlid fish</i> (in prep) <br><br>
