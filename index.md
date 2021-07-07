@@ -30,6 +30,8 @@
 	
 <h1>News</h1>
 <hr style="height:9px;color:#84949B">
+	
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Congratulations to the postdoctoral winners of our poster competition, Alexis Ceasrine, Arjen Boender, and Kelly Wallace! The next generation of researchers is looking strong!<a href="https://twitter.com/hashtag/SBN2021?src=hash&amp;ref_src=twsrc%5Etfw">#SBN2021</a> <a href="https://twitter.com/BoenderAJ?ref_src=twsrc%5Etfw">@BoenderAJ</a> <a href="https://twitter.com/aceasrine?ref_src=twsrc%5Etfw">@aceasrine</a> <a href="https://twitter.com/KJeanWallace?ref_src=twsrc%5Etfw">@KJeanWallace</a></p>&mdash; SBN Tweets (@SBNTweets) <a href="https://twitter.com/SBNTweets/status/1411037118378516480?ref_src=twsrc%5Etfw">July 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">New paper out by <a href="https://twitter.com/KJeanWallace?ref_src=twsrc%5Etfw">@KJeanWallace</a>! Although we know a lot about the complex social lives of our main model system, Burton’s Mouthbrooder cichlid (Astatotilapia burtoni), sex differences in cognition (outside of social contexts) have not been studied much 1/4<a href="https://t.co/R7ZRdsgWYu">https://t.co/R7ZRdsgWYu</a></p>&mdash; Hofmann Lab (@HofmannLab) <a href="https://twitter.com/HofmannLab/status/1371850380116647949?ref_src=twsrc%5Etfw">March 16, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
