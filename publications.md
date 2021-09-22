@@ -16,9 +16,9 @@
 
 <b>KJ Wallace</b> & JM York (2020) <i> A systems change framework for evaluating academic equity and inclusion in an Ecology and Evolution Graduate Program.  </i> Ecology and Evolution 10(20):10922-10929 <br><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6817"> doi/10.1002/ece3.6817</a> <br><br>
 
-<b>KJ Wallace</b>, RT Rausch, ME Ramsey, ME Cummings (2020) <i>Sex differences in cognitive performance, style across domains in mosquitofish (Gambusia affinis)</i> Animal Cognition 23:655–669 <br><a href = "https://doi.org/10.1007/s10071-020-01367-2"> doi.org/10.1007/s10071-020-01367-2 </a> <br><br>
+<b>KJ Wallace</b>, RT Rausch, ME Ramsey, ME Cummings (2020) <i>Sex differences in cognitive performance, style across domains in mosquitofish (Gambusia affinis).</i> Animal Cognition 23:655–669 <br><a href = "https://doi.org/10.1007/s10071-020-01367-2"> doi.org/10.1007/s10071-020-01367-2 </a> <br><br>
 
-MA Rice, LE Hobbs, <b> KJ Wallace</b>, AG Ophir (2017) <i>Cryptic sexual dimorphism in spatial memory and hippocampal oxytocin receptors in prairie voles (Microtus ochrogaster) </i> Hormones and Behavior 95: 94–102 <br><a href="https://doi.org/10.1016/j.yhbeh.2017.08.003">doi.org/10.1016/j.yhbeh.2017.08.003</a> <br> 
+MA Rice, LE Hobbs, <b> KJ Wallace</b>, AG Ophir (2017) <i>Cryptic sexual dimorphism in spatial memory and hippocampal oxytocin receptors in prairie voles (Microtus ochrogaster). </i> Hormones and Behavior 95: 94–102 <br><a href="https://doi.org/10.1016/j.yhbeh.2017.08.003">doi.org/10.1016/j.yhbeh.2017.08.003</a> <br> 
 
 
 <h1>Software</h1>
@@ -30,7 +30,7 @@ MA Rice, LE Hobbs, <b> KJ Wallace</b>, AG Ophir (2017) <i>Cryptic sexual dimorph
 <h1>Manuscripts in prep</h1>
 <hr style="height:9px;color:#84949B"><br>
 
-TK Solomon-Lane, <b>KJ Wallace</b>, RM Butler, HA Hofmann. <i>Social behavioral consistency over development and across contexts in a highly social cichlid fish</i> (in prep) <br><br>
+TK Solomon-Lane, <b>KJ Wallace</b>, RM Butler, HA Hofmann. <i>Social behavioral consistency over development and across contexts in a highly social cichlid fish.</i> (in prep) <br><br>
 
 PS Queller, Y Shirali, <b>KJ Wallace</b>, RS DeAngelis, V Yurt, LP Reding, ME Cummings. <i>Complexity of the social rearing environment shapes personality and behavioral syndromes in adult female swordtail fish, Xiphophorus nigrensis.</i> (in prep)<br><br>
 
