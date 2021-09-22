@@ -5,6 +5,9 @@
 	
 <h1>Publications</h1>
 <hr style="height:9px;color:#84949B"><br>
+	
+
+<b>KJ Wallace</b>, K Choudhary, L Kutty, D Le, M Lee, K Wu, HA Hofmann. <i>Social ascent changes cognition, behavior, and physiology in a highly social cichlid fish. </i> in press at Philosophical Transactions of the Royal Society B, doi.org/10.1098/rstb.2020.0448 <br><br>
 
 <b>KJ Wallace</b> & HA Hofmann (2021) <i> Decision-making in a social world: integrating animal cognition and social neuroscience.</i> Current Opinion in Neurobiology 68:152-158
 <br><a href = "https://www.sciencedirect.com/science/article/abs/pii/S0959438821000349?via%3Dihub">doi.org/10.1016/j.conb.2021.03.009 </a> <br><br>
@@ -27,12 +30,9 @@ MA Rice, LE Hobbs, <b> KJ Wallace</b>, AG Ophir (2017) <i>Cryptic sexual dimorph
 <h1>Manuscripts in prep</h1>
 <hr style="height:9px;color:#84949B"><br>
 
-
-<b>KJ Wallace</b>, K Choudhary, L Kutty, D Le, M Lee, K Wu, HA Hofmann. <i>Social ascent changes cognition, behavior, and physiology in a highly social cichlid fish </i> Philos Trans R Soc B (in review)<br><br>
-
-
 TK Solomon-Lane, <b>KJ Wallace</b>, RM Butler, HA Hofmann. <i>Social behavioral consistency over development and across contexts in a highly social cichlid fish</i> (in prep) <br><br>
 
+PS Queller, Y Shirali, <b>KJ Wallace</b>, RS DeAngelis, V Yurt, LP Reding, ME Cummings. <i>Complexity of the social rearing environment shapes personality and behavioral syndromes in adult female swordtail fish, Xiphophorus nigrensis.</i> (in prep)<br><br>
 
 
 
