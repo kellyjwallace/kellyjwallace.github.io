@@ -9,8 +9,7 @@
 
 <b>KJ Wallace</b>, K Choudhary, L Kutty, D Le, M Lee, K Wu, HA Hofmann (2021). <i>Social ascent changes cognition, behavior, and physiology in a highly social cichlid fish. </i> in press at Philosophical Transactions of the Royal Society B <br>doi.org/10.1098/rstb.2020.0448 <br><br>
 
-<b>KJ Wallace</b> & HA Hofmann (2021) <i> Decision-making in a social world: integrating animal cognition and social neuroscience.</i> Current Opinion in Neurobiology 68:152-158
-<br><a href = "https://www.sciencedirect.com/science/article/abs/pii/S0959438821000349?via%3Dihub">doi.org/10.1016/j.conb.2021.03.009 </a> <br><br>
+<b>KJ Wallace</b> & HA Hofmann (2021) <i> Decision-making in a social world: integrating cognitive ecology and social neuroscience.</i> Current Opinion in Neurobiology 68:152-158 <br><a href = "https://www.sciencedirect.com/science/article/abs/pii/S0959438821000349?via%3Dihub">doi.org/10.1016/j.conb.2021.03.009 </a> <br><br>
 
 <b>KJ Wallace</b> & HA Hofmann (2021)<i> Equal performance but distinct behaviors: Astatotilapia burtoni sex differences in a novel object recognition task and spatial maze. </i> Animal Cognition 1-17 <br><a href = "https://link.springer.com/article/10.1007/s10071-021-01498-0"> doi.org/10.1007/s10071-021-01498-0 </a><br><br>
 
