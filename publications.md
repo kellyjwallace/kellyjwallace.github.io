@@ -31,7 +31,7 @@ MA Rice, LE Hobbs, <b> KJ Wallace</b>, AG Ophir (2017) <i>Cryptic sexual dimorph
 
 TK Solomon-Lane, <b>KJ Wallace</b>, RM Butler, HA Hofmann. <i>Social behavioral consistency over development and across contexts in a highly social cichlid fish.</i> (in prep) <br><br>
 
-PS Queller, Y Shirali, <b>KJ Wallace</b>, RS DeAngelis, V Yurt, LP Reding, ME Cummings. <i>Complexity of the social rearing environment shapes personality and behavioral syndromes in adult female swordtail fish, Xiphophorus nigrensis.</i> (in prep)<br><br>
+PS Queller, Y Shirali, <b>KJ Wallace</b>, RS DeAngelis, V Yurt, LP Reding, ME Cummings. <i>Complexity of the social rearing environment shapes personality and behavioral syndromes in adult female swordtail fish, Xiphophorus nigrensis.</i> (in review at Nature Ecology & Evolution)<br><br>
 
 
 
