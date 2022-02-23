@@ -29,11 +29,12 @@ MA Rice, LE Hobbs, <b> KJ Wallace</b>, AG Ophir (2017) <i>Cryptic sexual dimorph
 <h1>Manuscripts in review/prep</h1>
 <hr style="height:9px;color:#84949B"><br>
 
-PS Queller, Y Shirali, <b>KJ Wallace</b>, RS DeAngelis, V Yurt, LP Reding, ME Cummings. <i>Complexity of the social rearing environment shapes personality and behavioral syndromes in adult female swordtail fish, Xiphophorus nigrensis.</i> (in review at Nature Ecology & Evolution)<br><br>
+PS Queller, Y Shirali, <b>KJ Wallace</b>, RS DeAngelis, V Yurt, LP Reding, ME Cummings. <i>Complexity of the social rearing environment shapes personality and behavioral syndromes in adult female swordtail fish, Xiphophorus nigrensis.</i> (in review at Current Biology)<br><br>
+	
+JA Gonzalez-Abreu, A Rosenberg, BA Fricker, <b>KJ Wallace</b>, AW Seifert, AM Kelly. <i>Species-typical group size differentially influences reward, but not social, neural circuitry during nonreproductive social interactions</i> (in revision at iScience) <br><br>	
 	
 TK Solomon-Lane, <b>KJ Wallace</b>, RM Butler, HA Hofmann. <i>Social behavioral consistency over development and across contexts in a highly social cichlid fish.</i> (in prep) <br><br>
 
-JA Gonzalez-Abreu, A Rosenberg, BA Fricker, <b>KJ Wallace</b>, AW Seifert, AM Kelly. <i>Species-typical group size differentially influences reward, but not social, neural circuitry during nonreproductive social interactions</i> (in prep) <br><br>
 
 
 
