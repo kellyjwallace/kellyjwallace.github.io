@@ -18,7 +18,7 @@
 
 <p><img src="/images/choose texas gif 2019.gif"></p>
 
-<h1><b>Featured: <br></b>Integrating cognitive ecology & social neuroscience<br>(Review paper, Current Opinion in Neurobiology)</h1>
+<h1><b>Featured: <br></b>Integrating cognitive ecology & social neuroscience</h1>
 <hr style="height:9px;color:#84949B">
 	
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In this new review (intro chapter of her dissertation) &quot;Decision-making in a social world,&quot; <a href="https://twitter.com/KJeanWallace?ref_src=twsrc%5Etfw">@KJeanWallace</a> retraces the history of cognitive ecology &amp; social neuroscience, and suggests ways for a better integration of these fields! <a href="https://twitter.com/EcoEvoBevo?ref_src=twsrc%5Etfw">@EcoEvoBevo</a> <a href="https://twitter.com/TexasScience?ref_src=twsrc%5Etfw">@TexasScience</a> <a href="https://t.co/PWQRHER5W6">https://t.co/PWQRHER5W6</a></p>&mdash; Hofmann Lab (@HofmannLab) <a href="https://twitter.com/HofmannLab/status/1387402543895130124?ref_src=twsrc%5Etfw">April 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -29,6 +29,8 @@
 	
 <h1>News</h1>
 <hr style="height:9px;color:#84949B">
+	
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Did you know that the “pecking order&quot; turns 100 this year? <a href="https://twitter.com/jalapic?ref_src=twsrc%5Etfw">@jalapic</a>, <a href="https://twitter.com/ShizukaLab?ref_src=twsrc%5Etfw">@ShizukaLab</a>, <a href="https://twitter.com/Eliz_Hobson?ref_src=twsrc%5Etfw">@Eliz_Hobson</a>, I, and many excellent contributing authors reflect on dominance hierarchy research over the last century and into the next in a <a href="https://twitter.com/RSocPublishing?ref_src=twsrc%5Etfw">@RSocPublishing</a> theme issue. <a href="https://t.co/hfjKfeDabq">https://t.co/hfjKfeDabq</a></p>&mdash; Eli Strauss (@_straussed) <a href="https://twitter.com/_straussed/status/1480525571251740673?ref_src=twsrc%5Etfw">January 10, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>	
 	
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Congratulations to the postdoctoral winners of our poster competition, Alexis Ceasrine, Arjen Boender, and Kelly Wallace! The next generation of researchers is looking strong!<a href="https://twitter.com/hashtag/SBN2021?src=hash&amp;ref_src=twsrc%5Etfw">#SBN2021</a> <a href="https://twitter.com/BoenderAJ?ref_src=twsrc%5Etfw">@BoenderAJ</a> <a href="https://twitter.com/aceasrine?ref_src=twsrc%5Etfw">@aceasrine</a> <a href="https://twitter.com/KJeanWallace?ref_src=twsrc%5Etfw">@KJeanWallace</a></p>&mdash; SBN Tweets (@SBNTweets) <a href="https://twitter.com/SBNTweets/status/1411037118378516480?ref_src=twsrc%5Etfw">July 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
