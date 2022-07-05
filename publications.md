@@ -6,6 +6,8 @@
 <h1>Publications</h1>
 <hr style="height:9px;color:#84949B"><br>
 	
+JA Gonzalez Abreu, A Rosenberg, BA Fricker, <b>KJ Wallace</b>, AW Seifert, AM Kelly (2022) <i> Species-typical group size differentially influences reward, but not social, neural circuitry during nonreproductive social interactions.</i> iScience 25(5): 104230 <br><a href = "https://www.cell.com/iscience/fulltext/S2589-0042(22)00500-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2589004222005004%3Fshowall%3Dtrue">doi.org/10.1016/j.isci.2022.104230 </a><br><br>
+	
 
 <b>KJ Wallace</b>, K Choudhary, L Kutty, D Le, M Lee, K Wu, HA Hofmann (2021) <i>Social ascent changes cognition, behavior, and physiology in a highly social cichlid fish. </i> Philosophical Transactions of the Royal Society B 377: 20200448 <br><a href = "https://royalsocietypublishing.org/doi/10.1098/rstb.2020.0448">doi.org/10.1098/rstb.2020.0448 </a><br><br>
 
@@ -30,8 +32,6 @@ MA Rice, LE Hobbs, <b> KJ Wallace</b>, AG Ophir (2017) <i>Cryptic sexual dimorph
 <hr style="height:9px;color:#84949B"><br>
 
 PS Queller, Y Shirali, <b>KJ Wallace</b>, RS DeAngelis, V Yurt, LP Reding, ME Cummings. <i>Complexity of the social rearing environment shapes personality and behavioral syndromes in adult female swordtail fish, Xiphophorus nigrensis.</i> (in review at Current Biology)<br><br>
-	
-JA Gonzalez-Abreu, A Rosenberg, BA Fricker, <b>KJ Wallace</b>, AW Seifert, AM Kelly. <i>Species-typical group size differentially influences reward, but not social, neural circuitry during nonreproductive social interactions</i> (in revision at iScience) <br><br>	
 	
 TK Solomon-Lane, <b>KJ Wallace</b>, RM Butler, HA Hofmann. <i>Social behavioral consistency over development and across contexts in a highly social cichlid fish.</i> (in prep) <br><br>
 
