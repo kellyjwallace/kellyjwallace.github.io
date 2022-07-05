@@ -30,6 +30,9 @@ MA Rice, LE Hobbs, <b> KJ Wallace</b>, AG Ophir (2017) <i>Cryptic sexual dimorph
 
 <h1>Manuscripts in review/prep</h1>
 <hr style="height:9px;color:#84949B"><br>
+	
+AM Kelly, BA Fricker, <b>KJ Wallace</b>. <i>Protocol for multiplex fluorescent immunohistochemistry
+in free-floating vertebrate tissue.</i> (in review at STAR Protocols)<br><br>
 
 PS Queller, Y Shirali, <b>KJ Wallace</b>, RS DeAngelis, V Yurt, LP Reding, ME Cummings. <i>Complexity of the social rearing environment shapes personality and behavioral syndromes in adult female swordtail fish, Xiphophorus nigrensis.</i> (in review at Current Biology)<br><br>
 	
