@@ -5,7 +5,7 @@
 <h1>About</h1>
 <hr style="height:9px;color:#84949B"><br>
 
-<p><center><img src="/images/kelly3.png" height="400"> </center></p>
+<p><center><img src="/images/kelly3.png" height="300"> </center></p>
 
 <p style="text-align:center;font-size:110%">I grew up in Easton, Pennsylvania and earned my bachelor's degree at Cornell University in Ithaca, New York. At Cornell I minored in music and was introduced to neurobiology while researching prairie vole behavior in the lab of Dr. Alex Ophir. <br><br> In 2015 I joined the Ecology, Evolution, and PhD program at the University of Texas at Austin. My dissertation explored social decision-making in fish, advised by Dr. Hans Hofmann & Dr. Mike Ryan. In 2021 I began my NSF PRFB postdoctoral research in the lab of Dr. Aubrey Kelly at Emory University, where I am exploring the devleopmental origins of cognitive style. When I'm not taking videos of fish or rodents, you can find me playing the viola or searching for the best happy hours around Atlanta.</p>
 
