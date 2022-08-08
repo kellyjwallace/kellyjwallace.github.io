@@ -32,14 +32,15 @@ MA Rice, LE Hobbs, <b> KJ Wallace</b>, AG Ophir (2017) <i>Cryptic sexual dimorph
 <hr style="height:9px;color:#84949B"><br>
 	
 AM Kelly, BA Fricker, <b>KJ Wallace</b>. <i>Protocol for multiplex fluorescent immunohistochemistry
-in free-floating vertebrate tissue.</i> (in review at STAR Protocols)<br><br>
+in free-floating vertebrate tissue.</i> (in press at STAR Protocols)<br><br>
 
 PS Queller, Y Shirali, <b>KJ Wallace</b>, RS DeAngelis, V Yurt, LP Reding, ME Cummings. <i>Complexity of the social rearing environment shapes personality and behavioral syndromes in adult female swordtail fish, Xiphophorus nigrensis.</i> (in review at PNAS)<br><br>
 	
+TK Solomon-Lane, <b>KJ Wallace</b>, RM Butler, HA Hofmann. <i>Social behavioral consistency over development and across contexts in a highly social cichlid fish.</i> (in prep) <br><br>
+		
 <b>KJ Wallace*</b>, EK Chun*, AG Ophir†, AM Kelly†. <i>Comparing patterns of neural activity in the social behavior network across distinct social and nonsocial contexts in prairie voles (Microtus ochrogaster)</i> (in prep) <br><br>	
 	
-TK Solomon-Lane, <b>KJ Wallace</b>, RM Butler, HA Hofmann. <i>Social behavioral consistency over development and across contexts in a highly social cichlid fish.</i> (in prep) <br><br>
-	
+
 
 
 
