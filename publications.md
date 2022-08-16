@@ -40,9 +40,7 @@ JM Powell, K Inoue, <b>KJ Wallace</b>, AW Seifert, LJ Young, AM Kelly. <i>Distri
 
 PS Queller, Y Shirali, <b>KJ Wallace</b>, RS DeAngelis, V Yurt, LP Reding, ME Cummings. <i>Complexity of the social rearing environment shapes personality and behavioral syndromes in adult female swordtail fish, Xiphophorus nigrensis.</i> (in prep)<br><br>
 	
-TK Solomon-Lane, <b>KJ Wallace</b>, RM Butler, HA Hofmann. <i>Social behavioral consistency over development and across contexts in a highly social cichlid fish.</i> (in prep) <br><br>
-		
-<b>KJ Wallace*</b>, EK Chun*, AG Ophir†, AM Kelly†. <i>Comparing patterns of neural activity in the social behavior network across distinct social and nonsocial contexts in prairie voles (Microtus ochrogaster)</i> (in prep) <br><br>	
+TK Solomon-Lane, <b>KJ Wallace</b>, RM Butler, HA Hofmann. <i>Social behavioral consistency over development and across contexts in a highly social cichlid fish.</i> (in prep) <br><br>	
 	
 
 
