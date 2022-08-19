@@ -17,7 +17,7 @@ JA Gonzalez Abreu, A Rosenberg, BA Fricker, <b>KJ Wallace</b>, AW Seifert, AM Ke
 
 <b>KJ Wallace</b> & HA Hofmann (2021)<i> Equal performance but distinct behaviors: Astatotilapia burtoni sex differences in a novel object recognition task and spatial maze. </i> Animal Cognition 1-17 <br><a href = "https://link.springer.com/article/10.1007/s10071-021-01498-0"> doi.org/10.1007/s10071-021-01498-0 </a><br><br>
 
-<b>KJ Wallace*</b> & JM York* (2020) <i> A systems change framework for evaluating academic equity and inclusion in an Ecology and Evolution Graduate Program.  </i> Ecology and Evolution 10(20):10922-10929 <br><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6817"> (*authors contributed equally to this work) doi/10.1002/ece3.6817</a> <br><br>
+<b>KJ Wallace*</b> & JM York* (2020) <i> A systems change framework for evaluating academic equity and inclusion in an Ecology and Evolution Graduate Program.  </i> Ecology and Evolution 10(20):10922-10929 <br><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6817">doi/10.1002/ece3.6817</a>  (*authors contributed equally to this work) <br><br>
 
 <b>KJ Wallace</b>, RT Rausch, ME Ramsey, ME Cummings (2020) <i>Sex differences in cognitive performance, style across domains in mosquitofish (Gambusia affinis).</i> Animal Cognition 23:655–669 <br><a href = "https://doi.org/10.1007/s10071-020-01367-2"> doi.org/10.1007/s10071-020-01367-2 </a> <br><br>
 
