@@ -32,12 +32,11 @@ MA Rice, LE Hobbs, <b> KJ Wallace</b>, AG Ophir (2017) <i>Cryptic sexual dimorph
 
 <h1>Manuscripts in review/in prep</h1>
 <hr style="height:9px;color:#84949B"><br>
+
+JM Powell, K Inoue, <b>KJ Wallace</b>, AW Seifert, LJ Young, AM Kelly. <i>Distribution of vasopressin 1a and oxytocin receptor protein and mRNA in the basal forebrain and midbrain of the spiny mouse (Acomys cahirinus)</i> (in review at Brain Structure and Function)<br><br>	
 	
 <b>KJ Wallace*</b>, EK Chun*, AG Ophir†, AM Kelly†. <i>Comparing patterns of neural activity in the social behavior network across distinct social and nonsocial contexts in prairie voles (Microtus ochrogaster)</i> (*authors contributed equally to this work) (in prep)<br><br>
 	
-JM Powell, K Inoue, <b>KJ Wallace</b>, AW Seifert, LJ Young, AM Kelly. <i>Distribution of vasopressin 1a and oxytocin receptor protein and mRNA in the basal forebrain and midbrain of the spiny mouse (Acomys cahirinus)</i> (in prep)<br><br>
-	
-
 PS Queller, Y Shirali, <b>KJ Wallace</b>, RS DeAngelis, V Yurt, LP Reding, ME Cummings. <i>Complexity of the social rearing environment shapes personality and behavioral syndromes in adult female swordtail fish, Xiphophorus nigrensis.</i> (in prep)<br><br>
 	
 TK Solomon-Lane, <b>KJ Wallace</b>, RM Butler, HA Hofmann. <i>Social behavioral consistency over development and across contexts in a highly social cichlid fish.</i> (in prep) <br><br>	
