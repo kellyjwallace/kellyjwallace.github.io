@@ -9,7 +9,7 @@
 AM Kelly, BA Fricker, <b>KJ Wallace</b>. <i>Protocol for multiplex fluorescent immunohistochemistry in free-floating vertebrate tissue.</i> (in press at STAR Protocols)<br><br>	
 	
 JA Gonzalez Abreu, A Rosenberg, BA Fricker, <b>KJ Wallace</b>, AW Seifert, AM Kelly (2022) <i> Species-typical group size differentially influences reward, but not social, neural circuitry during nonreproductive social interactions.</i> iScience 25(5): 104230 <br>
-<a href="https://kellyjwallace.github.io/images/published_works/Gonzalez_Abreu_et_al_2022_species_typical_group_size.pdf)"><i><b>click here for PDF </b></i></a> or access at <a href = "https://www.cell.com/iscience/fulltext/S2589-0042(22)00500-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2589004222005004%3Fshowall%3Dtrue">doi.org/10.1016/j.isci.2022.104230 </a><br><br>
+<a href="https://kellyjwallace.github.io/images/published_works/Gonzalez_Abreu_et_al_2022_species_typical_group_size.pdf)"><i>click here for PDF</i></a> or access at <a href = "https://www.cell.com/iscience/fulltext/S2589-0042(22)00500-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2589004222005004%3Fshowall%3Dtrue">doi.org/10.1016/j.isci.2022.104230 </a><br><br>
 
 	
 
