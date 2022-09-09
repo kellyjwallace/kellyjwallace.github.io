@@ -9,11 +9,14 @@
 AM Kelly, BA Fricker, <b>KJ Wallace</b>. <i>Protocol for multiplex fluorescent immunohistochemistry in free-floating vertebrate tissue.</i> (in press at STAR Protocols)<br><br>	
 	
 JA Gonzalez Abreu, A Rosenberg, BA Fricker, <b>KJ Wallace</b>, AW Seifert, AM Kelly (2022) <i> Species-typical group size differentially influences reward, but not social, neural circuitry during nonreproductive social interactions.</i> iScience 25(5): 104230 <br>
-<a href="https://kellyjwallace.github.io/images/published_works/Gonzalez_Abreu_et_al_2022_species_typical_group_size.pdf"><i>click here for PDF</i></a> or access at <a href = "https://www.cell.com/iscience/fulltext/S2589-0042(22)00500-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2589004222005004%3Fshowall%3Dtrue"><i>doi.org/10.1016/j.isci.2022.104230</i></a><br><br>
+<a href="https://kellyjwallace.github.io/images/published_works/Gonzalez_Abreu_et_al_2022_species_typical_group_size.pdf"><i>click here for PDF</i></a> 
+or access at <a href = "https://www.cell.com/iscience/fulltext/S2589-0042(22)00500-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2589004222005004%3Fshowall%3Dtrue"><i>doi.org/10.1016/j.isci.2022.104230</i></a><br><br>
 
 	
 
-<b>KJ Wallace</b>, K Choudhary, L Kutty, D Le, M Lee, K Wu, HA Hofmann (2021) <i>Social ascent changes cognition, behavior, and physiology in a highly social cichlid fish. </i> Philosophical Transactions of the Royal Society B 377: 20200448 <br><a href = "https://royalsocietypublishing.org/doi/10.1098/rstb.2020.0448"><i>doi.org/10.1098/rstb.2020.0448</i></a><br><br>
+<b>KJ Wallace</b>, K Choudhary, L Kutty, D Le, M Lee, K Wu, HA Hofmann (2021) <i>Social ascent changes cognition, behavior, and physiology in a highly social cichlid fish. </i> Philosophical Transactions of the Royal Society B 377: 20200448 <br>
+<a href="https://kellyjwallace.github.io/images/published_works/Wallace_et_al_2022_status_differences_burtoni.pdf"><i>click here for PDF</i></a>	
+or access at<a href = "https://royalsocietypublishing.org/doi/10.1098/rstb.2020.0448"><i>doi.org/10.1098/rstb.2020.0448</i></a><br><br>
 
 <b>KJ Wallace</b> & HA Hofmann (2021) <i> Decision-making in a social world: integrating cognitive ecology and social neuroscience.</i> Current Opinion in Neurobiology 68:152-158 <br><a href = "https://www.sciencedirect.com/science/article/abs/pii/S0959438821000349?via%3Dihub"><i>doi.org/10.1016/j.conb.2021.03.009</i></a> <br><br>
 
