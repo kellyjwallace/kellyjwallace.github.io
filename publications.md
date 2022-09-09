@@ -34,7 +34,7 @@ or access at <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6817
 or access at <a href = "https://doi.org/10.1007/s10071-020-01367-2"><i>doi.org/10.1007/s10071-020-01367-2</i></a> <br><br>
 
 MA Rice, LE Hobbs, <b> KJ Wallace</b>, AG Ophir (2017) <i>Cryptic sexual dimorphism in spatial memory and hippocampal oxytocin receptors in prairie voles (Microtus ochrogaster). </i> Hormones and Behavior 95: 94–102 <br>
-<a href="https://kellyjwallace.github.io/images/published_works/Rice_et_al_2019_sex_differences_prairie_vole.pdf"><i>click here for PDF</i></a>
+<a href="https://kellyjwallace.github.io/images/published_works/Rice_et_al_2017_sex_differences_prairie_vole.pdf"><i>click here for PDF</i></a>
 or access at <a href="https://doi.org/10.1016/j.yhbeh.2017.08.003"><i>doi.org/10.1016/j.yhbeh.2017.08.003</i></a><br> 
 
 
