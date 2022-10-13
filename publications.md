@@ -6,6 +6,8 @@
 <h1>Publications</h1>
 <hr style="height:9px;color:#84949B"><br>
 	
+JM Powell, K Inoue, <b>KJ Wallace</b>, AW Seifert, LJ Young, AM Kelly. <i>Distribution of vasopressin 1a and oxytocin receptor protein and mRNA in the basal forebrain and midbrain of the spiny mouse (Acomys cahirinus)</i> (in press at Brain Structure and Function)<br><br>		
+	
 AM Kelly, BA Fricker, <b>KJ Wallace</b>. <i>Protocol for multiplex fluorescent immunohistochemistry in free-floating vertebrate tissue.</i> STAR Protocols 3(4): 101672<br>
 <a href="https://kellyjwallace.github.io/images/published_works/Kelly_Fricker_Wallace_2022_IHC_protocol.pdf"><i>click here for PDF</i></a> 
 or access at <a href = "https://www.sciencedirect.com/science/article/pii/S2666166722005524?via%3Dihub"><i>doi.org/10.1016/j.xpro.2022.101672</i></a><br><br>
@@ -49,9 +51,7 @@ or access at <a href="https://doi.org/10.1016/j.yhbeh.2017.08.003"><i>doi.org/10
 <h1>Manuscripts in review/in prep</h1>
 <hr style="height:9px;color:#84949B"><br>
 	
-<b>KJ Wallace*</b>, EK Chun*, AG Ophir†, AM Kelly†. <i>Comparing patterns of neural activity in the social behavior network across distinct social and nonsocial contexts in prairie voles (Microtus ochrogaster)</i> (*authors contributed equally to this work) (in review at Hormones and Behavior)<br><br>	
-
-JM Powell, K Inoue, <b>KJ Wallace</b>, AW Seifert, LJ Young, AM Kelly. <i>Distribution of vasopressin 1a and oxytocin receptor protein and mRNA in the basal forebrain and midbrain of the spiny mouse (Acomys cahirinus)</i> (in review at Brain Structure and Function)<br><br>		
+<b>KJ Wallace*</b>, EK Chun*, AG Ophir†, AM Kelly†. <i>Comparing patterns of neural activity in the social behavior network across distinct social and nonsocial contexts in prairie voles (Microtus ochrogaster)</i> (*authors contributed equally to this work) (in review at Hormones and Behavior)<br><br>			
 	
 <b>KJ Wallace</b>, S Dupeyron, M Li, AM Kelly. <i>Long-term effects of early life social complexity on neural gene expression and behavior in the spiny mouse Acomys cahirinus</i> (in prep)<br><br>
 	
