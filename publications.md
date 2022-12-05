@@ -9,11 +9,11 @@
 
 PS Queller, Y Shirali, <b>KJ Wallace</b>, RS DeAngelis, V Yurt, LP Reding, ME Cummings. <i>Complex sexual-social environments produce high boldness and low aggression behavioral syndromes.</i> (in press at Frontiers in Ecology & Evolution)<br><br>
 	
-JM Powell, K Inoue, <b>KJ Wallace</b>, AW Seifert, LJ Young, AM Kelly. <i>Distribution of vasopressin 1a and oxytocin receptor protein and mRNA in the basal forebrain and midbrain of the spiny mouse (Acomys cahirinus)</i> Brain Structure and Function<br>
+JM Powell, K Inoue, <b>KJ Wallace</b>, AW Seifert, LJ Young, AM Kelly. (2022) <i>Distribution of vasopressin 1a and oxytocin receptor protein and mRNA in the basal forebrain and midbrain of the spiny mouse (Acomys cahirinus)</i> Brain Structure and Function<br>
 <a href="https://kellyjwallace.github.io/images/published_works/Powell_et_al_2022_distribution_of_v1ar_in_spiny_mouse.pdf"><i>click here for PDF</i></a> 
 or access at <a href = "https://link.springer.com/article/10.1007/s00429-022-02581-z"><i>doi.org/10.1007/s00429-022-02581-z</i></a><br><br>		
 	
-AM Kelly, BA Fricker, <b>KJ Wallace</b>. <i>Protocol for multiplex fluorescent immunohistochemistry in free-floating vertebrate tissue.</i> STAR Protocols 3(4): 101672<br>
+AM Kelly, BA Fricker, <b>KJ Wallace</b>. <i>Protocol for multiplex fluorescent immunohistochemistry in free-floating vertebrate tissue. (2022)</i> STAR Protocols 3(4): 101672<br>
 <a href="https://kellyjwallace.github.io/images/published_works/Kelly_Fricker_Wallace_2022_IHC_protocol.pdf"><i>click here for PDF</i></a> 
 or access at <a href = "https://www.sciencedirect.com/science/article/pii/S2666166722005524?via%3Dihub"><i>doi.org/10.1016/j.xpro.2022.101672</i></a><br><br>
 	
