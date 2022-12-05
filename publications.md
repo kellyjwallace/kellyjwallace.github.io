@@ -11,9 +11,7 @@
 	
 JM Powell, K Inoue, <b>KJ Wallace</b>, AW Seifert, LJ Young, AM Kelly. <i>Distribution of vasopressin 1a and oxytocin receptor protein and mRNA in the basal forebrain and midbrain of the spiny mouse (Acomys cahirinus)</i> Brain Structure and Function<br>
 <a href="https://kellyjwallace.github.io/images/published_works/Powell_et_al_2022_distribution_of_v1ar_in_spiny_mouse.pdf"><i>click here for PDF</i></a> 
-or access at <a href = "https://link.springer.com/article/10.1007/s00429-022-02581-z"><i>doi.org/10.1007/s00429-022-02581-z</i></a><br><br>	
-	
-<br><br>		
+or access at <a href = "https://link.springer.com/article/10.1007/s00429-022-02581-z"><i>doi.org/10.1007/s00429-022-02581-z</i></a><br><br>		
 	
 AM Kelly, BA Fricker, <b>KJ Wallace</b>. <i>Protocol for multiplex fluorescent immunohistochemistry in free-floating vertebrate tissue.</i> STAR Protocols 3(4): 101672<br>
 <a href="https://kellyjwallace.github.io/images/published_works/Kelly_Fricker_Wallace_2022_IHC_protocol.pdf"><i>click here for PDF</i></a> 
