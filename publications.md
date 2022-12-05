@@ -7,7 +7,7 @@
 <hr style="height:9px;color:#84949B"><br>
 
 
-<b>PS Queller, Y Shirali, <b>KJ Wallace</b>, RS DeAngelis, V Yurt, LP Reding, ME Cummings. <i>Complexity of the social rearing environment shapes personality and behavioral syndromes in adult female swordtail fish, Xiphophorus nigrensis.</i> (in press at Frontiers in Ecology & Evolution)<br><br>
+<b>PS Queller, Y Shirali, <b>KJ Wallace</b>, RS DeAngelis, V Yurt, LP Reding, ME CumminComplex sexual-social environments produce high boldness and low aggression behavioral syndromes.</i> (in press at Frontiers in Ecology & Evolution)<br><br>
 	
 JM Powell, K Inoue, <b>KJ Wallace</b>, AW Seifert, LJ Young, AM Kelly. <i>Distribution of vasopressin 1a and oxytocin receptor protein and mRNA in the basal forebrain and midbrain of the spiny mouse (Acomys cahirinus)</i> Brain Structure and Function<br>
 <a href="https://kellyjwallace.github.io/images/published_works/Powell_et_al_2022_distribution_of_v1ar_in_spiny_mouse.pdf"><i>click here for PDF</i></a> 
