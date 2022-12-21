@@ -8,7 +8,7 @@
 
 
 PS Queller, Y Shirali, <b>KJ Wallace</b>, RS DeAngelis, V Yurt, LP Reding, ME Cummings. <i>Complex sexual-social environments produce high boldness and low aggression behavioral syndromes.</i> Frontiers in Ecology and Evolution 10:1050569.<br> 
-<a href="https://kellyjwallace.github.io/images/published_works/Queller et al 202 behavioral syndromes.pdf"><i>click here for PDF</i></a> 
+<a href="https://kellyjwallace.github.io/images/published_works/Queller et al 2022 behavioral syndromes.pdf"><i>click here for PDF</i></a> 
 or access at <a href = "https://doi.org/10.3389/fevo.2022.1050569"><i>doi.org/10.3389/fevo.2022.1050569</i></a><br><br>	
 	
 JM Powell, K Inoue, <b>KJ Wallace</b>, AW Seifert, LJ Young, AM Kelly (2022) <i>Distribution of vasopressin 1a and oxytocin receptor protein and mRNA in the basal forebrain and midbrain of the spiny mouse (Acomys cahirinus)</i> Brain Structure and Function<br>
