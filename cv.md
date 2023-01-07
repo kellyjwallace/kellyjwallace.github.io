@@ -5,8 +5,8 @@
 <h1>Curriculum Vitae</h1>
 
 <hr style="height:9px;color:#84949B">
-<a href="https://kellyjwallace.github.io/images/Kelly_Wallace_curriculum_vita_2022.pdf"><i><b>if viewing on mobile (or if embedded PDF is not displaying properly) please click here </b></i></a><br><br>
-<embed src="https://kellyjwallace.github.io/images/Kelly_Wallace_curriculum_vita_2022.pdf" width="900px" height="800px" />
+<a href="https://kellyjwallace.github.io/images/Kelly_Wallace_curriculum_vita_2023.pdf"><i><b>if viewing on mobile (or if embedded PDF is not displaying properly) please click here </b></i></a><br><br>
+<embed src="https://kellyjwallace.github.io/images/Kelly_Wallace_curriculum_vita_2023.pdf" width="900px" height="800px" />
 
 
 	
