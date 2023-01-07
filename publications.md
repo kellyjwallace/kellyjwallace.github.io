@@ -59,12 +59,14 @@ or access at <a href="https://doi.org/10.1016/j.yhbeh.2017.08.003"><i>doi.org/10
 <hr style="height:9px;color:#84949B"><br>	
 	
 <b>KJ Wallace*</b>, EK Chun*, AG Ophir†, AM Kelly†. <i>Comparing patterns of neural activity in the social behavior network across distinct social and nonsocial contexts in prairie voles (Microtus ochrogaster)</i> (*†authors contributed equally to this work) (in revision at Hormones and Behavior)<br><br>
+	
+	PK Monari, ER Hammond, CL Malone, A Cuarenta, LC Hiura, <b>KJ Wallace</b>, L Taylor, DS Pradhan. <i>Leveraging individual power to improve racial equity in academia.</i> (in review at Hormones & Behavior)<br><br>	
 		
 	
 <b>KJ Wallace</b>, S Dupeyron, M Li, AM Kelly. <i>Long-term effects of early life social complexity on neural gene expression and behavior in the spiny mouse Acomys cahirinus</i> (in prep)<br><br>
 
 	
-TK Solomon-Lane, <b>KJ Wallace</b>, RM Butler, HA Hofmann. <i>Social behavioral consistency over development and across contexts in a highly social cichlid fish.</i> (in prep) <br><br>	
+	
 	
 
 
