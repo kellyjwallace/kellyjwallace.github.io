@@ -6,7 +6,7 @@
 <h1>Publications</h1>
 <hr style="height:9px;color:#84949B"><br>
 	
-<b>KJ Wallace*</b>, EK Chun*, AG Ophir†, AM Kelly†. <i>Comparing patterns of neural activity in the social behavior network across distinct social and nonsocial contexts in prairie voles (Microtus ochrogaster)</i> (*†authors contributed equally to this work) (in press at Hormones and Behavior)<br><br>	
+PK Monari, ER Hammond, CL Malone, A Cuarenta, LC Hiura, <b>KJ Wallace</b>, L Taylor, DS Pradhan. <i>Leveraging individual power to improve racial equity in academia.</i> (in press at Hormones & Behavior)<br><br>		
 
 PS Queller, Y Shirali, <b>KJ Wallace</b>, RS DeAngelis, V Yurt, LP Reding, ME Cummings. <i>Complex sexual-social environments produce high boldness and low aggression behavioral syndromes.</i> Frontiers in Ecology and Evolution 10:1050569.<br> 
 <a href="https://kellyjwallace.github.io/images/published_works/Queller et al 2022 behavioral syndromes.pdf"><i>click here for PDF</i></a> 
@@ -61,7 +61,7 @@ or access at <a href="https://doi.org/10.1016/j.yhbeh.2017.08.003"><i>doi.org/10
 <h1>Manuscripts in review/in prep</h1>
 <hr style="height:9px;color:#84949B"><br>	
 	
-PK Monari, ER Hammond, CL Malone, A Cuarenta, LC Hiura, <b>KJ Wallace</b>, L Taylor, DS Pradhan. <i>Leveraging individual power to improve racial equity in academia.</i> (in review at Hormones & Behavior)<br><br>		
+<b>KJ Wallace*</b>, EK Chun*, AG Ophir†, AM Kelly†. <i>Comparing patterns of neural activity in the social behavior network across distinct social and nonsocial contexts in prairie voles (Microtus ochrogaster)</i> (*†authors contributed equally to this work) (in revision at Hormones and Behavior)<br><br>		
 	
 <b>KJ Wallace</b>, S Dupeyron, M Li, AM Kelly. <i>Long-term effects of early life social complexity on neural gene expression and behavior in the spiny mouse Acomys cahirinus</i> (in prep)<br><br>
 
