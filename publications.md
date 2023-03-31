@@ -65,7 +65,7 @@ or access at <a href="https://doi.org/10.1016/j.yhbeh.2017.08.003"><i>doi.org/10
 	
 <b>KJ Wallace</b>, S Dupeyron, M Li, AM Kelly. <i>Long-term effects of early life social complexity on neural gene expression and behavior in the spiny mouse Acomys cahirinus</i> (in prep)<br><br>
 
-<b>KJ Wallace</b>, S Dupeyron, RR Thompson. <i>Memory in aggressive contests: neural and behavioral correlates of social novelty response in Betta splendens</i> (in prep) <br>
+<b>KJ Wallace</b>, S Dupeyron, RR Thompson. <i>Memory in aggressive contests: neural and behavioral correlates of social novelty response in Betta splendens</i> (in prep) <br><br>
 	
 	
 	
