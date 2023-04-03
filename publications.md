@@ -61,7 +61,7 @@ or access at <a href="https://doi.org/10.1016/j.yhbeh.2017.08.003"><i>doi.org/10
 <h1>Manuscripts in review/in prep</h1>
 <hr style="height:9px;color:#84949B"><br>	
 	
-<b>KJ Wallace*</b>, EK Chun*, AG Ophir†, AM Kelly†. <i>A test of the Social Behavior Network reveals differential patterns of neural responses to social novelty in bonded, but not non-bonded, male prairie voles</i> (*†authors contributed equally to this work) (in revision at Hormones and Behavior)<br><br>		
+<b>KJ Wallace*</b>, EK Chun*, JR Manns, AG Ophir†, AM Kelly†. <i>A test of the Social Behavior Network reveals differential patterns of neural responses to social novelty in bonded, but not non-bonded, male prairie voles</i> (*†authors contributed equally to this work) (in revision at Hormones and Behavior)<br><br>		
 	
 <b>KJ Wallace</b>, S Dupeyron, M Li, AM Kelly. <i>Long-term effects of early life social complexity on neural gene expression and behavior in the spiny mouse Acomys cahirinus</i> (in prep)<br><br>
 
