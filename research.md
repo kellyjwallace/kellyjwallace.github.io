@@ -14,7 +14,7 @@ Cognition is critical for successfully navigating rich social landscapes in whic
 
 <p><center><img src="/images/aburtoni.png" height="200"> </center></p>
 
-<p style="text-align:center;font-size:60%"><font color="darkslateblue"> <i>Astatotilapia burtoni</i> - drawing by <a href="https://caitlinfriesen.myportfolio.com/">Caitlin Friesen</a></font></p>
+<p style="text-align:center;font-size:75%"><font color="darkslateblue"> <i>Astatotilapia burtoni</i> - drawing by <a href="https://caitlinfriesen.myportfolio.com/">Caitlin Friesen</a></font></p>
 
 <p style="text-align:left;font-size:120%"><b><font color="darkslateblue">Neuroendocrine basis of social competence and cognition in dynamic communities of a highly soical cichlid fish <i>(Astatotilapia burtoni)</i></font></b><br></p>
 
