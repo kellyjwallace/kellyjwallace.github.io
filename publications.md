@@ -6,7 +6,9 @@
 <h1>Publications</h1>
 <hr style="height:9px;color:#84949B"><br>
 	
-PK Monari, ER Hammond, CL Malone, A Cuarenta, LC Hiura, <b>KJ Wallace</b>, L Taylor, DS Pradhan. <i>Leveraging individual power to improve racial equity in academia.</i> (in press at Hormones & Behavior)<br><br>		
+PK Monari, ER Hammond, CL Malone, A Cuarenta, LC Hiura, <b>KJ Wallace</b>, L Taylor, DS Pradhan. <i>Leveraging individual power to improve racial equity in academia.</i> Hormones & Behavior 152:10538.<br> 
+<a href="https://kellyjwallace.github.io/images/published_works/Monari et al 2023 leveraging power in academia.pdf"><i>click here for PDF</i></a> 
+or access at <a href = "https://doi.org/10.1016/j.yhbeh.2023.105358"><i>doi.org/10.1016/j.yhbeh.2023.105358</i></a><br><br>		
 
 PS Queller, Y Shirali, <b>KJ Wallace</b>, RS DeAngelis, V Yurt, LP Reding, ME Cummings. <i>Complex sexual-social environments produce high boldness and low aggression behavioral syndromes.</i> Frontiers in Ecology and Evolution 10:1050569.<br> 
 <a href="https://kellyjwallace.github.io/images/published_works/Queller et al 2022 behavioral syndromes.pdf"><i>click here for PDF</i></a> 
