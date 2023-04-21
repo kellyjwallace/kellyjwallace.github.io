@@ -6,11 +6,15 @@
 <h1>Publications</h1>
 <hr style="height:9px;color:#84949B"><br>
 	
-PK Monari, ER Hammond, CL Malone, A Cuarenta, LC Hiura, <b>KJ Wallace</b>, L Taylor, DS Pradhan. <i>Leveraging individual power to improve racial equity in academia.</i> Hormones & Behavior 152:10538.<br> 
+<b>KJ Wallace*</b>, EK Chun*, JR Manns, AG Ophir†, AM Kelly† (2023) <i>A test of the Social Behavior Network reveals differential patterns of neural responses to social novelty in bonded, but not non-bonded, male prairie voles</i> Hormones & Behavior 152:105362.(*†authors contributed equally to this work)<br>
+<a href="https://kellyjwallace.github.io/images/published_works/Wallace & Chun et al 2023 prairie vole testing SBN.pdf"><i>click here for PDF</i></a> 
+or access at <a href = "https://doi.org/10.1016/j.yhbeh.2023.105362"><i>doi.org/10.1016/j.yhbeh.2023.105362</i></a><br><br>	
+	
+PK Monari, ER Hammond, CL Malone, A Cuarenta, LC Hiura, <b>KJ Wallace</b>, L Taylor, DS Pradhan (2023) <i>Leveraging individual power to improve racial equity in academia.</i> Hormones & Behavior 152:105358.<br> 
 <a href="https://kellyjwallace.github.io/images/published_works/Monari et al 2023 leveraging power in academia.pdf"><i>click here for PDF</i></a> 
 or access at <a href = "https://doi.org/10.1016/j.yhbeh.2023.105358"><i>doi.org/10.1016/j.yhbeh.2023.105358</i></a><br><br>		
 
-PS Queller, Y Shirali, <b>KJ Wallace</b>, RS DeAngelis, V Yurt, LP Reding, ME Cummings. <i>Complex sexual-social environments produce high boldness and low aggression behavioral syndromes.</i> Frontiers in Ecology and Evolution 10:1050569.<br> 
+PS Queller, Y Shirali, <b>KJ Wallace</b>, RS DeAngelis, V Yurt, LP Reding, ME Cummings (2022) <i>Complex sexual-social environments produce high boldness and low aggression behavioral syndromes.</i> Frontiers in Ecology and Evolution 10:1050569.<br> 
 <a href="https://kellyjwallace.github.io/images/published_works/Queller et al 2022 behavioral syndromes.pdf"><i>click here for PDF</i></a> 
 or access at <a href = "https://doi.org/10.3389/fevo.2022.1050569"><i>doi.org/10.3389/fevo.2022.1050569</i></a><br><br>	
 	
@@ -62,8 +66,7 @@ or access at <a href="https://doi.org/10.1016/j.yhbeh.2017.08.003"><i>doi.org/10
 
 <h1>Manuscripts in review/in prep</h1>
 <hr style="height:9px;color:#84949B"><br>	
-	
-<b>KJ Wallace*</b>, EK Chun*, JR Manns, AG Ophir†, AM Kelly†. <i>A test of the Social Behavior Network reveals differential patterns of neural responses to social novelty in bonded, but not non-bonded, male prairie voles</i> (*†authors contributed equally to this work) (in press at Hormones and Behavior)<br><br>		
+		
 	
 <b>KJ Wallace</b>, S Dupeyron, M Li, AM Kelly. <i>Long-term effects of early life social complexity on neural gene expression and behavior in the spiny mouse Acomys cahirinus</i> (in prep)<br><br>
 
