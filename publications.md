@@ -31,7 +31,7 @@ JA Gonzalez Abreu, A Rosenberg, BA Fricker, <b>KJ Wallace</b>, AW Seifert, AM Ke
 or access at <a href = "https://www.cell.com/iscience/fulltext/S2589-0042(22)00500-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2589004222005004%3Fshowall%3Dtrue"><i>doi.org/10.1016/j.isci.2022.104230</i></a><br><br>
 
 
-<b>KJ Wallace</b>, K Choudhary, L Kutty, D Le, M Lee, K Wu, HA Hofmann (2021) <i>Social ascent changes cognition, behavior, and physiology in a highly social cichlid fish. </i> Philosophical Transactions of the Royal Society B 377: 20200448 <br>
+<b>KJ Wallace</b>, K Choudhary, L Kutty, D Le, M Lee, K Wu, HA Hofmann (2022) <i>Social ascent changes cognition, behavior, and physiology in a highly social cichlid fish. </i> Philosophical Transactions of the Royal Society B 377: 20200448 <br>
 <a href="https://kellyjwallace.github.io/images/published_works/Wallace_et_al_2022_status_differences_burtoni.pdf"><i>click here for PDF</i></a>	
 or access at <a href = "https://royalsocietypublishing.org/doi/10.1098/rstb.2020.0448"><i>doi.org/10.1098/rstb.2020.0448</i></a><br><br>
 
