@@ -7,7 +7,7 @@
 <hr style="height:9px;color:#84949B"><br>
 	
 <b>KJ Wallace*</b>, EK Chun*, JR Manns, AG Ophir†, AM Kelly† (2023) <i>A test of the Social Behavior Network reveals differential patterns of neural responses to social novelty in bonded, but not non-bonded, male prairie voles.</i> Hormones & Behavior 152:105362.(*†authors contributed equally to this work)<br>
-<a href="https://kellyjwallace.github.io/images/published_works/Wallace & Chun et al 2023 prairie vole testing SBN.pdf"><i>click here for PDF</i></a> 
+<a href="https://kellyjwallace.github.io/images/published_works/Wallace_&_Chun_et_al_2023_prairie_vole_testing_SBN.pdf"><i>click here for PDF</i></a> 
 or access at <a href = "https://doi.org/10.1016/j.yhbeh.2023.105362"><i>doi.org/10.1016/j.yhbeh.2023.105362</i></a><br><br>	
 	
 PK Monari, ER Hammond, CL Malone, A Cuarenta, LC Hiura, <b>KJ Wallace</b>, L Taylor, DS Pradhan (2023) <i>Leveraging individual power to improve racial equity in academia.</i> Hormones & Behavior 152:105358.<br> 
@@ -31,7 +31,7 @@ JA Gonzalez Abreu, A Rosenberg, BA Fricker, <b>KJ Wallace</b>, AW Seifert, AM Ke
 or access at <a href = "https://www.cell.com/iscience/fulltext/S2589-0042(22)00500-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2589004222005004%3Fshowall%3Dtrue"><i>doi.org/10.1016/j.isci.2022.104230</i></a><br><br>
 
 
-<b>KJ Wallace</b>, K Choudhary, L Kutty, D Le, M Lee, K Wu, HA Hofmann (2021) <i>Social ascent changes cognition, behavior, and physiology in a highly social cichlid fish. </i> Philosophical Transactions of the Royal Society B 377: 20200448 <br>
+<b>KJ Wallace</b>, K Choudhary, L Kutty, D Le, M Lee, K Wu, HA Hofmann (2022) <i>Social ascent changes cognition, behavior, and physiology in a highly social cichlid fish. </i> Philosophical Transactions of the Royal Society B 377: 20200448 <br>
 <a href="https://kellyjwallace.github.io/images/published_works/Wallace_et_al_2022_status_differences_burtoni.pdf"><i>click here for PDF</i></a>	
 or access at <a href = "https://royalsocietypublishing.org/doi/10.1098/rstb.2020.0448"><i>doi.org/10.1098/rstb.2020.0448</i></a><br><br>
 
