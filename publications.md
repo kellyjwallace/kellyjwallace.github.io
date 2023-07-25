@@ -10,7 +10,7 @@ S Dupeyron & <b>KJ Wallace</b> (2023). <i>Quantifying the Neural and Behavioral 
 <a href="https://kellyjwallace.github.io/images/published_works/Dupeyron_Wallace_2023_betta.pdf"><i>click here for PDF</i></a>
 or access at <a href = "https://doi.org/10.3390/fishes8080384"><i>doi.org/10.3390/fishes8080384</i></a><br><br>
 	
-<b>KJ Wallace*</b>, EK Chun*, JR Manns, AG Ophir†, AM Kelly† (2023) <i>A test of the Social Behavior Network reveals differential patterns of neural responses to social novelty in bonded, but not non-bonded, male prairie voles.</i> Hormones & Behavior 152:105362.(*†authors contributed equally to this work)<br>
+<b>KJ Wallace*</b>, EK Chun*, JR Manns, AG Ophir†, AM Kelly† (2023) <i>A test of the Social Behavior Network reveals differential patterns of neural responses to social novelty in bonded, but not non-bonded, male prairie voles.</i> Hormones & Behavior 152:105362. (*† authors contributed equally to this work)<br>
 <a href="https://kellyjwallace.github.io/images/published_works/Wallace_&_Chun_et_al_2023_prairie_vole_testing_SBN.pdf"><i>click here for PDF</i></a> 
 or access at <a href = "https://doi.org/10.1016/j.yhbeh.2023.105362"><i>doi.org/10.1016/j.yhbeh.2023.105362</i></a><br><br>	
 	
