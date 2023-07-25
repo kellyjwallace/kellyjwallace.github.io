@@ -6,7 +6,7 @@
 <h1>Publications</h1>
 <hr style="height:9px;color:#84949B"><br>
 
-S Dupeyron & <b>KJ Wallace</b> (2023) <i>Quantifying the Neural and Behavioral Correlates of Repeated Social Competition in the Fighting Fish Betta splendens.</i> Fishes 8(8):384.<br>
+S Dupeyron & <b>KJ Wallace</b> (2023) <i>Quantifying the neural and behavioral correlates of repeated social competition in the fighting fish Betta splendens.</i> Fishes 8(8):384.<br>
 <a href="https://kellyjwallace.github.io/images/published_works/Dupeyron_Wallace_2023_betta.pdf"><i>click here for PDF</i></a>
 or access at <a href = "https://doi.org/10.3390/fishes8080384"><i>doi.org/10.3390/fishes8080384</i></a><br><br>
 	
