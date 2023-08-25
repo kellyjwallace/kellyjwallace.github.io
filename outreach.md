@@ -11,12 +11,12 @@
 
 During my PhD at UT Austin I served on the <a href="https://cns.utexas.edu/diversity/d-i-committee"> <b> UT College of Natural Sciences Diversity and Inclusion Committee</b> </a> which has organized college-wide initiatives such as the “You Belong Here” campaign, gender-neutral bathrooms, diversity award funding, and a college-wide lunch-series.In summer 2020 I was invited by the College of Natural Sciences Dean Goldbart to join a 15-member <a href="https://cns.utexas.edu/news/your-ideas-in-a-time-of-momentum"> <b> UT College of Natural Sciences Action Team on Racial Justice</b></a> that assessed needs and priorities in response to a college-wide request for action.<br><br>
 
-In 2017 I participated in a <a href="https://beacon-center.org/"> <b> BEACON</b></a>-funded project titled <b>African American Pioneers in Evolutionary Science: The Untold Story</b> that met to develop scholarly 
-publications on the history/sociology of African American scientists in evolution and generate goals for improving diversity recruitment and inclusivity for students in evolutionary biology.<br><br>
-
 <img src="/images/chronicle1.jpg"> <br><br>
 <a href="https://www.chronicle.com/article/How-a-Department-Took-On-the/245050"><i><b> How a Department Took On the Next Frontier in the #MeToo Movement</b></i></a> <br><i>photo and article by The Chronicle of Higher Education</i><br>
 The article describes efforts by the graduate students in UT's Integrative Biology Department to improve cultural issues in the department and academia as a whole, specifically as it relates to addressing racial insensitivity and sexism. <br>
+
+In 2017 I participated in an <a href="https://beacon-center.org/"> <b> NSF BEACON</b></a>-funded project titled <b>African American Pioneers in Evolutionary Science: The Untold Story</b> that met to develop scholarly 
+publications on the history/sociology of African American scientists in evolution and generate goals for improving diversity recruitment and inclusivity for students in evolutionary biology.<br><br>
 
 
 <br><hr style="height:9px;color:#84949B">
