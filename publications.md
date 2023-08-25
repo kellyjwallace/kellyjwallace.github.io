@@ -72,7 +72,7 @@ or access at <a href="https://doi.org/10.1016/j.yhbeh.2017.08.003"><i>doi.org/10
 <hr style="height:9px;color:#84949B"><br>	
 		
 	
-<b>KJ Wallace</b>, S Dupeyron, M Li, AM Kelly. <i>Long-term effects of early life social complexity on neural gene expression and behavior in the spiny mouse Acomys cahirinus</i> (in prep)<br><br>
+<b>KJ Wallace</b>, S Dupeyron, M Li, AM Kelly. <i>Early life social complexity shapes adult neural processing in the communal spiny mouse Acomys cahirinus</i> (in review at <i>Psychopharmacology</i>)<br><br>
 
 	
 	
