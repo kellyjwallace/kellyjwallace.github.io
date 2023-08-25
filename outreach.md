@@ -16,7 +16,7 @@ During my PhD at UT Austin I served on the <a href="https://cns.utexas.edu/diver
 The article describes efforts by the graduate students in UT's Integrative Biology Department to improve cultural issues in the department and academia as a whole, specifically as it relates to addressing racial insensitivity and sexism. <br><br>
 
 <img src="/images/systemchange.jpg"> <br><br>
-<a href="https://www.sciencedirect.com/science/article/pii/S0018506X23000569">Leveraging individual power to improve racial equity in academia</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S0018506X23000569"><i><b>Leveraging individual power to improve racial equity in academia</b></i></a>
 <br>Individual power in academic spaces is multi-faceted and identity-dependent. In a publication in <i> Hormones & Behavior </i> I and other members of the Society for Behavioral Neuroendocrinology provide action strategies for addressing racial inequity in academia, from the individual to the structural level. In the publication we also invite readers to critically examine how their identities contribute to their power and to subsequently reflect on which action strategies can leverage that power. <br><br>
 
 <img src="/images/diversity1.jpg" height="400"> <br><br>
