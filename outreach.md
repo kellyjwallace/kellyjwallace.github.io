@@ -2,7 +2,7 @@
 		
 <div class="container">
 <div class="blurb">
-<h1>Diversity</h1>
+<h1>Diversity in Academia</h1>
 <hr style="height:9px;color:#84949B"><br>
 	
 
