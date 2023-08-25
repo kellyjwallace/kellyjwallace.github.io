@@ -24,8 +24,7 @@ Individual power in academic spaces is multi-faceted and identity-dependent. In 
 Gathering and evaluating data on representation in academia is the first step to identifying areas to target inclusive programming efforts. In our publication in <i> Ecology and Evolution </i> Julia York and I analyzed information about the Department of Integrative Biology at the University of Texas at Austin and its PhD program in Ecology, Evolution, and Beehavior. In the manuscript we discuss how graduate programs can evaluate their inclusive programming efforts in order to make the most efficient and positive impact. <br>
 <img src="/images/diversity1.jpg" height="400"> <br>
 
-In 2017 I participated in an <a href="https://beacon-center.org/"> <b> NSF BEACON</b></a>-funded project titled <b>African American Pioneers in Evolutionary Science: The Untold Story</b> that met to develop scholarly 
-publications on the history/sociology of African American scientists in evolution and generate goals for improving diversity recruitment and inclusivity for students in evolutionary biology.<br><br>
+In 2017 I participated in an <b>NSF BEACON</b>-funded project titled <b>African American Pioneers in Evolutionary Science: The Untold Story</b> that met to develop scholarly publications on the history/sociology of African American scientists in evolution and generate goals for improving diversity recruitment and inclusivity for students in evolutionary biology.<br><br>
 
 
  <i>For additional information, please refer to my CV</i>
