@@ -21,7 +21,7 @@ The article describes efforts by the graduate students in UT's Integrative Biolo
 
 <img src="/images/diversity1.jpg" height="400"> <br><br>
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6817"><i><b>A systems change framework for evaluating academic equity and inclusion in an Ecology and Evolution Graduate Program</b></i></a><br>
-Gathering and evaluating data on representation in academia is the first step to identifying areas to target inclusive programming efforts. In our publication in <i> Ecology and Evolution </i> Julia York and I analyzed information about the Department of Integrative Biology at the University of Texas at Austin and its PhD program in Ecology, Evolution, and Beehavior. In the manuscript we discuss how graduate programs can evaluate their inclusive programming efforts in order to make the most efficient and positive impact. <br>
+Gathering and evaluating data on representation in academia is the first step to identifying areas to target inclusive programming efforts. In our publication in <i> Ecology and Evolution </i> Julia York and I analyzed information about the Department of Integrative Biology at the University of Texas at Austin and its PhD program in Ecology, Evolution, and Beehavior. In the manuscript we discuss how graduate programs can evaluate their inclusive programming efforts in order to make the most efficient and positive impact. <br><br>
 
 
  <i>For additional information, please refer to my CV</i>
