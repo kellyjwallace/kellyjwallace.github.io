@@ -5,7 +5,7 @@
 <h1>Research</h1>
 <hr style="height:9px;color:#84949B">
 
-<p><center><img src="/images/Wallace african spiny mouse gif 2021.gif" height="400"> </center></p>
+<p><center><img src="/images/Wallace african spiny mouse gif 2021.gif" height="350"> </center></p>
 
 <p style="text-align:left;font-size:120%"><b><font color="darkslateblue">Postdoctoral research: Early life social complexity shapes adult neural processing in the communal spiny mouse Acomys cahirinus</font></b><br></p>
 
