@@ -18,7 +18,7 @@ Early life social experience did not influence behavior in the test battery, but
 <p style="text-align:center;font-size:80%"><i><font color="darkslateblue"> catching mosquitofish at Brackenridge Field Labs, Austin TX</font></i></p>
 
 
-<p style="text-align:left;font-size:120%"><b><font color="darkslateblue">Doctoral research: Cognition in a Social World: Assessing Cognitive Variation by Sex and Dominance Status in Gambusia affinis and Astatotilapia burtoni</i></font></b><br></p>
+<p style="text-align:left;font-size:120%"><b><font color="darkslateblue">Doctoral research: Cognition in a Social World: Assessing Cognitive Variation by Sex and Dominance Status in Gambusia affinis and Astatotilapia burtoni</font></b><br></p>
 
 During my doctoral research I assessed male <i>Astatotilapia burtoni</i>, an African cichlid fish known for its dynamic social dominance hierarchies, in a set of cognitive tasks both before and after a community perturbation in which some individuals ascended in dominance status. I assayed steroid hormone (cortisol, testosterone) levels before and after the community experienced a social perturbation. I found that ascending males changed their physiology and novel object recognition preference during the perturbation, and they subsequently differed in social competence from non-ascenders. Additionally, using a principal component analysis I was able to identify specific cognitive and physiological attributes that appear to predispose certain individuals to ascend in social status once a perturbation occurs. These previously undiscovered relationships between social ascent and cognition further emphasize the broad influence of social dominance on animal decision-making.
 
