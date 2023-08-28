@@ -5,6 +5,8 @@
 <h1>Research</h1>
 <hr style="height:9px;color:#84949B">
 
+<p><center><img src="/images/Wallace african spiny mouse gif 2021.gif" height="400"> </center></p>
+
 <p style="text-align:left;font-size:120%"><b><font color="darkslateblue">Postdoctoral research: Early life social complexity shapes adult neural processing in the communal spiny mouse Acomys cahirinus</font></b><br></p>
 
 Early life social rearing has profound consequences on offspring behavior and resilience. Yet most studies examining early life development in rodents use species whose young are born immobile and do not produce complex social behavior until later in development. Furthermore, models of rearing under increased social complexity, rather than social deprivation, are needed to provide alternative insight into the development of social neural circuitry. To understand precocial offspring social development in a communal environment we manipulated early life social complexity in the spiny mouse Acomys cahirinus and assessed long-term consequences on offspring social behavior, exploration, and neural responses to novel social stimuli. Spiny mouse pups were raised in the presence or absence of a non-kin breeding group. Upon adulthood subjects underwent social interaction tests, an open field test, and a novel object test. Subjects were then exposed to a novel conspecific and novel group and neural responses were quantified via immunohistochemical staining in brain regions associated with social behavior. <br><br>
