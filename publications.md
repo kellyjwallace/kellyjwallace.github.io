@@ -74,7 +74,7 @@ or access at <a href="https://doi.org/10.1016/j.yhbeh.2017.08.003"><i>doi.org/10
 	
 <b>KJ Wallace</b>, S Dupeyron, M Li, AM Kelly. <i>Early life social complexity shapes adult neural processing in the communal spiny mouse Acomys cahirinus</i> (in revision at <i>Psychopharmacology</i>)<br><br>
 
-<b>KJ Wallace</b> & S Dupeyron. <i>A “plug-and-play” lesson: combining scototaxis and a mirror stimulus in a detour reaching task in Betta splendens</i> (in prep) <br><br>
+<b>KJ Wallace</b>. <i>A “plug-and-play” lesson: combining scototaxis and a mirror stimulus in a detour reaching task in Betta splendens</i> (in prep) <br><br>
 	
 	
 
