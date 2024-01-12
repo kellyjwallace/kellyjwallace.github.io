@@ -6,7 +6,7 @@
 <i>I'm interested in understanding how an individual's social environment and their own social phenotype influences how they make decisions. I have researched this topic in rodent (M. ochrogaster, A. cahirinus) and fish (G. affinis, A. burtoni, B. splendens) species that are well known for their dynamic social interactions. My work builds on the foundational literature of social neuroendocrinology by incorporating cognitive and eco-evolutionary frameworks.<br></i></p>
 	
 <p style="text-align:center;font-size:110%">
-<img src="/images/social_media_icons/gmail.png" width="20" height="20"><a href="mailto:kelly.wallace@emory.edu"><i><b>kelly.wallace@emory.edu</b></i></a><br>
+<img src="/images/social_media_icons/gmail.png" width="20" height="20"><a href="mailto:kewallace@amherst.edu"><i><b>kewallace@amherst.edu</b></i></a><br>
 	<img src="/images/social_media_icons/book.png" width="20" height="20"><a href="https://www.mdpi.com/2410-3888/8/8/384"><i><b>view my most recent publication</b></i></a><br><br>
 	
 	
