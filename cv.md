@@ -15,7 +15,7 @@
 
 <a href="https://jeremyspool.com"><b>Dr. Jeremy Spool</b></a> is a postdoctoral researcher in the Wallace Lab. Dr. Spool completed his PhD at the University of Wisconsin, Madison. His doctoral research studied how limited resources and hormones affect the brain and behavior in Eurpoean starlings and Common Loons. Prior to joining the Wallace Lab, Dr. Spool conducted postdoctoral research at UMass Amherst to understand how social auditory information reaches hormone-sensitive brain regions in Zebra finches. <br><br>
 
-This work would not be possible without all the excellent undergraduate researchers who have conducted research in the Wallace Lab! Below is a list of Amherst College undergraduate researchers:<br>
+This work would not be possible without all the excellent undergraduate researchers who have conducted research in the Wallace Lab! Below is a list of Amherst College undergraduate researchers:<br><br>
 Sunnie Noh (thesis student, 2025)<br>
 Sasha Heywood (thesis student, 2025)<br>
 Olivia Chima Anyanka<br>
