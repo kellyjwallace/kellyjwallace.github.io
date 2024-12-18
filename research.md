@@ -17,8 +17,7 @@ The fighting fish <i>Betta splendens</i>, long studied for its aggressive territ
 Early life social rearing has profound consequences on offspring behavior and resilience. Yet most studies examining early life development in rodents use species whose young are born immobile and do not produce complex social behavior until later in development. Furthermore, models of rearing under increased social complexity, rather than social deprivation, are needed to provide alternative insight into the development of social neural circuitry. In her postdoctoral research Dr. Wallace manipulated early life social complexity in the spiny mouse <i>Acomys cahirinus</i>. Early life social experience did not influence adult behavior, but it did influence social processing: lateral septal neural responses toward a novel conspecific and hypothalamic neural responses toward a novel mixed-sex group differed in animals raised in socially complex and socially simple environments. Her work suggests that communal species may exhibit robust behavioral resilience to the early life social environment, but the early life environment can affect how novel social information is processed in the brain during adulthood. <br><br>
 
 
-<p><center><img src="/images/BFL.jpg" height="350"> </center></p>
-<p style="text-align:center;font-size:80%"><i><font color="darkslateblue"> catching mosquitofish at Brackenridge Field Labs, Austin TX</font></i></p>
+<p><img src="/images/choose texas gif 2019.gif"></p>
 
 
 <p style="text-align:left;font-size:120%"><b><font color="darkslateblue">University of Texas at Austin: Assessing cognitive variation by sex and dominance status in Gambusia affinis and Astatotilapia burtoni</font></b><br></p>
