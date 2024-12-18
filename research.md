@@ -21,7 +21,7 @@ Early life social rearing has profound consequences on offspring behavior and re
 <p style="text-align:center;font-size:80%"><i><font color="darkslateblue"> catching mosquitofish at Brackenridge Field Labs, Austin TX</font></i></p>
 
 
-<p style="text-align:left;font-size:120%"><b><font color="darkslateblue">University of Texas at Austin: Assessing Cognitive Variation by Sex and Dominance Status in Gambusia affinis and Astatotilapia burtoni</font></b><br></p>
+<p style="text-align:left;font-size:120%"><b><font color="darkslateblue">University of Texas at Austin: Assessing cognitive variation by sex and dominance status in Gambusia affinis and Astatotilapia burtoni</font></b><br></p>
 
 During her doctoral research Dr. Wallace assessed male <i>Astatotilapia burtoni</i>, an African cichlid fish known for its dynamic social dominance hierarchies, in a set of cognitive tasks both before and after a community perturbation in which some individuals ascended in dominance status to become territorial. Dr. Wallace discovered that ascending males changed their physiology and novel object recognition preference during the perturbation, and they subsequently differed in social competence from subordinate individuals. Additionally, Dr. Wallace identified specific cognitive and physiological attributes that appeared to predispose certain individuals to ascend in social status. These previously undiscovered relationships between social ascent and cognition emphasized the broad influence of social dominance on animal decision-making.
 
