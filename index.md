@@ -14,15 +14,11 @@
 <a href="https://github.com/kellyjwallace/"> <img src="/images/social_media_icons/github.png" width="40" height="40"></a>
 
 <p><img src="/images/choose texas gif 2019.gif"></p>
-
-<h1><b>Featured: <br></b>Joining the Biology Department at Amherst College (Jan 2024) </h1>
-<hr style="height:9px;color:#84949B">
-	
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’m thrilled to share that I’ll be joining the wonderful faculty in the Biology Department at Amherst College! Special thanks to <a href="https://twitter.com/AubreyMKelly?ref_src=twsrc%5Etfw">@AubreyMKelly</a> for being such a supportive postdoc mentor, you&#39;ve really been in my corner this academic job cycle! <a href="https://t.co/uqfon7cDKZ">pic.twitter.com/uqfon7cDKZ</a></p>&mdash; Kelly Wallace (@KJeanWallace) <a href="https://twitter.com/KJeanWallace/status/1602474853642149889?ref_src=twsrc%5Etfw">December 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-	
 	
 <h1>Recent News</h1>
 <hr style="height:9px;color:#84949B">
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’m thrilled to share that I’ll be joining the wonderful faculty in the Biology Department at Amherst College! Special thanks to <a href="https://twitter.com/AubreyMKelly?ref_src=twsrc%5Etfw">@AubreyMKelly</a> for being such a supportive postdoc mentor, you&#39;ve really been in my corner this academic job cycle! <a href="https://t.co/uqfon7cDKZ">pic.twitter.com/uqfon7cDKZ</a></p>&mdash; Kelly Wallace (@KJeanWallace) <a href="https://twitter.com/KJeanWallace/status/1602474853642149889?ref_src=twsrc%5Etfw">December 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A new publication to announce a new chapter in my research: Betta splendens! This study began as Solanch Dupeyron’s undergraduate thesis at Emory, and I’m so proud that her work became part of the <a href="https://twitter.com/hashtag/mdpifishes?src=hash&amp;ref_src=twsrc%5Etfw">#mdpifishes</a> Special Issue on Cognitive Variation in Fishes. <a href="https://t.co/lffQznKfvj">https://t.co/lffQznKfvj</a></p>&mdash; Kelly Wallace (@KJeanWallace) <a href="https://twitter.com/KJeanWallace/status/1683871814030688263?ref_src=twsrc%5Etfw">July 25, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 	
