@@ -3,7 +3,7 @@
 <div class="container">
 <div class="blurb">
 <p style="text-align:left;font-size:120%">Dr. Kelly J Wallace is a behavioral ecologist investigating how the social environment influences cognition. Research in the Wallace Lab integrates across behavioral, physiological, and neuromolecular perspectives. <br><br>
-<i>The Wallace Lab aims to understand how an individual's social environment influences their decisions. This research builds on the foundational literature of social neuroendocrinology by incorporating cognitive and eco-evolutionary frameworks. The Lab explores these topics using fish species (Betta splendens and Astatotilapia burtoni) that are well known for their dynamic social interactions. <br></i></p> 
+<i>The Wallace Lab aims to understand how an individual's social environment shapes their decisions. This research builds on the foundational literature of social neuroendocrinology by incorporating cognitive and eco-evolutionary frameworks. The Lab explores these topics using fish species (Betta splendens and Astatotilapia burtoni) that are well known for their dynamic social interactions. <br></i></p> 
 	
 <p style="text-align:center;font-size:110%">
 <img src="/images/social_media_icons/gmail.png" width="20" height="20"><a href="mailto:kewallace@amherst.edu"><i><b>kewallace@amherst.edu</b></i></a><br>
