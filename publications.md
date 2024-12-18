@@ -6,7 +6,7 @@
 <h1>Publications</h1>
 <hr style="height:9px;color:#84949B"><br>
 
-<b>KJ Wallace</b>, S Dupeyron, M Li, AM Kelly (2023) <i>Early life social complexity shapes adult neural processing in the communal spiny mouse Acomys cahirinus</i> Psychopharmacology.<br><br>
+<b>KJ Wallace</b>, S Dupeyron, M Li, AM Kelly (2023) <i>Early life social complexity shapes adult neural processing in the communal spiny mouse Acomys cahirinus.</i> Psychopharmacology.<br><br>
 
 S Dupeyron & <b>KJ Wallace</b> (2023) <i>Quantifying the neural and behavioral correlates of repeated social competition in the fighting fish Betta splendens.</i> Fishes 8(8):384.<br>
 <a href="https://kellyjwallace.github.io/images/published_works/Dupeyron_Wallace_2023_betta.pdf"><i>click here for PDF</i></a>
