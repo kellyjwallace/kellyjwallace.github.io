@@ -17,8 +17,6 @@
 <a href="https://scholar.google.com/citations?user=y8kYZGAAAAAJ&hl=en&oi=ao"> <img src="/images/social_media_icons/googlescholar.png" width="40" height="40"></a>
 <a href="https://orcid.org/0000-0002-2361-1213"> <img src="/images/social_media_icons/orcid.png" width="40" height="40"></a>
 <a href="https://github.com/kellyjwallace/"> <img src="/images/social_media_icons/github.png" width="40" height="40"></a>
-
-<p><img src="/images/choose texas gif 2019.gif"></p>
 	
 <h1>News</h1>
 <hr style="height:9px;color:#84949B">
