@@ -2,19 +2,16 @@
 		
 <div class="container">
 <div class="blurb">
-<p style="text-align:left;font-size:120%">I am a behavioral ecologist investigating how the social environment influences cognition. My research integrates across behavioral, physiological, and neuromolecular perspectives. <br><br>
-<i>I'm interested in understanding how an individual's social environment and their own social phenotype influences how they make decisions. I have researched this topic in rodent (M. ochrogaster, A. cahirinus) and fish (G. affinis, A. burtoni, B. splendens) species that are well known for their dynamic social interactions. My work builds on the foundational literature of social neuroendocrinology by incorporating cognitive and eco-evolutionary frameworks.<br></i></p>
+<p style="text-align:left;font-size:120%">Dr. Kelly J Wallace is a behavioral ecologist investigating how the social environment influences cognition. Research in the Wallace Lab integrates across behavioral, physiological, and neuromolecular perspectives. <br><br>
+<i>The Wallace Lab aims to understand how an individual's social environment influences their decisions. This research builds on the foundational literature of social neuroendocrinology by incorporating cognitive and eco-evolutionary frameworks. The Lab explores these topics using fish species (Betta splendens and Astatotilapia burtoni) that are well known for their dynamic social interactions. <br></i></p> 
 	
 <p style="text-align:center;font-size:110%">
 <img src="/images/social_media_icons/gmail.png" width="20" height="20"><a href="mailto:kewallace@amherst.edu"><i><b>kewallace@amherst.edu</b></i></a><br>
 	<img src="/images/social_media_icons/book.png" width="20" height="20"><a href="https://www.mdpi.com/2410-3888/8/8/384"><i><b>view my most recent publication</b></i></a><br><br>
 	
-	
-<a href="https://twitter.com/KJeanWallace"> <img src="/images/social_media_icons/twitter.png" width="40" height="40"></a>
 <a href="https://scholar.google.com/citations?user=y8kYZGAAAAAJ&hl=en&oi=ao"> <img src="/images/social_media_icons/googlescholar.png" width="40" height="40"></a>
 <a href="https://orcid.org/0000-0002-2361-1213"> <img src="/images/social_media_icons/orcid.png" width="40" height="40"></a>
 <a href="https://github.com/kellyjwallace/"> <img src="/images/social_media_icons/github.png" width="40" height="40"></a>
-<a href="https://www.researchgate.net/profile/Kelly_Wallace2"> <img src="/images/social_media_icons/researchgate.png" width="40" height="40"></a>
 
 <p><img src="/images/choose texas gif 2019.gif"></p>
 
