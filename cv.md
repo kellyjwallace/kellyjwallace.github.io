@@ -13,6 +13,8 @@
 <a href="https://kellyjwallace.github.io/images/Kelly_Wallace_curriculum_vita_2023.pdf"><i><b>if PDF is not displaying properly please click here for Dr. Wallace's CV </b></i></a><br><br>
 <embed src="https://kellyjwallace.github.io/images/Kelly_Wallace_curriculum_vita_2023.pdf" width="900px" height="800px" />
 
+<b>Dr. Elaine Aquino Vasquez</b> is a research technician in the Wallace Lab. Dr. Aquino Vasquez completed her PhD at the University of Nevada, Las Vegas. Her doctoral research on neural regeneration following brain injury assessed the effects of various therapeutic treatments on microgia morphology. <br>
+
 
 	
 
