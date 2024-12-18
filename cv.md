@@ -2,7 +2,7 @@
 		
 <div class="container">
 <div class="blurb">
-<h1>Curriculum Vitae</h1>
+<h1>People</h1>
 
 <hr style="height:9px;color:#84949B">
 
