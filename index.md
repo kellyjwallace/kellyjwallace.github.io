@@ -9,6 +9,8 @@
 <b>Are you an Amherst College undergraduate interested in joining the lab?</b> Please fill out the questionnaire linked here **link will be live soon!* and email the form to Dr. Wallace.
 
 </p> 
+
+<p><center><img src="/images/kelly3.png" width="400"> </center></p>
 	
 <p style="text-align:center;font-size:110%">
 <img src="/images/social_media_icons/gmail.png" width="20" height="20"><a href="mailto:kewallace@amherst.edu"><i><b>kewallace@amherst.edu</b></i></a><br>
