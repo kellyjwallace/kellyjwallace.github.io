@@ -24,6 +24,9 @@ Sura Zhang<br>
 Dominion Femi-Jegede<br>
 Temidayo Bambe<br>
 
+<p><center><img src="/images/betta gif.gif" width="600"></center></p>
+
+
 	
 
 <br><br>	
