@@ -7,7 +7,7 @@
 
 
 <p style="text-align:left;font-size:120%"><b><font color="darkslateblue">Amherst College: The neuroscience of social decision-making in fighting fish </font></b><br></p>
-The fighting fish <i>Betta splendens</i>, long studied for its aggressive territorial competitions, has the potential to be a scientific model system for studying the intersection of cognitive ecology and social neuroscience. Yet, few researchers have assessed the neural mechanisms underlying their dramatic territorial displays. The Wallace lab uses behavioral testing and imaging of immunohistochemically labeled neural tissue to understand how the brain shapes (and is shaped) by aggressive competitions.
+The fighting fish <i>Betta splendens</i>, long studied for its aggressive territorial competitions, has the potential to be a scientific model system for studying the intersection of cognitive ecology and social neuroscience. Yet, few researchers have assessed the neural mechanisms underlying their dramatic territorial displays. The Wallace lab uses behavioral testing and imaging of immunohistochemically labeled neural tissue to understand how the brain shapes (and is shaped by) aggressive competitions.
  <br><br>
 
 <p><center><img src="/images/Wallace african spiny mouse gif 2021.gif" height="350"> </center></p>
