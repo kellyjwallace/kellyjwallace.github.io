@@ -10,7 +10,7 @@
 
 </p> 
 
-<p><center><img src="/images/lab_photo_collage.JPG" width="800"> </center></p>
+<p><center><img src="/images/lab_photo_collage.JPG" width="1000"> </center></p>
 	
 <p style="text-align:center;font-size:110%">
 <img src="/images/social_media_icons/gmail.png" width="20" height="20"><a href="mailto:kewallace@amherst.edu"><i><b>kewallace@amherst.edu</b></i></a><br>
