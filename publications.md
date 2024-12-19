@@ -6,7 +6,7 @@
 <h1>Publications</h1>
 <hr style="height:9px;color:#84949B"><br>
 
-Crescencio GA, Femi-Jegede OD, Zhang J, Aquino Vasquez EA, and <b>KJ Wallace</b> <i>An Integrative Brain and Behavior CURE (Course-Based Undergraduate Research Experience) using immunohistochemistry in the fighting fish Betta splendens.</i> (in press at Journal of Undergraduate Neuroscience Education.<br><br>
+Crescencio GA, Femi-Jegede OD, Zhang J, Aquino Vasquez EA, and <b>KJ Wallace</b> <i>An Integrative Brain and Behavior CURE (Course-Based Undergraduate Research Experience) using immunohistochemistry in the fighting fish Betta splendens.</i> (in press at Journal of Undergraduate Neuroscience Education).<br><br>
 
 <b>KJ Wallace</b>, S Dupeyron, M Li, AM Kelly (2023) <i>Early life social complexity shapes adult neural processing in the communal spiny mouse Acomys cahirinus.</i> Psychopharmacology 1-16.<br>
 <a href="https://kellyjwallace.github.io/images/published_works/Wallace_et_al_2023_early_life_complexity_spiny.pdf"><i>click here for PDF</i></a>
