@@ -6,7 +6,7 @@
 <h1>Publications</h1>
 <hr style="height:9px;color:#84949B"><br>
 
-<b>KJ Wallace</b>, S Dupeyron, M Li, AM Kelly (2023) <i>Early life social complexity shapes adult neural processing in the communal spiny mouse Acomys cahirinus.</i> Psychopharmacology.<br><br>
+<b>KJ Wallace</b>, S Dupeyron, M Li, AM Kelly (2023) <i>Early life social complexity shapes adult neural processing in the communal spiny mouse Acomys cahirinus.</i> Psychopharmacology.<br>
 <a href="https://kellyjwallace.github.io/images/published_works/Wallace_et_al_2023_early_life_complexity_spiny.pdf"><i>click here for PDF</i></a>
 or access at <a href = "https://link.springer.com/article/10.1007/s00213-023-06513-5"><i>doi.org/10.1007/s00213-023-06513-5</i></a><br><br>
 
