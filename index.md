@@ -8,7 +8,7 @@
 
 <p><center><img src="/images/lab_photo_collage.JPG" width="1400"> </center></p>
 
-<b>Are you an Amherst College undergraduate interested in joining the lab?</b> 
+<b>Are you an Amherst College undergraduate interested in joining the lab?</b> <br><br>
 
 
 Thank you so much for your interest! Importantly, I only allow students to do research in my lab via two mechanisms: SURF or a Senior Honors Thesis. I unfortunately do not offer open lab meetings or shadow opportunities. If you do not qualify for the two mechanisms listed, please take my class <a href="https://www.amherst.edu/academiclife/departments/courses/2324S/BIOL/BIOL-313-2324S"><b>BIOL/NEUR 313: Social Neuroendocrinology</b></a>! In the class you design and conduct a semester-long hands on research experience that involves live animal handling, immunohistochemical staining of brain tissue, and microscopy, teaching you all the same skills you would learn doing research in my lab.<br><br>
