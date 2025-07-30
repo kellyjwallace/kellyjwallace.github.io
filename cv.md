@@ -13,8 +13,6 @@
 
 <a href="https://www.linkedin.com/in/elaine-aquino-vasquez-3886081bb"><b>Dr. Elaine Aquino Vasquez</b></a> is a research technician in the Wallace Lab. Dr. Aquino Vasquez completed her PhD at the University of Nevada, Las Vegas. Her doctoral research on neural regeneration following brain injury assessed the effects of various therapeutic treatments on microglia morphology. <br><br>
 
-<b>Former Lab Members:</b><br><br>
-<a href="https://jeremyspool.com"><b>Dr. Jeremy Spool</b></a> conducted postdoctoral research in the Wallace Lab in 2025. Dr. Spool completed his PhD at the University of Wisconsin, Madison. His doctoral research studied how limited resources and hormones affect the brain and behavior in Eurpoean starlings and Common Loons. Prior to joining the Wallace Lab, Dr. Spool conducted postdoctoral research at UMass Amherst to understand how social auditory information reaches hormone-sensitive brain regions in Zebra finches. Dr. Spool is now a Lecturer in Neurobiology at University of Massachusetts Amherst.<br><br>
 
 <b>Amherst College undergraduate researchers in the Wallace Lab (former and current!):</b><br><br>
 Olivia Chima Anyanka (thesis student, 2026)<br>
@@ -25,6 +23,9 @@ Ayres Warren<br>
 Sura Zhang<br>
 Dominion Femi-Jegede<br>
 Temidayo Bambe<br>
+
+<b>Former Lab Members:</b><br><br>
+<a href="https://jeremyspool.com"><b>Dr. Jeremy Spool</b></a> conducted postdoctoral research in the Wallace Lab in 2025. Dr. Spool completed his PhD at the University of Wisconsin, Madison. His doctoral research studied how limited resources and hormones affect the brain and behavior in Eurpoean starlings and Common Loons. Prior to joining the Wallace Lab, Dr. Spool conducted postdoctoral research at UMass Amherst to understand how social auditory information reaches hormone-sensitive brain regions in Zebra finches. Dr. Spool is now a Lecturer in Neurobiology at University of Massachusetts Amherst.<br><br>
 
 
 <p><center><img src="/images/betta gif.gif" width="100"></center></p>
