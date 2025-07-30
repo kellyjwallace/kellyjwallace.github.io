@@ -6,7 +6,7 @@
 	
 <i>The Wallace Lab uses behavioral, physiological, and neuromolecular techniques to understand how an individual's social environment shapes their decisions. This research builds on the foundational literature of social neuroendocrinology by incorporating cognitive and eco-evolutionary frameworks. The lab explores these topics using fish species (Betta splendens and Astatotilapia burtoni) that are known for their dynamic social interactions. <br><br></i>
 
-<p><center><img src="/images/lab_photo_collage.JPG" width="1400"> </center></p>
+<p><center><img src="/images/lab_photo_collage_2025.JPG" width="1400"> </center></p>
 
 <b>Are you an Amherst College undergraduate interested in joining the lab?</b> <br><br>
 
