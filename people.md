@@ -9,8 +9,7 @@
 <p><center><img src="/images/kelly3.png" width="400"> </center></p>
 
 <p style="text-align:left;font-size:110%"><b>Dr. Kelly Miller-Wallace</b> grew up in Easton, Pennsylvania and earned her bachelor's degree in Biology at Cornell University with a minor in Music. At Cornell she researched prairie vole behavior in the lab of Dr. Alex Ophir. In 2020 she completed her PhD in Ecology, Evolution, and Behavior at the University of Texas at Austin. Her dissertation explored social decision-making in fish, advised by Dr. Hans Hofmann & Dr. Mike Ryan. In 2021 she conducted postdoctoral research in the lab of Dr. Aubrey Kelly at Emory University with the funding of an NSF PRFB, where she investigated early life social development in the communal spiny mouse. In 2024 she joined the Amherst College Department of Biology & Program in Neuroscience. When she's not staring at fish brains, you can find Dr. Wallace ice skating or growing ground cherries in her garden.
-	
-<br><br><a href="https://kellyjwallace.github.io/images/Wallace_CV_2025.pdf"><b>Please click here for Dr. Wallace's CV </b></a>
+<br><a href="https://kellyjwallace.github.io/images/Wallace_CV_2025.pdf"><b>Please click here for Dr. Wallace's CV </b></a>
 <br><br>
 
 <a href="https://www.linkedin.com/in/elaine-aquino-vasquez-3886081bb"><b>Dr. Elaine Aquino Vasquez</b></a> is a research technician in the Wallace Lab. Dr. Aquino Vasquez completed her PhD at the University of Nevada, Las Vegas. Her doctoral research on neural regeneration following brain injury assessed the effects of various therapeutic treatments on microglia morphology. <br><br>
