@@ -6,11 +6,11 @@
 <h1>Publications</h1>
 <hr style="height:9px;color:#84949B"><br>
 
-<b>Wallace KJ</b>, Noh H, Bautista AI, Green A, and Kelly AM (2026) <i>Exposure to early life social complexity shapes vasopressin and galanin neural expression in the communal spiny mouse..</i> Neuroscience 600:92-103.<br>
+<b>Wallace KJ</b>, Noh H, Bautista AI, Green A, and Kelly AM (2026) <i>Exposure to early life social complexity shapes vasopressin and galanin neural expression in the communal spiny mouse.</i> Neuroscience 600: 92-103.<br>
 <a href="https://kellyjwallace.github.io/images/published_works/Wallace_et_al_2026_spiny_neurodevelopment.pdf"><i>click here for PDF</i></a>
 or access at <a href = "https://doi.org/10.1016/j.neuroscience.2026.02.019 "><i>doi.org/10.1016/j.neuroscience.2026.02.019 </i></a><br><br>
 
-Crescencio GA, Femi-Jegede OD, Zhang J, Aquino Vasquez EA, and <b>KJ Wallace</b> (2024) <i>An Integrative Brain and Behavior CURE (Course-Based Undergraduate Research Experience) using immunohistochemistry in the fighting fish Betta splendens.</i> Journal of Undergraduate Neuroscience Education 23(1):A17-A25.<br>
+Crescencio GA, Femi-Jegede OD, Zhang J, Aquino Vasquez EA, and <b>KJ Wallace</b> (2024) <i>An Integrative Brain and Behavior CURE (Course-Based Undergraduate Research Experience) using immunohistochemistry in the fighting fish Betta splendens.</i> Journal of Undergraduate Neuroscience Education 23(1): A17-A25.<br>
 <a href="https://kellyjwallace.github.io/images/published_works/Crescensio_et_al_2024_pedagogy.pdf"><i>click here for PDF</i></a>
 or access at <a href = "https://doi.org/10.59390/AFSC6949"><i>doi.org/10.59390/AFSC6949</i></a><br><br>
 
