@@ -16,6 +16,8 @@
 
 
 <b>Amherst College undergraduate researchers in the Wallace Lab (former and current!):</b><br><br>
+Nazario Ramos<br>
+Jahzara Wilson<br>
 Olivia Chima Anyanka (thesis student, 2026)<br>
 Evan Yang (thesis student, 2026)<br>
 Sunnie Noh (thesis student, 2025)<br>
