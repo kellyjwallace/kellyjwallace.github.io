@@ -26,9 +26,9 @@ Dominion Femi-Jegede<br>
 Temidayo Bambe<br><br>
 
 <p style="text-align:left;font-size:120%"><b><font color="darkslateblue">Former Lab Members:</font></b><p>
-<a href="https://jeremyspool.com"><b>Dr. Jeremy Spool</b></a> conducted postdoctoral research in the Wallace Lab in 2025. His work explored how repeated territorial competitions influenced neurogenesis patterns in Betta fish. Prior to joining the Wallace Lab, Dr. Spool completed his PhD at the University of Wisconsin, Madison. His doctoral research studied how limited resources and hormones affect the brain and behavior in Eurpoean starlings and Common Loons. Dr. Spool then conducted postdoctoral research at UMass Amherst to understand how social auditory information reaches hormone-sensitive brain regions in Zebra finches. Dr. Spool is now a Lecturer in Neurobiology at University of Massachusetts Amherst.<br><br>
+<a href="https://jeremyspool.com"><b>Dr. Jeremy Spool</b></a> conducted postdoctoral research in the Wallace Lab in 2025. His work explored how repeated territorial competitions influenced neurogenesis patterns in Betta fish. Prior to joining the Wallace Lab, Dr. Spool completed his PhD at the University of Wisconsin, Madison. His doctoral research studied how limited resources and hormones affect the brain and behavior in Eurpoean starlings and Common Loons. Dr. Spool then conducted postdoctoral research at UMass Amherst in the lab of Dr. Luke Remage-Healey to understand how social auditory information reaches hormone-sensitive brain regions in zebra finches. Dr. Spool is now a Lecturer in Neurobiology at UMass Amherst.<br><br>
 
-<b>Ruth Berganross</b> is a postbaccalaureate researcher in the Wallace Lab. Ruth Berganross completed her undergraduate degree at UMass Amherst studying Psychology and Biology. At UMass she conducted an honors thesis on auditory and social behavior processing in zebra finches. <br><br>
+<b>Ruth Berganross</b> conducted postbaccalaureate research in the Wallace Lab in 2025-2026. Ruth completed her undergraduate degree at UMass Amherst studying Psychology and Biology. At UMass Amherst she conducted an honors thesis on auditory and social behavior processing in zebra finches in the lab of Dr. Luke Remage-Healey. <br><br>
 
 
 <p><center><img src="/images/betta gif.gif" width="100"></center></p>
