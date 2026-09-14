@@ -25,7 +25,7 @@ Thank you again for your research interest!
 	
 <p style="text-align:center;font-size:110%">
 <img src="/images/social_media_icons/gmail.png" width="20" height="20"><a href="mailto:kewallace@amherst.edu"><i><b>kewallace@amherst.edu</b></i></a><br>
-	<img src="/images/social_media_icons/book.png" width="20" height="20"><a href="https://doi.org/10.59390/AFSC6949"><i><b>view the lab's most recent publication</b></i></a><br><br>
+	<img src="/images/social_media_icons/book.png" width="20" height="20"><a href="https://journals.biologists.com/jeb/article/doi/10.1242/jeb.252766/372793/"><i><b>view the lab's most recent publication</b></i></a><br><br>
 	
 <a href="https://scholar.google.com/citations?user=y8kYZGAAAAAJ&hl=en&oi=ao"> <img src="/images/social_media_icons/googlescholar.png" width="40" height="40"></a>
 <a href="https://orcid.org/0000-0002-2361-1213"> <img src="/images/social_media_icons/orcid.png" width="40" height="40"></a>
