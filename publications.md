@@ -6,7 +6,7 @@
 <h1>Publications</h1>
 <hr style="height:9px;color:#84949B"><br>
 
-EA Aquino, ER Stern, AM Romero, JA Spool, TD Bambe#, TK Solomon-Lane, and <b>KJ Wallace</b> (2026) <i>Behavior in asymmetric dominance pairings predicts physiology, neural response, and neurogenesis in a social cichlid fish.</i> Frontiers in Ethology 5:1888727.<br>
+EA Aquino, ER Stern, AM Romero, JA Spool, TD Bambe, TK Solomon-Lane, and <b>KJ Wallace</b> (2026) <i>Behavior in asymmetric dominance pairings predicts physiology, neural response, and neurogenesis in a social cichlid fish.</i> Frontiers in Ethology 5:1888727.<br>
 <a href="http://kellyjwallace.github.io/images/published_works/Aquino_et_al_cichlid_2026.pdf"><i>click here for PDF</i></a>
 or access at <a href = "https://doi.org/10.3389/fetho.2026.1888727"><i>doi.org/10.3389/fetho.2026.1888727 </i></a><br><br>
 
