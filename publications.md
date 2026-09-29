@@ -7,7 +7,7 @@
 <hr style="height:9px;color:#84949B"><br>
 
 EA Aquino, ER Stern, AM Romero, JA Spool, TD Bambe#, TK Solomon-Lane, and <b>KJ Wallace</b> (2026) <i>Behavior in asymmetric dominance pairings predicts physiology, neural response, and neurogenesis in a social cichlid fish.</i> Frontiers in Ethology 5:1888727.<br>
-<a href="https://kellyjwallace.github.io/images/published_works/Aquino_et_al_cichlid_2026.pdf"><i>click here for PDF</i></a>
+<a href="http://kellyjwallace.github.io/images/published_works/Aquino_et_al_cichlid_2026.pdf"><i>click here for PDF</i></a>
 or access at <a href = "https://doi.org/10.3389/fetho.2026.1888727"><i>doi.org/10.3389/fetho.2026.1888727 </i></a><br><br>
 
 <b>Wallace KJ</b>, Noh H, Bautista AI, Green A, and Kelly AM (2026) <i>Exposure to early life social complexity shapes vasopressin and galanin neural expression in the communal spiny mouse.</i> Neuroscience 600: 92-103.<br>
