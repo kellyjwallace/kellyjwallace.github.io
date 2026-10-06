@@ -5,6 +5,9 @@
 	
 <h1>Publications</h1>
 <hr style="height:9px;color:#84949B"><br>
+JA Spool, AJA Heywood, REW Berganross, EA Aquino, TD Bambe, and <b>KJ Wallace</b> (2026) <i>Repeated competition influences neural response, but not neurogenesis or physiology, in the fighting fish Betta splendens.</i> Journal of Experimental Biology 229:jeb252766.<br>
+<a href="http://kellyjwallace.github.io/images/published_works/2026 Spool et al Repeated Competition JEB.pdf"><i>click here for PDF</i></a>
+or access at <a href = "https://doi.org/10.1242/jeb.252766"><i>doi:10.1242/jeb.252766 </i></a><br><br>
 
 EA Aquino, ER Stern, AM Romero, JA Spool, TD Bambe, TK Solomon-Lane, and <b>KJ Wallace</b> (2026) <i>Behavior in asymmetric dominance pairings predicts physiology, neural response, and neurogenesis in a social cichlid fish.</i> Frontiers in Ethology 5:1888727.<br>
 <a href="http://kellyjwallace.github.io/images/published_works/Aquino_et_al_cichlid_2026.pdf"><i>click here for PDF</i></a>
